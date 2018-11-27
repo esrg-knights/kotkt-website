@@ -1,0 +1,494 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+
+.NavBarRoot{
+    position: fixed;
+    height: 50px;
+    top: 0;
+    width: 100%;
+    z-index: 40;
+}
+
+.NavBarHeader{
+    max-width: 800px;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    z-index: 10000000;
+}
+.NavBarHeader > *{
+    float: left;
+}
+
+input#navMenu{ display: none}
+
+.NavBarImage{
+
+    background-size:100% 100%;
+    margin: 0 0 0 10px;
+}
+
+
+.NavBarMenu {
+    list-style-type: none;
+}
+
+.NavBarMenu > Li{
+    line-height: 50px;
+
+    vertical-align:middle;
+    padding: 0 10px;
+}
+
+.NavBarMenu > Li > a > .doubleline{
+    line-height: 25px;
+    text-align: center;
+}
+
+.NavBarMenu > Li > a, .dropdown-menu > Li > a{
+    display: block;
+    height: 100%;
+    width: 100%;
+    padding: 0 10px;
+}
+
+
+
+
+.dropdown-menu {
+    display: none;
+    margin-top: 0;
+    position: absolute;
+    list-style-type: none;
+    min-width: 160px;
+    margin-left: -10px;
+    z-index: 1;
+    padding: 0;
+}
+.dropdown-menu > * {
+    padding: 0 16px;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.Main{
+    overflow: hidden;
+    position: absolute;
+    margin: 0 auto 0 auto;
+    padding: 0;
+
+    width: 100%;
+    min-height: 100vh;
+    z-index: -5;
+}
+
+.MainScreen{
+    /*Width = width + padding-left + padding-right*/
+    padding: 0 10px 0 100px;
+    max-width: 690px;
+    position: relative;
+    margin: 0 auto;
+    height: 100%;
+}
+
+
+
+.buttons{
+
+}
+
+
+
+.contentWidthImage, .fullWidthImage, .backgroundImage{
+    background-position:center center;
+    background-size:cover;
+}
+
+.textImage{
+    background-size: 100%;
+}
+
+.contentWidthImage, .fullWidthImage, .textImage{
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.imageFixedToViewport{
+    background-attachment: fixed;
+}
+
+
+
+
+.MainScreen .contentWidthImage{
+    max-width: 100vw;
+    width: 800px;
+    /*left: -100px;*/
+    margin: 0 0 10px -100px;
+}
+
+.textImage .reference{
+    position: absolute;
+    margin: 0;
+    top:2px;
+    right: 2px;
+    text-align: right;
+    font-size: small;
+}
+
+.contentWidthImage h2, .contentWidthImage h1{
+    position: absolute;
+    left: 100px;
+    bottom:0;
+    margin: 0;
+
+}
+.contentWidthImage h2, .contentWidthImage h1, .fullWidthImage h2, .fullWidthImage h1{
+    color: #ffffff;
+    text-shadow: 0 0 2px black;
+}
+
+
+.contentFrame{
+    position: relative;
+    padding-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.backgroundImage{
+    position: absolute;
+    width: 100vw;
+    height: 100%;
+    z-index: -4;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.MainContentBackground{
+    overflow: visible;
+    width: 800px;
+    height: 0;
+    margin: auto;
+    z-index: -1;
+}
+
+.MainContentBackground_left, .MainContentBackground_right{
+    width: calc(50vw - 400px);
+    height:100%;
+
+    min-width: 0;
+    position: absolute;
+}
+
+.MainContentBackground_left{
+
+    margin-right: 800px;
+    right:0;
+    z-index: -2;
+}
+
+.MainContentBackground_mid{
+    height: 100%;
+    position: absolute;
+    /*margin-left: -400px;*/
+    width: 800px;
+    max-width: 100vw;
+}
+
+
+.MainContentBackground_right{
+    margin-left: 800px;
+    left: 0;
+}
+
+
+.FooterAdjuster{
+    margin: 0;
+}
+
+Footer {
+    position: absolute;
+    bottom: 0;
+    font-size: small;
+    width: 100%;
+}
+.FooterContent{
+    box-sizing: border-box;
+
+    margin: auto;
+    padding-left: 100px;
+
+    max-width: 800px;
+}
+.FooterContent > *{
+    float: left;
+}
+.Footer_titel{
+    font-size: medium;
+    font-weight: bold;
+}
+
+@media (max-width: 800px) {/*767 px*/
+    .NavBarRoot{
+        position: fixed;
+    }
+
+    .Title{
+        /*display: none;*/
+
+    }
+
+    .navMenuBox{
+        width: 50px;
+        height: 50px;
+        background: url("../Images/hamburger.svg") no-repeat center center;
+        fill:white;
+        background-size: cover;
+        position: absolute;
+        right: 0;
+        top: 0;
+        margin-left: -25px;
+    }
+    input#navMenu:checked ~ .navMenuBox{
+        background: url("../Images/cross.svg") no-repeat center center;
+    }
+
+    .NavBarMenu {
+        position: absolute;
+        max-height: 100%;
+        width: 100vw;
+        bottom: 50px;
+        margin-bottom: 0;
+        padding: 0;
+        font-size: large;
+    }
+
+    .NavBarContent{
+        position: absolute;
+        overflow: hidden;
+        left: 0;
+
+        max-height: 100vh;
+        width:100%;
+        /*margin-left: -200px;*/
+        z-index: -1;
+        transition: top 0.5s ease;
+        /*border-bottom: 20px solid #222222;*/
+        border-radius: 0 0 20px 0;
+    }
+
+    #navMenu:checked ~ .NavBarContent{
+        top: 0;
+        /*width:400px;*/
+    }
+
+/*
+    Footer {
+        height: 20px;
+    }*/
+    .FooterAdjuster{
+        padding: 0px 0 20px 0;
+    }
+/*
+    .FooterContent{
+        display: none;
+    }*/
+
+    .MainScreen .fullWidthImage{
+        width: 100vw;
+        /*left: -100px;*/
+        margin: 0 0 10px -100px;
+    }
+
+    .fullWidthImage h2, .fullWidthImage h1{
+        position: absolute;
+        left: 100px;
+        bottom:0;
+        margin: 0;
+    }
+
+    .backgroundImage{
+        left: 0;
+        margin: 0 0 0 -100px;
+
+    }
+
+    .leftAddition, .rightAddition{
+        display: none;
+    }
+
+    .languagebox {
+        text-align: center;
+        padding-right: 0px;
+
+    }
+/*
+    .languagebox {
+        display: inline-block;
+        padding: auto;
+        height: 100%;
+        width: 150px;
+    }
+    .languagebox > div > div{
+        margin-right: 20px;
+        text-align: right;
+    }
+
+    .languagebox > .dropdown > ul > Li{
+        height: 100%;
+        padding: 0;
+    }
+
+    .languagebox > .dropdown > ul > Li > a{
+        display: block;
+        height: 100%;
+        width: 100%;
+    }*/
+
+}
+
+.languagebox {
+    display: inline-block;
+    position: absolute;
+    line-height: 50px;
+    padding: auto;
+    height: 100%;
+    width: 150px;
+    right: 0;
+    top: 0;
+}
+
+@media (min-width: 800px){
+    .Title{
+        background-position:center center;
+        background-size:cover;
+        width: 100%;
+        /*position: relative;*/
+        /*top: 50px;*/
+        /*margin-bottom: -50px;*/
+
+    }
+
+    .navMenuBox{
+        display: none;
+    }
+
+    .NavBarMenu {
+        height: 100%;
+        margin: 0;
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .NavBarMenu > Li{
+        display: inline-block;
+    }
+
+    .NavBarMenu > Li, .dropdown-menu > Li{
+
+        height: 100%;
+        padding: 0;
+    }
+
+    .NavBarMenu > li > a > div{
+        position: relative;
+
+        left: -10px;
+    }
+
+    .NavBarMenu > .dropdown{
+        padding: 0 10px;
+    }
+
+    .languagebox {
+        text-align: center;
+    }
+
+    .FooterAdjuster{
+        margin: 0;
+    }
+
+    .MainScreen .fullWidthImage{
+        width: 100vw;
+        left: 43%;
+        margin: 0 0 10px -50vw;
+    }
+
+    .fullWidthImage h2, .fullWidthImage h1{
+        width: 100vw;
+        max-width: 800px;
+        margin: 0 0 0 -300px;
+        position: absolute;
+        left: 50%;
+        bottom:0;
+    }
+
+    .backgroundImage{
+        left: 43%;
+        margin: 0 0 0 -50vw;
+
+    }
+
+    .leftAddition{
+        position: absolute;
+        right: 55%;
+        width: 50vw;
+    }
+
+    .leftAddition > *{
+        position: relative;
+        margin-right: 400px;
+    }
+
+    .rightAddition{
+        position: absolute;
+        left: 45%;
+        width: 50vw;
+    }
+
+    .rightAddition > *{
+        position: relative;
+        margin-left: 400px;
+    }
+
+    .rightAddition > div  *, .leftAddition > div  *{
+        margin: auto;
+    }
+}
+
+
+
+
+
+
