@@ -1,0 +1,275 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[utf8]{inputenc}
+\usepackage{fourier} 
+\usepackage{array}
+\usepackage{makecell}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} 
+
+
+%Document margins
+%hah lol tabs
+\name{\tab [0.2cm]Privacy policy (ENGLISH) \\ \\ \tab[2.7cm] ESRG Knights of the Kitchen Table}
+\title{ESRG}
+
+
+\address{version 4.2} % Your address
+\address{5 March 2019} % Your secondary addess (optional)
+\address{Author: Tom Verberk} % Your phone number and email
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{General information}
+This document is a translated copy of the binding dutch version. This document is by no means binding. 
+
+This document is drafted in line with the european law regarding privacy. In this document the privacy policy of Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table is explained. \\ \\
+{\bf Name of the assosiation} \\
+The name of the assosiation is "Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table" or simply "ESRG Knights of the Kitchen Table" or "Knights". \\\\
+
+{\bf Contactperson association} \\
+The board is the contact of the associaton. \\ \\
+\textbf{Contact details association} \\
+\textit{ESRG Knights of the Kitchen Table can be reached by the following channels:} \\ \\
+\tab[1cm] \underline{Post:}\\ 
+\tab[1cm] De Lampendriessen 31 11 \\ 
+\tab[1cm] 5612AH  Eindhoven
+
+\tab[1cm] \underline{E-mail:} \\ 
+\tab[1cm] Info@kotkt.nl of bestuur@kotkt.nl
+
+\tab[1cm] \underline{by phone:}\\ 
+\tab[1cm] 06-51018209
+
+\tab[1cm] \underline{Website:}\\ 
+\tab[1cm] www.kotkt.nl
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	What do we do with our data
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Usage data}
+
+\textbf{Below we explain what we do with the given data.} \\
+For every option a member can indicate that his/her personal information can be used for this purpose. The only exception to this is the section Membership. We think that the information we ask in that part is necessary to become a member. All the other section are optional. \\ \\
+{\bf Membership} \\
+\begin{tabular}{ l l } 
+ - Personal information & Name + Address + Residence + Email + date of birth or study institution\textsuperscript{1} \\ 
+ - Agreement & Membership agreement, change by e-mail \\ 
+- Processing & members administration, dues, \\ & information\textsuperscript{2} and invitations for meetings\textsuperscript{2} \\
+ - Processing by who & The board \\
+ - Retention & base: two year after ending membership, \\ & barring the fiscal retention of seven year (if relevant). 
+\end{tabular}
+
+The knight keep track of the institution of our member, this way the board can check if a aspiring member can become a member since the Knights is a student association \textsuperscript{1}  and the amount of student sometimes is essential.
+
+{\bf Access to areas} \\
+\begin{tabular}{ l l } 
+ - Personal information & Name + Phone number \textsuperscript{3} + Student- and card number\textsuperscript{1} \\
+ - Agreement & Membership agreement, request via e-mail \\ 
+ - Processing & activate cards common rooms, getting key-access Knights room \\
+ - Processing by who & The board, Service internal affairs (DIZ) of de TU/e. \\
+ - Retention & during the membership period / undetermined\textsuperscript{4} \\
+\end{tabular} \\ \\
+Our association rooms have a lock. A key-code is required to get the key. Your personal information will be send to the DIZ of the TU/e, they will get you a code. The same holds for activation of external cards, the card access is needed for our common rooms.
+
+{\bf Activities with entry list and yearbooks} \\
+\begin{tabular}{ l l }
+ - Personal information & Name + Email \\
+- Optional Personal &  phone number + date of birth + allergies + medical complains + medication + \\& contact + phone number contact + ERO certificate + car\textsuperscript{5} \\ Information & facts about yourself \\
+ - Agreement & Entry list concerned activity , by e-mail, Questionform yearbook. \\ 
+ - Processing & participants administration, membership fees, transport to location, making yearbook. \\
+ - Processing by who & Members who organise concerned activity\textsuperscript{6 7}, yearbook committee \\
+ - Retention & a maximum of 3 months after completion activiteit \\
+\end{tabular} \\ \\
+Some activities have a registration, Concerned committees keep relevant information of attendees. This information will be saved by committees and will not be structurally saved by the association.
+Medical information will only be asked when deemed necessary.
+
+{\bf ERO's (BHV in duth)} \\
+\begin{tabular}{ l l }
+ - Personal information & Name + Phone number + Email + date of birth + ERO competence\\
+ - Agreement & Registration form, After getting a diploma.  \\ 
+ - Processing & arrange for ERO's for Scala-wide activities. \\
+ - Processing by who & The board, Scala, ERO-cursus organising parties, \\ &Service internal affairs (DIZ) of the TU/e \\
+ - Retention & during the membership period / undetermined \textsuperscript{4} \\
+\end{tabular} \\ \\
+Scala keeps a general list for all Scala members who have an ERO competence. 
+
+
+{\bf Other personal information} \\
+\begin{tabular}{ l l }
+ - Personal information & Name + phone number \textsuperscript{8} + boardgames/roleplayinggames\textsuperscript{9} \\ & + campaigns\textsuperscript{10} + committees\textsuperscript{11}\\ 
+- Optional personal information & phone number \\
+ - Agreement &Membership agreement, observation, through committee \\ 
+ - Processing & Administration \\
+ - Processing by who & The board, de boardgame committee, de roleplay committee\\
+ - Retention & during the membership period
+\end{tabular} \\ \\
+The board provides documents to members as recorded in the bylaws and internal regulations of ESRG Knights of the Kitchen Table. A example of such a document is the minutes and agenda of the general members meeting.
+We also keep track of the boardgames and/or roleplaying books of our members. This is done by the boardgame and/or roleplayocommittee, depending on the latter. This is done because members can get their board and roleplaying books on loan. 
+The board also keeps track which person is in which committee and in which campaigns a player plays. The board is allowed to spread this information, if deemed necessary, to other members.
+
+\newpage
+{\bf Internal imagery (including yearbooks)} \\
+\begin{tabular}{ l l }
+ - Personal information & Imagery\\
+ - Agreement & Membership agreement, by mail, by questionnaire yearbook \\
+ - Processing & Internal promotion, making a yearbook \\
+ - Processing by who & The board, the yearbookcommittee\textsuperscript{12} \\
+ - Retention & During the membership period/undetermined\textsuperscript{4} \\
+\end{tabular} \\ \\
+
+By rejecting this point, the member will be asked for permission by every single publication. \\
+
+
+{\bf External imagery (including promotion)} \\
+\begin{tabular}{ l l }
+ - Personal information & Imagery \\
+ - Agreement & subscription form, by mail\\ 
+ - Processing & external promotion for social media or website \\
+ - Processing by who & The board, the promotion committee \\
+ - Retention & During the membership period/ undetermined\textsuperscript{4} \\
+\end{tabular} \\ \\
+
+Promotion on our website and/or social media is sometimes done by using imagery.
+By rejecting this point, the member will be asked for permission for every single publication.
+
+{\bf Extra information for the tables above} \\
+1. Take at look at our bylaws for the difference between a normal membership and a special membership, briefly: If you are not a member of a higher education in Eindhoven you have to receive a special membership which requires an exception from the board. In this case we do not require your student information. When you study outside of Eindhoven we do need to know your educational institution.
+2. Our official communication is by e-mail. \\
+3. Only for access to keys. \\
+4. We can only account for our own administration, we cannot make any promises for other institutions. For this information look at their own policy. \\
+5. Meaning being able to come by car to the concerned activity.
+6. \textit{See: access to data} \\
+7. If such a activity is done by members then the responsible members name should be clearly visible on the promotion. \\
+8. Only when chairman/woman of a committee or "leader" of a campaign. \\
+9. We keep track of he roleplaying books and boardgames given in loan to us.
+10. Being part of a campaign, this can be a roleplaying campaign or a boardgame campaign. A campaign implies coming together with the same players multiple times to work on the same story.
+11. Being a member of a committee. \\
+12. Only for yearbook related pictures. \\
+
+\end{rSection}
+
+%------------------------------------------------
+\newpage
+\begin{rSection}{third party information}
+{\bf V.S.E. Scala} \\
+Cultural student association Eindhoven Scala or shortly Scala is the umbrella association of all culture associations in Eindhoven. Scala keeps track of all the ERO's, we also share the number of members and how many of those members study at the Tu/e and Fontys. \\
+{\bf Technische Universiteit Eindhoven (TU/e)} \\
+The Technische Universiteit Eindhoven or TU/e is the place where we are housed. \\ We give the following data to the TU/e; Name, Studentnumber and cardnumber.\\
+{\bf Gmail, Microsoft outlook or other online mailclients} \\
+Mailadresses of the board or committees can be linked with other mailservices. \\
+{\bf Hetzner} \\
+Our mailservers and SVN are situated at a German firm named Hetzner. \\
+{\bf Boardgamegeek} \\
+Our boardgame committee keeps an online register of boardgames. They do this using the website boardgamegeek. We only use the first name of members on boardgamegeek \\
+{\bf Dropbox, google drive or other storage websites}\\
+Our committees can chose on its own where they store their files. \\ 
+{\bf Knights members} \\
+By internal publication of imagery, the imagery will only be shared with other (-old) Knights members. Further publication of the imagery, outside the platforms of the Knights, is not within the responsibility of the knights. \\
+{\bf Others} \\
+By external publication of imagery, the imagery will be publicly shared. This can be done by posting on our public facebook page, the Knights website or other platforms. Since the imagery will be posted in public. Everyone will have access to these imagery. Further publication of the imagery, outside the platforms of the Knights, is not within the responsibility of the Knights.
+
+\end{rSection}
+
+%------------------------------------------------
+
+\begin{rSection}{Ways of storage}
+The board stores all the above data online, this is done by using nextCloud. Our servers are located at Hetzner, a company in Germany. The saved data is secured by svn-logindata, the data is not encrypted. \\
+Besides the board our ICT committee also has access to this data. \\ 
+Committees are free to pick there own way of storing data. \\
+\end{rSection}
+
+%------------------------------------------------
+ 
+ \newpage
+\begin{rSection}{Access to data}
+{\bf Board} \\
+The entire board has access to all, for which permission has been given, data. After a change of board the old board needs to delete all local copies of files which have personal information. The new board needs to change all the passwords within 1 month. \\
+ {\bf Committees / Orders / taskforce} \\
+Committees, orders or taskforces can by means of a board decision get access to some data, this decision has an objection period of two weeks. \\ Committees can choose to organize an activity with a sign up sheet. Committees keep track of their own sign up sheets and administration. \\
+{\bf Candidate board} \\
+If a group of members consisting of at most seven persons want to be board next year. Then the current board can give them access to all data by making a board decision. The association must be informed about this decision 1 week in advance. Members have the possibility to keep their data secret for the candidate board. To do this you have to send a written objection to the board. \\
+{\bf Advisory board (Dutch: RVA))} \\
+Members of the advisory board can get temporary access to relevant data by means of a board decision. \\
+{\bf ICT committee} \\
+Our ICT committee has access to all digital association data. They need to have access to all the back-end systems to keep them running. \\
+{\bf Boardgame committee} \\
+Our boardgame committee keeps an inventory of the boardgames. Names of old members will be shared with them as well, this to make sure that old-members can be contacted to pick up their in loan given games. \\
+{\bf Roleplay committee} \\
+Our Roleplay committee keeps an inventory of the Roleplaying books. Names of old members will be shared with them as well, this to make sure that old-members can be contacted to pick up their in loan given books. \\
+{\bf Promotion committee} \\
+Our promotion committee takes care of the promotion outside of the association. This is often done by imagery. \\
+{\bf Members} \\
+For promotion of (core) activity ,such as roleplay campaigns, the board might deem it handy to give some personal information to a member. The member who's information will be shared will be informed if this is done. \\ 
+
+\end{rSection}
+
+\newpage
+\begin{rSection}{Further information}
+
+- For administrative purposes the Knights keeps track of the name and e-mailadresses of honorary members and expelled members. \\
+- The names of suspended and/or expelled members can, when deemed necessary, be shared with; SCALA and her members, building administration of the association, the TU/e, police and other law enforcement. \\
+- A member has the right to change his personal choices with regards to the choices made by use of data by the board. If earlier given permission is revoked, then there will not be retroactive censorship on files. \\
+
+
+
+\end{rSection}
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+\begin{rSection}{Entitlement to view, change, or delete personal information}
+
+In line with the new Eeuropean privacy law a member is entitled to request to view, change or delete his personal information at any time, this is done by contacting the board. However on some points we cannot guarantee this request. this is the case when; \\
+\tab 1.	Information is needed by the dutch laws for association administration. This concerns a overview \tab of enrolled members as well as fininancial administration for 7 years after completion of the acedemic \tab year. \\
+\tab 2.	The member is still a member of the association or has still some open amounts. \\
+\tab 3.	The information concerns 1. an activity organised by a committee or order and 2.  the activity took place \tab less than 3 months ago \\
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EXAMPLE SECTION
+%----------------------------------------------------------------------------------------
+
+%\begin{rSection}{Section Name}
+
+%Section content\ldots
+
+%\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
