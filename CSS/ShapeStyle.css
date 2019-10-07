@@ -473,13 +473,12 @@ Footer {
 
     .rightAddition{
         position: absolute;
-        left: 45%;
-        width: 50vw;
+        left: 110%;
+        width: 20vw;
     }
 
     .rightAddition > *{
         position: relative;
-        margin-left: 400px;
     }
 
     .rightAddition > div  *, .leftAddition > div  *{
