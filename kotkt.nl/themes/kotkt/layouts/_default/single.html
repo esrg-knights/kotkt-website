@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{- with .Content -}}
+<div>
+    {{ . | safeHTML }}
+</div>
+{{- end -}}
+{{ end }}

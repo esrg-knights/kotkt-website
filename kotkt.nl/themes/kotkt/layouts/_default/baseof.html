@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html>
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        <div id="content">
-        {{- block "main" . }}{{- end }}
+{{- partial "head.html" . -}}
+<body>
+{{- partial "header.html" . -}}
+
+<div id="Main">
+    <div class="MainContentBackground">
+        <div class="MainContentBackground_mid">
+            <div class="MainContentBackground_left"></div>
+            <div class="MainContentBackground_right"></div>
         </div>
-        {{- partial "footer.html" . -}}
-    </body>
+    </div>
+    <div class="FooterAdjuster">
+        <div class="MainScreen">
+            {{- block "main" . }}{{- end }}
+        </div>
+    </div>
+    {{- partial "footer.html" . -}}
+</div>
+{{- partial "navbar.html" . -}}
+
+</body>
 </html>
