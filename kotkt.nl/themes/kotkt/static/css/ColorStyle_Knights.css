@@ -34,7 +34,7 @@ body{
 }
 
 .NavBarImage{
-    background-image: url("../Images/Knights vaandel met draak.png");
+    background-image: url("/images/Knights vaandel met draak.png");
     height: 138px;
     width: 78px;
 }
