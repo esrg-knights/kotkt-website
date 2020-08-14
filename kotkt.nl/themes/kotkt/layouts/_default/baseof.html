@@ -3,8 +3,7 @@
 {{- partial "head.html" . -}}
 <body>
 {{- partial "header.html" . -}}
-{{- partial "navbar.html" . -}}
-
+{{- partial "frontimage.html" . -}}
 
 <div id="Main">
     <div class="MainContentBackground">
@@ -17,9 +16,12 @@
         <div class="MainScreen">
             {{- block "main" . }}{{- end }}
         </div>
+        {{- partial "footer.html" . -}}
     </div>
-    {{- partial "footer.html" . -}}
+
 </div>
+
+{{- partial "navbar.html" . -}}
 
 </body>
 </html>
