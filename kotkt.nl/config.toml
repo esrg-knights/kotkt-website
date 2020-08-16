@@ -5,8 +5,20 @@ defaultContentLanguage = "en"
 
 [languages]
 [languages.en]
+name = "English"
 title = "The Knights"
 weight = 1
 [languages.nl]
+name = "Nederlands"
 title = "De Knights"
 weight = 2
+
+[menu]
+[[menu.main]]
+identifier = "home"
+title = "Home"
+url = "/"
+[[menu.main]]
+identifier = "posts"
+title = "Posts"
+url = "/posts"

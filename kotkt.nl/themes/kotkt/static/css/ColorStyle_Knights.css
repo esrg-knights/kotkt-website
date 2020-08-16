@@ -4,7 +4,6 @@ body{
 }
 
 .Title{
-
     height: 98vh;
     background: #222222 url("https://www.wallpaperup.com/uploads/wallpapers/2013/06/03/97165/cb421d3d7992456da0b0a4491367bb88.jpg") 50% 50% /cover;
     z-index: -100000;
@@ -22,6 +21,7 @@ body{
     text-shadow: 0 0 2px whitesmoke;
     color: black;
 }
+
 .TitleContent h1{
     margin: 0;
 }
