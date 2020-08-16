@@ -1,4 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "kotkt"
+defaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+title = "The Knights"
+weight = 1
+[languages.nl]
+title = "De Knights"
+weight = 2

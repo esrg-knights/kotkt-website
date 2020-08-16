@@ -1,7 +1,7 @@
 ---
 title: Index
 ---
-
+Dit is engels
 {{< contentframe id="thisisus" >}}
 Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, vaak afgekort tot Knights,
 is de studenten bord- en rollenspelvereniging van Eindhoven.
