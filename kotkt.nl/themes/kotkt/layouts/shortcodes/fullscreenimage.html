@@ -1,5 +1,8 @@
 <div class="fullscreen" style='
-background: #222222 url(images/Titel.jpg) 40% 55%/cover;
+background: #222222 url({{ .Get "url" }}) center/cover;
 '>
-<h1>hi</h1>
+    <div>
+        <h1>{{ .Get "title" }}</h1>
+        <h3>{{ .Get "subtitle" }}</h3>
+    </div>
 </div>
