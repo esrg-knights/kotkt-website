@@ -15,10 +15,14 @@ weight = 2
 
 [menu]
 [[menu.main]]
-identifier = "home"
-title = "Home"
-url = "/"
-[[menu.main]]
 identifier = "who-are-we"
 title = "Who are we"
 url = "/#who-are-we"
+[[menu.main]]
+identifier = "rpgs"
+title = "Rollenspellen"
+url = "/#roleplaying-games"
+[[menu.main]]
+identifier = "larp"
+title = "LARP"
+url = "/#larp"
