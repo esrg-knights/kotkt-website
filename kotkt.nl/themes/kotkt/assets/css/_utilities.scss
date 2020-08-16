@@ -1,6 +1,5 @@
-.fullscreen {
+.header {
   width: 100vw;
-  height: 70vh;
   position: relative;
   left: 50%;
   right: 50%;
@@ -10,6 +9,11 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+}
+
+.header-full {
+  height: 85vh;
+  border-bottom: #222222 30px solid;
 
   div {
     padding: 50px;
@@ -18,4 +22,15 @@
       margin: 0px;
     }
   }
+}
+
+.header-small {
+  div {
+    width: $maxWidth;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  height: 200px;
+  color: white;
 }
