@@ -3,22 +3,9 @@
 {{- partial "head.html" . -}}
 <body>
 {{- partial "header.html" . -}}
-{{- partial "frontimage.html" . -}}
 
-<div id="Main">
-    <div class="MainContentBackground">
-        <div class="MainContentBackground_mid">
-            <div class="MainContentBackground_left"></div>
-            <div class="MainContentBackground_right"></div>
-        </div>
-    </div>
-    <div class="FooterAdjuster">
-        <div class="MainScreen">
-            {{- block "main" . }}{{- end }}
-        </div>
-        {{- partial "footer.html" . -}}
-    </div>
-
+<div class="content">
+    {{- block "main" . }}{{- end }}
 </div>
 
 {{- partial "navbar.html" . -}}

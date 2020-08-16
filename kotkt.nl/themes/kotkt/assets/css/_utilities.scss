@@ -1,0 +1,17 @@
+.fullscreen {
+  width: 100vw;
+  height: 70vh;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+
+  * {
+    padding: 50px;
+  }
+}

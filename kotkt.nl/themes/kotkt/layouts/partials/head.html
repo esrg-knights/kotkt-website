@@ -4,9 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="{{ .Description }}">
     <base href="{{ .Site.BaseURL }}">
-    <link type="text/css" rel="stylesheet" href='{{ "css/CSS_basics.css" | absURL }}'>
-    <link type="text/css" rel="stylesheet" href='{{ "css/ShapeStyle.css" | absURL }}'>
-    <link type="text/css" rel="stylesheet" href='{{ "css/ColorStyle_Knights.css" | absURL }}'>
 
     {{ $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
