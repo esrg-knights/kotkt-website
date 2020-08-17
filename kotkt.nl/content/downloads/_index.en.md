@@ -1,5 +1,5 @@
 ---
-title: Files
+title: Downloads
 resources:
 - src '**.en.pdf'
 ---

@@ -5,14 +5,12 @@
 <div>
     {{ $PageContext := . }}
     {{ if .IsHome }}
-    {{ $PageContext = .Site }}
+        {{ $PageContext = .Site }}
     {{ end }}
     {{ if $PageContext.RegularPages }}
     <div class="post-list">
         <div class="inner">
-
-
-            <h3 class="no-margin">{{ i18n "recent_posts" }}</h3>
+            <a href='{{ "/posts" | relLangURL}}'><h3 class="no-margin">{{ i18n "recent_posts" }}</h3></a>
             {{ range $PageContext.RegularPages }}
             <div>
                 <h4>{{ .Title }}</h4>

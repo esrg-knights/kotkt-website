@@ -1,9 +1,9 @@
 ---
-title: Files
+title: Downloads
 resources:
 - src '**.nl.pdf'
 ---
 
-Here we can find some important Knights files.
+Hieronder staan de huidige belangrijke bestanden.
 
 {{< files "pdf" >}}
