@@ -2,9 +2,7 @@
   width: 100vw;
   position: relative;
   left: 50%;
-  right: 50%;
   margin-left: -50vw;
-  margin-right: -50vw;
 
   display: flex;
   flex-direction: column;
@@ -26,7 +24,7 @@
 
 .header-small {
   div {
-    width: $maxWidth;
+    width: $containerWidth;
     margin-left: auto;
     margin-right: auto;
   }
@@ -34,4 +32,10 @@
   border-top: $backgroundColorInverted 10px solid;
   height: 200px;
   color: $textColorInverted;
+}
+
+.hide-on-mobile {
+  @media screen and (max-width: $mobileWidth) {
+    display: none;
+  }
 }

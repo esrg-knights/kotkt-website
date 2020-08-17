@@ -1,11 +1,11 @@
 <nav>
-    <img src="/images/Knights vaandel met draak.png" width="78" height="133"/>
+    <img class="hide-on-mobile" src="/images/Knights vaandel met draak.png" width="78" height="133"/>
 
     {{ range .Site.Menus.main }}
-    <a href="{{ .URL | relLangURL}}">{{.Title}}</a>
+    <a href="{{ .URL | relLangURL }}">{{.Title}}</a>
     {{ end }}
 
-    <p>|</p>
+    <p class="hide-on-mobile">|</p>
 
     {{ range $language := .Site.Languages }}
     <a href="/{{ $language }}">{{ $language }}</a>

@@ -1,14 +1,22 @@
 nav {
   z-index: 99;
-  width: 100%;
-  position: fixed;
-  background-color: $backgroundColorInverted;
-  height: 55px;
-  max-height: 55px;
+  width: 100vw;
 
+  background-color: $backgroundColorInverted;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
+
+  @media screen and (min-width: $mobileWidth) {
+    flex-direction: row;
+    justify-content: center;
+    height: 55px;
+    max-height: 55px;
+    position: fixed;
+  }
+
+  @media screen and (max-width: $mobileWidth) {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
 
   * {
     padding: 0 10px;

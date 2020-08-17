@@ -20,6 +20,10 @@ Tevens hebben wij meerdere doorloppende rollenspelcampaigns en is er elke 1e woe
 
 Dit alles vind plaats vanuit onze eigen verenigingsruimte, te vinden in Luna op de TU/e campus. In deze ruimte zijn zowel 's middags als 's avonds vaak leden te vinden die even ontspannen via een bord- of rollenspel, gamen, een goed gesprek, of gewoon lekker bankhangen.
 
+{{< banner rotate="1" >}}
+    Ik ben een banner!
+{{< /banner >}}
+
 ### Verenigingsavonden
 
 Dinsdag en woensdag zijn onze verenigingsavonden. Op deze avonden vanaf 19:30 organiseert de vereniging algemene activiteiten voor alle leden. Elke dinsdagavond is bordspelavond, waar de bordspelliefhebbers van de vereniging bijeen komen om een verscheidenheid aan bordspellen te spelen.
