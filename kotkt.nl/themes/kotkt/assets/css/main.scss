@@ -1,8 +1,7 @@
+
+@import "variables";
 @import "basics";
 @import "navbar";
 @import "scaffolding";
 @import "utilities";
-body {
-  width: 100%;
-  margin: 0px;
-}
+@import "footer";

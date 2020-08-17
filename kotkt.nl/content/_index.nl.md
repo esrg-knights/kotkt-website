@@ -51,7 +51,7 @@ Voor de Storytellers is er ook de Tea@ welke elke 4e woensdag van de maand plaat
 
 {{< headerimage
     url="images/LARP.jpg"
-    title="LAPR"
+    title="LARP"
     id="larp" 
      >}}
 
@@ -98,7 +98,7 @@ Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze 
 {{< headerimage
     url="images/Lid2.jpg"
     title="Lid worden?"
-    id="join-us" 
+    id="borg" 
      >}}
      
 Heb je interesse en wil je de sfeer proeven? Kom dan gratis een keertje langs op de dinsdag of de rollenspelwoensdag (1e van de maand) om de sfeer te proeven. Je kan ons vinden op vloer -1 van La Luna op de TU/e-campus (grote rode deur naast de spar en dan de trap af)

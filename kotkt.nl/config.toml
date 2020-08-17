@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 theme = "kotkt"
-defaultContentLanguage = "en"
+defaultContentLanguage = "nl"
 
 [languages]
 [languages.en]
@@ -26,3 +26,7 @@ url = "/#roleplaying-games"
 identifier = "larp"
 title = "LARP"
 url = "/#larp"
+[[menu.main]]
+idenitfier="borg"
+title="Join us"
+url= "/#borg"

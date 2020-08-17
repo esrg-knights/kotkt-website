@@ -13,7 +13,7 @@
 
 .header-full {
   height: 85vh;
-  border-bottom: #222222 30px solid;
+  border-bottom: $backgroundColorInverted 30px solid;
 
   div {
     padding: 50px;
@@ -31,7 +31,7 @@
     margin-right: auto;
   }
 
-  border-top: #222222 10px solid;
+  border-top: $backgroundColorInverted 10px solid;
   height: 200px;
-  color: white;
+  color: $textColorInverted;
 }

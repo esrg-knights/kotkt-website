@@ -1,9 +1,8 @@
-$navBackgroundColor: #222222;
-
 nav {
+  z-index: 99;
   width: 100%;
   position: fixed;
-  background-color: $navBackgroundColor;
+  background-color: $backgroundColorInverted;
   height: 55px;
   max-height: 55px;
 
@@ -18,14 +17,14 @@ nav {
     justify-content: center;
     align-items: center;
     font-size: larger;
-    color: white;
+    color: $textColorInverted;
   }
 
   *:hover {
-    background-color: lighten($navBackgroundColor, 5);
+    background-color: lighten($backgroundColorInverted, 5);
   }
 
   .is-active {
-    background-color: lighten($navBackgroundColor, 10);
+    background-color: lighten($backgroundColorInverted, 10);
   }
 }

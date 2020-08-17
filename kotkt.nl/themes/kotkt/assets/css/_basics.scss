@@ -1,9 +1,13 @@
 // Sets up the basics of the website such as fonts and colors
 
 body {
-  background-color: lightgray;
   font-family: 'Titillium Web', sans-serif;
-  display: flex;
+  background-color: $backgroundColor;
+  color: $textColor;
+  margin: 0;
+  width: 100vw;
+  overflow-x: hidden;
+  padding: 0;
 }
 
 h1, h2, h3, a, .dropdown {
