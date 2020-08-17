@@ -22,7 +22,7 @@ title: Index
         {{< figure src="images/Sponsor_Bordspelenzo.png" >}}
     {{< /banner >}}
     
-    {{< banner rotate="-3" padding="27px">}}
+    {{< banner rotate="-3" padding="55px">}}
         Proef de sfeer!
         
         Kom langs op een verenigings-avond en doe gratis mee
@@ -51,7 +51,7 @@ Wil je de sfeer proeven? Kom dan vooral een keer op onze bord- of rollenspelavon
      >}}
      
 {{< aside >}}
-   {{< banner rotate="6" padding="27px">}}
+   {{< banner rotate="6" padding="41px">}}
        {{< figure src="images/Rollenspellen_icons.png" >}}
        One-shot rollenspelavond
        Elke 1e woensdag van de maand
@@ -84,7 +84,7 @@ Voor de Storytellers is er ook de Tea@ welke elke 4e woensdag van de maand plaat
      >}}
      
 {{< aside >}}
-  {{< banner rotate="-2" padding="27px">}}
+  {{< banner rotate="-2" padding="5px">}}
       {{< figure src="images/Zwaardvecht_icons.png" >}}
       Zwaardvecht training
       Elke tweede donderdag
@@ -124,6 +124,16 @@ De Knights organiseren ook jaarlijks Fantasy Court, een festival welke aandacht 
     title="Bordspellen"
     id="boardgames" 
      >}}
+     
+{{< aside >}}
+  {{< banner rotate="9" padding="51px">}}
+      {{< figure src="images/Bordspellen_icons.png" >}}
+      Bordspelavond
+      Elke dinsdagavond
+      19:30
+   {{< /banner >}}
+{{</ aside >}}
+
 
 Elke dinsdagavond is er een bordspelavond waarop vele leden langs komen voor een bordspel. Van korte bordspellen zoals de Grote Dalmuti en Fantasy Realms tot middellange bordspellen als Suburbia, Kolonisten van Catan, Dominion, Dungeon Lords... tot de langere spellen als Nations, Terra Mystica, en Battlestar Gallactica. Deze avond begint om 19:30. Wees op tijd, bij late aankomst kan het zijn dat iedereen al bezig is in een spel.
 
@@ -140,6 +150,14 @@ Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze 
     title="Lid worden?"
     id="borg" 
      >}}
+     
+{{< aside >}}
+  {{< banner rotate="-5" padding="2px">}}
+      Proef de sfeer
+      Kom langs op een verenigings-avond en doe gratis mee
+   {{< /banner >}}
+{{</ aside >}}
+
      
 Heb je interesse en wil je de sfeer proeven? Kom dan gratis een keertje langs op de dinsdag of de rollenspelwoensdag (1e van de maand) om de sfeer te proeven. Je kan ons vinden op vloer -1 van La Luna op de TU/e-campus (grote rode deur naast de spar en dan de trap af)
 

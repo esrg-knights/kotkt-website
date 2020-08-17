@@ -8,8 +8,8 @@ nav {
   @media screen and (min-width: $mobileWidth) {
     flex-direction: row;
     justify-content: center;
-    height: 55px;
-    max-height: 55px;
+    height: $navbarHeight;
+    max-height: $navbarHeight;
     position: fixed;
   }
 
@@ -26,6 +26,7 @@ nav {
     align-items: center;
     font-size: larger;
     color: $textColorInverted;
+    text-decoration: none;
   }
 
   *:hover {
