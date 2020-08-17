@@ -8,34 +8,69 @@ defaultContentLanguage = "nl"
 name = "English"
 title = "E.S.R.G. Knights of the Kitchen Table"
 weight = 1
+[[languages.en.menu.main]]
+identifier = "who-are-we"
+title = "Who are we"
+url = "/#who-are-we"
+weight = 1
+[[languages.en.menu.main]]
+identifier = "rpgs"
+title = "Roleplaying games"
+url = "/#roleplaying-games"
+weight = 2
+[[languages.en.menu.main]]
+identifier = "larp"
+title = "LARP"
+url = "/#larp"
+weight = 3
+[[languages.en.menu.main]]
+identifier = "join-us"
+title = "Join us"
+url = "/#borg"
+weight = 5
+[[languages.en.menu.main]]
+identifier = "bordspellen"
+title = "Boardgames"
+url = "/#boardgames"
+weight = 4
+[[languages.en.menu.main]]
+identifier = "files"
+title = "Downloads"
+url = "/downloads"
+weight = 6
+
+
 [languages.nl]
 name = "Nederlands"
 title = "E.S.R.G. Knights of the Kitchen Table"
 weight = 2
-
-[menu]
-[[menu.main]]
+[[languages.nl.menu.main]]
 identifier = "who-are-we"
 title = "Wie zijn wij"
 url = "/#who-are-we"
-order = 1
-[[menu.main]]
+weight = 1
+[[languages.nl.menu.main]]
 identifier = "rpgs"
 title = "Rollenspellen"
 url = "/#roleplaying-games"
-order = 2
-[[menu.main]]
+weight = 2
+[[languages.nl.menu.main]]
 identifier = "larp"
 title = "LARP"
 url = "/#larp"
-order = 3
-[[menu.main]]
+weight = 3
+[[languages.nl.menu.main]]
 identifier = "join-us"
 title = "Lid worden"
 url = "/#borg"
-order = 5
-[[menu.main]]
+weight = 5
+[[languages.nl.menu.main]]
 identifier = "bordspellen"
 title = "Bordspellen"
 url = "/#boardgames"
-order = 4
+weight = 4
+[[languages.nl.menu.main]]
+identifier = "files"
+title = "Downloads"
+url = "/downloads"
+weight = 6
