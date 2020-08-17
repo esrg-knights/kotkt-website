@@ -3,7 +3,7 @@ title: Welkom
 ---
 {{< articleimage
     url="images/Titel.jpg" 
-    title="ESRG Knights of the Kitchen Table"
+    title="E.S.R.G. Knights of the Kitchen Table"
    subtitle="De Bord- en Rollenspellen vereniging van Eindhoven"  
      >}}
 
@@ -15,7 +15,7 @@ title: Welkom
 
 {{< aside >}}
     {{< banner rotate="4" padding="7px" >}}
-        Wij worden gesteund door
+       Wij worden gesteund door
         
         {{< figure src="images/Sponsor_TUe.png" >}}
         {{< figure src="images/Sponsor_Rabobank.png" >}}

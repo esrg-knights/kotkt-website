@@ -3,112 +3,160 @@ title: Welcome
 ---
 {{< articleimage
     url="images/Titel.jpg" 
-    title="ESRG Knights of the Kitchen Table"
-   subtitle="De Bord- en Rollenspellen vereniging van Eindhoven"  
+    title="E.S.R.G. Knights of the Kitchen Table"
+   subtitle="The Board and Roleplaying association in Eindhoven"  
      >}}
 
 {{< headerimage
     url="images/Wie_zijn_wij.jpg"
-    title="Wie zijn wij"
+    title="Who are we"
     id="who-are-we" 
-     >}}
+>}}
+
+{{< aside >}}
+    {{< banner rotate="4" padding="7px" >}}
+       We are sponsored by
+        
+        {{< figure src="images/Sponsor_TUe.png" >}}
+        {{< figure src="images/Sponsor_Rabobank.png" >}}
+        {{< figure src="images/Sponsor_Bordspelenzo.png" >}}
+    {{< /banner >}}
     
-Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, vaak afgekort tot Knights, is de studenten bord- en rollenspelvereniging van Eindhoven. Houd jij van een goed bordspel, of laat jij liever je fantasie te loop tijdens een rollenspel? Dan moet jij ons niet missen.
+    {{< banner rotate="-3" padding="55px">}}
+        Taste the ambience
+        
+        Drop by on one of our evening and experience us for free
+    {{< /banner >}}
+{{< /aside >}}
+    
+Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, or more frequently called Knights is the student board- and roleplaying game association of Eindhoven. Do you love boardgames, or do you rather let your imagination run in a good roleplaying game? Then we are the place to be!
 
-Elke week worden er vele bordspellen gespeeld. Van bekende spellen zoals Kolonisten van Catan, en Ticket to Ride tot minder bekende spellen als Race for the Galaxy, Book of Madness, Kingsburg, Terraforming Mars en meer dan 250 andere.
-Tevens hebben wij meerdere doorloppende rollenspelcampaigns en is er elke 1e woensdag van de maand een one-shot roleplay avond.
+Every week multiple boardgames are being played. Well known games such as Catan and Ticket to Ride, but also lesser known games such as Race for the Galaxy, Book of Madness, Kingsburg, Terraforming Mars and over 250 others.
 
-Dit alles vind plaats vanuit onze eigen verenigingsruimte, te vinden in Luna op de TU/e campus. In deze ruimte zijn zowel 's middags als 's avonds vaak leden te vinden die even ontspannen via een bord- of rollenspel, gamen, een goed gesprek, of gewoon lekker bankhangen.
+We also feature several bi-weekly roleplaying campaigns as well as a one-shot roleplaying evening every first Wednesday of the month.
 
-{{< banner rotate="1" >}}
-    Ik ben een banner!
-{{< /banner >}}
+This all takes place from our own association room, in the Luna building on the TU/e campus. In this room members are often playing a boardgame, a roleplaying game, PC gaming or just casually hanging around during both afternoon and evenings.
 
-### Verenigingsavonden
+### Association activities
 
-Dinsdag en woensdag zijn onze verenigingsavonden. Op deze avonden vanaf 19:30 organiseert de vereniging algemene activiteiten voor alle leden. Elke dinsdagavond is bordspelavond, waar de bordspelliefhebbers van de vereniging bijeen komen om een verscheidenheid aan bordspellen te spelen.
-De woensdagavond wisselt afhankelijk van de dag van de maand. In de regel is elke eerste woensdag van de maand een open rollenspel avond. Op deze avond worden one-shot rollenspellen gespeeld; aan het begin van de avond krijgen spelers een probleem of een premise welke ze op dienen te lossen. Onder leiding van een story teller, welke de gebeurtenissen beschrijft, proberen spelers het probleem op te lossen of op z'n minst escalatie te voorkomen. Tegen het eind van de avond bereikt het verhaal zijn conclusie.
-De 4e woensdag van de maand is onze Tea@ waar onze meest ervaren story tellers advies over onderwerpen van storytelling (zoals sfeer, monsters, karakter creatie) geven aan overige ST's. De overige woensdagavonden hebben een wisselende aard welke via onze interne kalender word gedeeld aan de vereniging. Dit varieert van een thema-avond, kerstdiner, lasergamen, eetestafette en meer.
+Tuesday and Wednesday are our own activity evenings. On these evenings, starting at 19:30, the association organises general activities for all members. Every Tuesday is boardgame night where boardgame fans are united over the large collection of games.
 
-Wil je de sfeer proeven? Kom dan vooral een keer op onze bord- of rollenspelavond langs!
+The Wednesday evening activity changes depending on which week it is. Principally, every first Wednesday of the month is an Open Roleplay Evening. On this evening we play one-shot tabletop roleplaying games; at the beginning of the evening, players get pitched a problem or scenario they need to solve during the session. Under supervision of a Story Teller, who describes all thing that happen during the session, players try to solve the problem or at least try to make it less worse. At the end of the evening the story concludes.
 
+On the 4th Wednesday of the month our Tea@ takes place, where our most experienced Story Tellers give advice to other ST's about improving your Story Telling skills (e.g. in regards to ambiance, monsters and character creation). Other Wednesdays have an ever changing nature which is shared every month to the association through our internal calendar. These evenings can vary from theme-nights, a Christmas Dinner, lasergaming and more.
+
+Do you want to get a taste of our association? Then please join us on one of our Boardgame or Roleplaying Evening!
+ 
 {{< headerimage
     url="images/Rollenspellen2.jpg"
-    title="Rollenspellen"
+    title="Tabletop Roleplaying"
     id="roleplaying-games" 
      >}}
+     
+{{< aside >}}
+   {{< banner rotate="6" padding="41px">}}
+       {{< figure src="images/Rollenspellen_icons.png" >}}
+        One-shot Roleplay Evening
+        Every 1st Wednesday of the month
+        
+        Looking For Group
+        Next evening:
+        TBA 
+    {{< /banner >}}
+{{</ aside >}}
 
-Altijd al wilde streken willen uithalen zonder gevolgen? Speel een rollenspel!
-In rollenspellen (tabletop roleplaying games) ga je als een karakter samen met anderen op avontuur begeleid door een Storyteller (Dungeon Master). Deze ST beschrijft alles en iedereen die jullie tegenkomen op het avontuur. De diepe grotten van Ckbaktar, het lege open sterrenstelsel onderweg naar Alpha Centauri of het verlaten dorp van je familie. De wereld is onbegrenst. De mogenlijkheden onbeperkt.
+Always wanted to go wild without repercussions? Try a roleplaying game!
 
-### Oneshot Rollenspellen
-Oneshots zijn rollenspellen die uit slechts één sessie bestaan. Aan het eind van deze sessie is het verhaal afgerond (vredig einde niet gegarandeerd).
-Elke eerste woensdag van de maand is er de open-rollenspelavond. Hier presenteren meerdere ST's hun verhaal concept welke die avond 'gerunt' zullen worden. Leden besluiten daarna bij wie ze willen spelen. Wil jij het ook een keer proberen? Kom dan gratis een keertje langs om de smaak te proeven!
+In (tabletop) roleplaying games, you envision yourself as a different character whom, along with others goes on a yourney guided by a story teller (also known as Dungeon Master or story leader). This ST describes everything and everyone you encounter along the way. From the deep caves of Ckbaktar, the empty galaxy on your way to Alpha Centauri or the abandoned village of your family. The world is unlimited, the possibilities unrestrained.
 
-### Rollenspel campaigns
-De Knights hebben meerdere doorlopende campaigns. Dit zijn doorlopende verhalen verspreid over meedere (vaak tweewekelijkse) sessies.
-Aan het begin van elk semester (begin september, eind februari) organiseert de Knights een Looking for Group. Op deze avond komen spelers op zoek naar een campaign en ST's op zoek naar spelers bijeen. De (nieuwe) campaigns zoeken deze avond vervolgens naar een datum waarop alle spelers standaard kunnen.
-Vanuit de vereniging word hard geprobeerd om alle doorlopende campaigns ruimte te geven in Luna.
+### Oneshot Roleplaying
 
-### Tea@ Knight
-Voor de Storytellers is er ook de Tea@ welke elke 4e woensdag van de maand plaats vind. Onze meest ervaren Storytellers geven op deze avond workshops over systemen, monsters, sfeer, pitchen en allerlei andere onderwerpen nuttig voor iedere ST. Ook hebben wij een grote verscheidenheid aan literatuur over de verscheidene systemen voor leden om open te slaan. 
+One-shots are roleplaying games which consist of only one session. At the end of the session the story is concluded (happy endings not guaranteed).
+
+Every 1st wednesday of the evening we host a one-shot roleplay evening. Here multiple of our ST’s present their story concepts which they will ‘run’. Members then decide with whom they want to join. Want to try it yourself? Drop by for free to experience the taste of adventure!
+
+### Roleplay Campaigns
+
+The Knights host multiple continuous campaigns. These are running stories spread over multiple (often bi-weekly) sessions.
+
+On the beginning of every semester (early september, end of februari) a Looking for Group is hosted. On this evening players looking for a campaign and Sts looking for players are united. The (new) campaings will then search for a common date on which all players can unite for the remainder of the campaign.
+
+The association tries to give every running campaign a space in Luna where the campaign can be hosted.
 
 {{< headerimage
     url="images/LARP.jpg"
     title="LARP"
     id="larp" 
      >}}
+     
+{{< aside >}}
+  {{< banner rotate="-2" padding="5px">}}
+      {{< figure src="images/Zwaardvecht_icons.png" >}}
+      Swordfighting training
+      Every other Thursday
+      19:30
+      
+      Brass Scissors day
+      Every 1st Sunday of the month
+   {{< /banner >}}
+{{</ aside >}}
 
-Bij de Knights zijn ook veel fans van Life Action Roleplaying, ookwel bekend als LARP. Een LARP is vergelijkbaar met Tabletop Roleplay met het verschil dat je niet alleen je mond, maar je hele lichaam inzet om je karakter uit te spelen.
+At the Knights there are also fans of Life Action Roleplaying, more commonly known as LARP. A Larp is similar to tabletop roleplaying, where instead one describes to do actions, one actually uses the entire body to simulate the event happening.
 
-2-maal jaars organiseren wij een eigen one-shot LARP welke plaats vinden op onze eigen leden-weekenden. Ieder krijgt hier een eigen uniek karakter voor in deze wereld variërend van sprookjesfiguren tijdens een quarantaine, tot aangespoelde overlevenden van een gestrand cruiseschip. Ook bieden wij hulp bij het maken van larpkostuums. Elke eerste zondag van de maand is er een messing-schaar dag waar leden heen kunnen gaan voor advies in zowel waar het beste materiaal gehaald kan worden evenals het zelf naaien van je LARP outfit.
+Twice-yearly we host our own one-shot LARPs which take place during our own association weekends. Every member gets a unique character in the world, varying from fairytale figures during a quarantine to survivors of a destroyed cruiseship. Furthermore our association aids in making and expanding LARP costumes. Every 1st Sunday of the month the Brass Scissors order is present where members can go to for aid in where one can buy the best material, as well as working and sowing the materials together to form your LARP costume.
 
-### Larp Zwaardvechttrainingen
+### Larp Swordfighting Practice
 
-Wanneer het warm genoeg is in de lente, zomer en herfst organiseren de Knights, twee-wekelijks LARP zwaardvechttrainingen op de donderdag. Met behulp van schuimrubberen larp zwaarden worden er trainingen gegeven door enkele leden op het veilig, maar ook spectaculair uitvoeren van zwaardvecht gevechten tijdens larps en andere momenten.
-
-### Externe Larps
-
-Tevens ondersteunen wij twee lokale LARP verenigingen: het Schimmenspel en Plotwevers wie ieder respectievelijk een maandelijkse LARP organiseren:
-
--   Duin
-
-    Ver in de toekomst kan de mensheid door de ruimte reizen, één planeet bevat een grote voorraad aan grondstoffen. 3 verschillende families proberen macht te vergaren om de controle over de planeet te krijgen.
-    
--   Lichtbaken Eindhoven
-
-    Wezens uit een parallel universum ontvoeren mensen om hen vervolgens te veranderen in andere entiteiten (kaars, stoel, vogel) in een andere wereld. Mensen die ontsnapt zijn en terugkeren in de normale wereld zijn veranderd in 'changelings'. In Lichtbaken Eindhoven is zo'n groep Changelings gesettled in een hoop elkaar te beschermen van deze kwaade tweede wereld.
+Whenever it is warm enough in spring, summer and autumn, the Knights host a bi-weekly LARP swordfighting practice on the thirsday. With aid of the foamrubber LARP swords, training will be given on using the swords in a save, but visually cool way in whatever swordfighting match your characters would be part of.
 
 ### Fantasy Court
 
-De Knights organiseren ook jaarlijks Fantasy Court, een festival welke aandacht vestigd op de Fantasy en LARP cultuur. Ter plaatse zijn verscheidene LARP verenigingen, brouwers, LARP-kleding en attributen stands, bordspellen, muziek, dans, een zwaardvecht toernooi en meer. Houd onze website of facebook in de gaten voor meer informatie over de komende editie.
+The Knights also organize the yearly Fantasy Court Festival, which expresses the Fantasy and LARP culture. During this festical several LARP associations, LARP-clothing and attribute stands will be present as well as boardgame, music, dance, a swordfighting tournament and more. Stay tuned by visiting the website or following them on facebook.
 
 {{< headerimage
     url="images/Bordspellen.jpg"
-    title="Bordspellen"
+    title="Boardgames"
     id="boardgames" 
      >}}
+     
+{{< aside >}}
+  {{< banner rotate="9" padding="51px">}}
+      {{< figure src="images/Bordspellen_icons.png" >}}
+      Boardgame evening
+      Every Tuesday
+      19:30 
+   {{< /banner >}}
+{{</ aside >}}
 
-Elke dinsdagavond is er een bordspelavond waarop vele leden langs komen voor een bordspel. Van korte bordspellen zoals de Grote Dalmuti en Fantasy Realms tot middellange bordspellen als Suburbia, Kolonisten van Catan, Dominion, Dungeon Lords... tot de langere spellen als Nations, Terra Mystica, en Battlestar Gallactica. Deze avond begint om 19:30. Wees op tijd, bij late aankomst kan het zijn dat iedereen al bezig is in een spel.
+Every tuesday evening we host boardgame evening where many of our members drop by for a fun game. This can be any of our many short games such as the Big Dalmuti and Fantasy Realms, or normal length games such as Suburbia, Catan, Dominion and Dungeon Lords to the 3 hour games such as Nations, Terra Mystica, and Battlestar Gallactica the boardgame. These evening start at 19:30. It’s best to arrive before this time as late arrival can result in all players already playing a game.
 
-Is één avond niet voldoende? Geen zorgen. Overdag of op andere dagen word vaak ook door leden een kast uit de spel gepakt.
+Is one evening not enough to saturate your lust for strategy? No worries. Many of our members also play during the afternoons and other evenings. One of the advantages of having our own space; the games are always waiting to be played.
 
-Voor sommigen zijn zelfs deze spellen niet voldoende. Daarom is er aan het eind van elk kwartiel van de TU/e een lange bordspeldag waarop de lange spellen als Twilight Imperium en Game of Thrones worden gespeeld.
+For some, even this can not be nough. Therefore, at the end of every TU/e quartile there is a long boardgame day where you can play games all day long, or just one long game of 4+ hours such as Twilight Imperium or the Game of Thrones boardgame.
 
-Nog steeds niet genoeg gehad? Wellicht heb je dan zin in 20 uur Virgin Queen of Here I Stand, al zal je daarvoor toch echt zelf een datum voor moeten prikken in de zomer- of kerstvakantie.
+Still haven’t had your fix? Maybe you’re up for a 12+ hour boardgame such as Virgin Queen or Here I Stand. Although you may want to choose a date yourself in summer- or christmas break.
 
-Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze leden gespeeld kunnen worden? Kijk dan op onze [BoardGameGeek](https://boardgamegeek.com/user/KotKT). 
+Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Take a look at our [BoardGameGeek](https://boardgamegeek.com/user/KotKT). 
 
 {{< headerimage
     url="images/Lid2.jpg"
-    title="Lid worden?"
+    title="Want to join?"
     id="borg" 
      >}}
      
-Heb je interesse en wil je de sfeer proeven? Kom dan gratis een keertje langs op de dinsdag of de rollenspelwoensdag (1e van de maand) om de sfeer te proeven. Je kan ons vinden op vloer -1 van La Luna op de TU/e-campus (grote rode deur naast de spar en dan de trap af)
+{{< aside >}}
+  {{< banner rotate="-5" padding="2px">}}
+      Taste the ambience
+      Drop by on one of our evening
+      and experience us for free
+   {{< /banner >}}
+{{</ aside >}}
 
-Als je dan overtuigd bent kan je ter plaatse een inschrijfformulier invullen. Echter om lid te worden dien je student te zijn in Eindhoven. Studeer je buiten Eindhoven? Neem dan contact met het bestuur op bestuur@kotkt.nl. Hiervoor dienen zij namelijk uitzondering te verlenen.
+     
+Are you interested and want to experience us? Come in and drop by any tuesday or roleplay Wednesday (1st Wednesday of the month) and try us yourself for free. You can find us in the basement of La Luna at the TU/e campus. (Enter the big red door next to the Spar and descend the stairs in the back. If the door is locked, call us at +31 6 51018209 and one of our members will open the door.)
 
-Lidmaatschap voor een jaar kost €25,- voor een geheel jaar of €15,- wanneer je lid wordt na aanvang van het 2e semester van de TU/e.
+When you are convinced, then you can fill in our subscription form on-site. However, to be a member you need to be a student in Eindhoven. Studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl as they need to make an exception.
 
-Wij hopen je graag spoedig te zien. Tot dan! 
+Membership is €25,- for the entire year or €15,- when you join after the start of the 2nd semester of the TU/e
+
+We hope to see you soon. Till then!

@@ -10,12 +10,12 @@ title = "E.S.R.G. Knights of the Kitchen Table"
 weight = 1
 [[languages.en.menu.main]]
 identifier = "who-are-we"
-title = "Who are we"
+title = "About us"
 url = "/#who-are-we"
 weight = 1
 [[languages.en.menu.main]]
 identifier = "rpgs"
-title = "Roleplaying games"
+title = "Tabletop roleplay"
 url = "/#roleplaying-games"
 weight = 2
 [[languages.en.menu.main]]
@@ -25,7 +25,7 @@ url = "/#larp"
 weight = 3
 [[languages.en.menu.main]]
 identifier = "join-us"
-title = "Join us"
+title = "Membership"
 url = "/#borg"
 weight = 5
 [[languages.en.menu.main]]
@@ -34,10 +34,15 @@ title = "Boardgames"
 url = "/#boardgames"
 weight = 4
 [[languages.en.menu.main]]
+identifier = "contact"
+title = "Contact"
+url = "#contact"
+weight = 6
+[[languages.en.menu.main]]
 identifier = "files"
 title = "Downloads"
 url = "/downloads"
-weight = 6
+weight = 7
 
 
 [languages.nl]
@@ -69,6 +74,11 @@ identifier = "bordspellen"
 title = "Bordspellen"
 url = "/#boardgames"
 weight = 4
+[[languages.nl.menu.main]]
+identifier = "contact"
+title = "Contact"
+url = "#contact"
+weight = 6
 [[languages.nl.menu.main]]
 identifier = "files"
 title = "Downloads"
