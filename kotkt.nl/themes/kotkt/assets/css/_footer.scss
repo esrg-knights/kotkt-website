@@ -2,12 +2,12 @@ footer {
   width: 100vw;
   background-color: $backgroundColorInverted;
   color: $textColorInverted;
+  padding: 40px;
 
   div {
     width: $containerWidth;
     max-width: 100%;
-
-    margin: 20px auto;
+    margin: 0 auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -27,6 +27,4 @@ footer {
       }
     }
   }
-
-
 }

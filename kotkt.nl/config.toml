@@ -6,27 +6,36 @@ defaultContentLanguage = "nl"
 [languages]
 [languages.en]
 name = "English"
-title = "The Knights"
+title = "E.S.R.G. Knights of the Kitchen Table"
 weight = 1
 [languages.nl]
 name = "Nederlands"
-title = "De Knights"
+title = "E.S.R.G. Knights of the Kitchen Table"
 weight = 2
 
 [menu]
 [[menu.main]]
 identifier = "who-are-we"
-title = "Who are we"
+title = "Wie zijn wij"
 url = "/#who-are-we"
+order = 1
 [[menu.main]]
 identifier = "rpgs"
 title = "Rollenspellen"
 url = "/#roleplaying-games"
+order = 2
 [[menu.main]]
 identifier = "larp"
 title = "LARP"
 url = "/#larp"
+order = 3
 [[menu.main]]
-idenitfier="borg"
-title="Join us"
-url= "/#borg"
+identifier = "join-us"
+title = "Lid worden"
+url = "/#borg"
+order = 5
+[[menu.main]]
+identifier = "bordspellen"
+title = "Bordspellen"
+url = "/#boardgames"
+order = 4

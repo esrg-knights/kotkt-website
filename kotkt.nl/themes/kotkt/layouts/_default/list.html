@@ -2,5 +2,25 @@
 {{ with .Content }}
 {{ . }}
 {{ end }}
-<!--  todo: Add a list of posts here -->
+<div class="post-list">
+    <div class="inner">
+        {{ $PageContext := . }}
+        {{ if .IsHome }}
+        {{ $PageContext = .Site }}
+        {{ end }}
+
+        <h3 class="no-margin">{{ i18n "recent_posts" }}</h3>
+        {{ range $PageContext.RegularPages }}
+        <div>
+            <h4>{{ .Title }}</h4>
+            {{ if .Description }}
+            <p>{{ .Description | markdownify }}</p>
+            {{ else }}
+            <p>{{ .Content | markdownify }}</p>
+            {{ end }}
+            <a href="{{ .RelPermalink }}">{{ i18n "posts_read_more" }}</a>
+        </div>
+        {{ end }}
+    </div>
+</div>
 {{ end }}

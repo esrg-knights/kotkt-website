@@ -5,7 +5,7 @@ nav {
   background-color: $backgroundColorInverted;
   display: flex;
 
-  @media screen and (min-width: $mobileWidth) {
+  @media screen and (min-width: $containerWidth) {
     flex-direction: row;
     justify-content: center;
     height: $navbarHeight;
@@ -13,9 +13,14 @@ nav {
     position: fixed;
   }
 
-  @media screen and (max-width: $mobileWidth) {
+  @media screen and (max-width: $containerWidth) {
     flex-direction: column;
     justify-content: flex-start;
+  }
+
+  img {
+    position: absolute;
+    left:5%;
   }
 
   * {

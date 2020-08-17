@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Welkom
 ---
 {{< articleimage
     url="images/Titel.jpg" 
