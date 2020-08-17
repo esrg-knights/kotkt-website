@@ -1,0 +1,47 @@
+.header {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.header-full {
+  height: 85vh;
+  border-bottom: $backgroundColorInverted 30px solid;
+
+  div {
+    padding: 50px;
+
+    h1, h3, h4 {
+      margin: 0px;
+      text-shadow: 0 0 4px $textColorInverted;
+    }
+  }
+}
+
+.header-small {
+  div {
+    width: $containerWidth;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  border-top: $backgroundColorInverted 10px solid;
+  height: 200px;
+  color: $textColorInverted;
+  text-shadow: 0 0 4px $textColor;
+}
+
+.hide-on-mobile {
+  @media screen and (max-width: $containerWidth) {
+    display: none;
+  }
+}
+
+.no-margin {
+  margin: 0;
+}

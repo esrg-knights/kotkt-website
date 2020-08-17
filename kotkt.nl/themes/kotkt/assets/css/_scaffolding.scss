@@ -1,0 +1,9 @@
+.content {
+  @media screen and (min-width: $mobileWidth) {
+    padding-top: $navbarHeight;
+  }
+
+  width: $containerWidth;
+  max-width: 100%;
+  margin: auto;
+}

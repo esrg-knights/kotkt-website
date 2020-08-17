@@ -1,0 +1,9 @@
+aside {
+  @media screen and (max-width: $containerWidth + $bannerWidth*3) {
+    display: none;
+  }
+
+  position: absolute;
+  right: -25vw;
+  width: 50vw;
+}

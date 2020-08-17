@@ -34,7 +34,7 @@ body{
 }
 
 .NavBarImage{
-    background-image: url("../Images/Knights vaandel met draak.png");
+    background-image: url("static/images/Knights vaandel met draak.png");
     height: 138px;
     width: 78px;
 }
@@ -134,7 +134,7 @@ Footer {
     width: 210px;
     height: 50px;
 
-    background: url(../Images/hanger.svg) no-repeat center center;
+    background: url(../../kotkt.nl/static/images/hanger.svg) no-repeat center center;
     -webkit-background-size: 100% 100%;
     background-size: 100% 100%;
 }
@@ -147,7 +147,7 @@ Footer {
 .endlogo {
     position: absolute;
     opacity: 0.5;
-    background: url(../Images/Knights_logo.png) no-repeat;
+    background: url(../../kotkt.nl/themes/kotkt/static/images/Knights_logo.png) no-repeat;
     background-size: contain;
 }
 

@@ -1,0 +1,44 @@
+nav {
+  z-index: 99;
+  width: 100vw;
+
+  background-color: $backgroundColorInverted;
+  display: flex;
+
+  @media screen and (min-width: $containerWidth) {
+    flex-direction: row;
+    justify-content: center;
+    height: $navbarHeight;
+    max-height: $navbarHeight;
+    position: fixed;
+  }
+
+  @media screen and (max-width: $containerWidth) {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  img {
+    position: absolute;
+    left:5%;
+  }
+
+  * {
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    color: $textColorInverted;
+    text-decoration: none;
+  }
+
+  *:hover {
+    background-color: lighten($backgroundColorInverted, 5);
+  }
+
+  .is-active {
+    background-color: lighten($backgroundColorInverted, 10);
+  }
+}

@@ -1,0 +1,64 @@
+<nav>
+    <img class="hide-on-mobile" src="/images/Knights vaandel met draak.png" width="78" height="133"/>
+
+    {{- $currentPage := . -}}
+    {{ range .Site.Menus.main -}}
+    <a href="{{ .URL | relLangURL }}"
+       class='{{ if $currentPage.IsMenuCurrent "main" . }}is-active{{end}}'>{{.Title}}</a>
+    {{- end }}
+
+    <p class="hide-on-mobile">|</p>
+
+    {{ range $language := .Site.Languages }}
+    <a href="/{{ $language }}">{{ $language }}</a>
+    {{ end }}
+</nav>
+
+
+<!--<nav class="NavBarRoot noselect">-->
+<!--    <div class="NavBarHeader">-->
+<!--        <input id="navMenu" type="checkbox"/>-->
+<!--        <div class="NavBarImage"></div>-->
+<!--        <label for="navMenu" class="navMenuBox hideOnSmall"></label>-->
+<!--        <div class="NavBarContent hideOnSmall">-->
+<!--            <ul class="NavBarMenu">-->
+<!--                <li>-->
+<!--                    <a href="#thisisus">About us</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="#roleplay"><div  class="hideOnLarge">Tabletop Roleplay</div></a>-->
+<!--                    <a href="#roleplay"><div  class="hideFromLarge hideOnSmall doubleline">Tabletop<br>Roleplay</div></a>-->
+<!--                    <a href="#roleplay"><div  class="hideFromSmall">Roleplaying </div></a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="#LARP">LARP</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="#boardgames">Boardgames</a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <div class="MenuImage hideFromSmall"></div>-->
+<!--                    <a href="#member"><div  class="hideOnLarge">Membership</div></a>-->
+<!--                    <a href="#member"><div  class="hideFromLarge hideOnSmall">Membership</div></a>-->
+<!--                    <a href="#member"><div  class="hideFromSmall">Membership</div></a>-->
+<!--                </li>-->
+<!--                <li>-->
+<!--                    <a href="#contact">Contact</a>-->
+<!--                </li>-->
+
+<!--            </ul>-->
+<!--        </div>-->
+<!--        <div class="languagebox">-->
+<!--            <div class="dropdown">-->
+<!--                <div class="hideFromLarge">Language</div>-->
+<!--                <div class="hideOnLarge">Taal/ language</div>-->
+<!--                <ul class="dropdown-menu">-->
+<!--                    <li> <a href="KnightsSinglePageNL.html">Nederlands</a> </li>-->
+<!--                    <li class="current"> English </li>-->
+<!--                </ul>-->
+<!--            </div>-->
+
+<!--        </div>-->
+<!--    </div>-->
+
+<!--</nav>-->

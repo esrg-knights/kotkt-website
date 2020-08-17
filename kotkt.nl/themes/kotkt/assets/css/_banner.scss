@@ -1,0 +1,21 @@
+.banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width: $bannerWidth;
+
+  img {
+    width: 100%;
+  }
+
+  .banner-content {
+    text-align: center;
+    background-color: #fff;
+
+    border-color: $bannerBorderColor;
+    border-width: 1px 3px 10px 3px;
+    border-style: solid;
+    padding: 20px 10px 30px 10px;
+    margin-top: -12px;
+  }
+}

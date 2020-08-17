@@ -1,0 +1,15 @@
+<head>
+    <title> {{ .Title }} - {{ .Site.Title }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="description" content="{{ .Description }}">
+    <base href="{{ .Site.BaseURL }}">
+
+    {{ $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    <link href="https://fonts.googleapis.com/css?family=Tinos" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300" rel="stylesheet">
+    <link rel="canonical" href="{{ .Permalink }}">
+</head>

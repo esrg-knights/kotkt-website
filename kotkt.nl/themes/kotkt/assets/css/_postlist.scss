@@ -1,0 +1,23 @@
+.post-list {
+  background-color: lighten($backgroundColorInverted, 5);
+  color: darken($textColorInverted, 5);
+
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  margin-left: -50vw;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  padding: 40px 0;
+
+  .inner {
+    width: $containerWidth;
+  }
+
+  a {
+    color: darken($textColorInverted, 5);
+  }
+}
