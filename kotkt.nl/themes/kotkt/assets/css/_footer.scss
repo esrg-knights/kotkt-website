@@ -4,7 +4,7 @@ footer {
   color: $textColorInverted;
   padding: 40px;
 
-  div {
+  .footer-content {
     width: $containerWidth;
     max-width: 100%;
     margin: 0 auto;

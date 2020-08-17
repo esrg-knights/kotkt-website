@@ -1,10 +1,11 @@
 ---
-title: "Welcome to the New Website"
+title: "Welkom op de nieuwe website"
 date: 2020-08-17T13:26:02+02:00
 draft: true
 Tags: [ultraviolette-programmeurs]
 Categories: [Announcements]
 ---
 
-Hello and welcome! This is the new version of our site. We hope you like it!
+Hallo en welkom! Met deze post luiden we de nieuwe website in!
+
 

@@ -147,7 +147,7 @@ Footer {
 .endlogo {
     position: absolute;
     opacity: 0.5;
-    background: url(../../kotkt.nl/static/images/Knights_logo.png) no-repeat;
+    background: url(../../kotkt.nl/themes/kotkt/static/images/Knights_logo.png) no-repeat;
     background-size: contain;
 }
 
