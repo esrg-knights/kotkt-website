@@ -6,10 +6,9 @@
     <base href="{{ .Site.BaseURL }}">
 
     {{ $style := resources.Get "css/main.scss" | toCSS | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
     <link href="https://fonts.googleapis.com/css?family=Tinos" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Titillium+Web:300" rel="stylesheet">
-    <link rel="canonical" href="{{ .Permalink }}">
 </head>
