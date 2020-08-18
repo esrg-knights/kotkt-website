@@ -20,7 +20,7 @@ nav {
 
   img {
     position: absolute;
-    left:5%;
+    left: 5%;
   }
 
   * {
@@ -32,13 +32,13 @@ nav {
     font-size: larger;
     color: $textColorInverted;
     text-decoration: none;
+
+    .is-active {
+      background-color: lighten($backgroundColorInverted, 10);
+    }
   }
 
-  *:hover {
+  a:hover {
     background-color: lighten($backgroundColorInverted, 5);
-  }
-
-  .is-active {
-    background-color: lighten($backgroundColorInverted, 10);
   }
 }
