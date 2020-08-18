@@ -2,4 +2,4 @@
 title: Het schaduwbestuur bestaat niet
 ---
 
-Er is hier niks te vinden . . .
+Er is hier niks te vinden . . . .
