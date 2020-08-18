@@ -1,4 +1,4 @@
-baseURL = "https://new.kotkt.nl"
+baseURL = "https://kotkt.nl"
 languageCode = "en-us"
 theme = "kotkt"
 defaultContentLanguage = "nl"
