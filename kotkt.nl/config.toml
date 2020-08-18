@@ -1,14 +1,13 @@
-baseURL = "https://new.kotkt.nl/"
+baseURL = "https://new.kotkt.nl"
 languageCode = "en-us"
 theme = "kotkt"
 defaultContentLanguage = "nl"
-canonifyURLss = false
 
 [languages]
 [languages.en]
 name = "English"
 title = "E.S.R.G. Knights of the Kitchen Table"
-weight = 1
+weight = 2
 [[languages.en.menu.main]]
 identifier = "who-are-we"
 title = "About us"
@@ -49,7 +48,7 @@ weight = 7
 [languages.nl]
 name = "Nederlands"
 title = "E.S.R.G. Knights of the Kitchen Table"
-weight = 2
+weight = 1
 [[languages.nl.menu.main]]
 identifier = "who-are-we"
 title = "Wie zijn wij"
