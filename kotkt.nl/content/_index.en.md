@@ -2,13 +2,13 @@
 title: Welcome
 ---
 {{< articleimage
-    url="images/Titel.jpg" 
+    url="/images/Titel.jpg" 
     title="E.S.R.G. Knights of the Kitchen Table"
    subtitle="The Board and Roleplaying association in Eindhoven"  
      >}}
 
 {{< headerimage
-    url="images/Wie_zijn_wij.jpg"
+    url="/images/Wie_zijn_wij.jpg"
     title="Who are we"
     id="who-are-we" 
 >}}
@@ -17,9 +17,9 @@ title: Welcome
     {{< banner rotate="4" padding="7px" >}}
        We are sponsored by
         
-        {{< figure src="images/Sponsor_TUe.png" >}}
-        {{< figure src="images/Sponsor_Rabobank.png" >}}
-        {{< figure src="images/Sponsor_Bordspelenzo.png" >}}
+        {{< figure src="/images/Sponsor_TUe.png" >}}
+        {{< figure src="/images/Sponsor_Rabobank.png" >}}
+        {{< figure src="/images/Sponsor_Bordspelenzo.png" >}}
     {{< /banner >}}
     
     {{< banner rotate="-3" padding="55px">}}
@@ -48,14 +48,14 @@ On the 4th Wednesday of the month our Tea@ takes place, where our most experienc
 Do you want to get a taste of our association? Then please join us on one of our Boardgame or Roleplaying Evening!
  
 {{< headerimage
-    url="images/Rollenspellen2.jpg"
+    url="/images/Rollenspellen2.jpg"
     title="Tabletop Roleplaying"
     id="roleplaying-games" 
      >}}
      
 {{< aside >}}
    {{< banner rotate="6" padding="41px">}}
-       {{< figure src="images/Rollenspellen_icons.png" >}}
+       {{< figure src="/images/Rollenspellen_icons.png" >}}
         One-shot Roleplay Evening
         Every 1st Wednesday of the month
         
@@ -84,14 +84,14 @@ On the beginning of every semester (early september, end of februari) a Looking 
 The association tries to give every running campaign a space in Luna where the campaign can be hosted.
 
 {{< headerimage
-    url="images/LARP.jpg"
+    url="/images/LARP.jpg"
     title="LARP"
     id="larp" 
      >}}
      
 {{< aside >}}
   {{< banner rotate="-2" padding="5px">}}
-      {{< figure src="images/Zwaardvecht_icons.png" >}}
+      {{< figure src="/images/Zwaardvecht_icons.png" >}}
       Swordfighting training
       Every other Thursday
       19:30
@@ -114,14 +114,14 @@ Whenever it is warm enough in spring, summer and autumn, the Knights host a bi-w
 The Knights also organize the yearly Fantasy Court Festival, which expresses the Fantasy and LARP culture. During this festical several LARP associations, LARP-clothing and attribute stands will be present as well as boardgame, music, dance, a swordfighting tournament and more. Stay tuned by visiting the website or following them on facebook.
 
 {{< headerimage
-    url="images/Bordspellen.jpg"
+    url="/images/Bordspellen.jpg"
     title="Boardgames"
     id="boardgames" 
      >}}
      
 {{< aside >}}
   {{< banner rotate="9" padding="51px">}}
-      {{< figure src="images/Bordspellen_icons.png" >}}
+      {{< figure src="/images/Bordspellen_icons.png" >}}
       Boardgame evening
       Every Tuesday
       19:30 
@@ -139,7 +139,7 @@ Still haven’t had your fix? Maybe you’re up for a 12+ hour boardgame such as
 Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Take a look at our [BoardGameGeek](https://boardgamegeek.com/user/KotKT). 
 
 {{< headerimage
-    url="images/Lid2.jpg"
+    url="/images/Lid2.jpg"
     title="Want to join?"
     id="borg" 
      >}}
