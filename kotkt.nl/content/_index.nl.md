@@ -103,6 +103,13 @@ Bij de Knights zijn ook veel fans van Life Action Roleplaying, ookwel bekend als
 
 Wanneer het warm genoeg is in de lente, zomer en herfst organiseren de Knights, twee-wekelijks LARP zwaardvechttrainingen op de donderdag. Met behulp van schuimrubberen larp zwaarden worden er trainingen gegeven door enkele leden op het veilig, maar ook spectaculair uitvoeren van zwaardvecht gevechten tijdens larps en andere momenten.
 
+### Haven Larp
+
+Een larp geschreven door onze eigen getalenteerde Orange Clockmakers:
+Het is het jaar 2999. De mensheid heeft zijn ups en downs gehad. In welke staat het nu is, hangt af van je
+sociale positie en groep. Niet omdat het leven van nature goed is voor de één en slecht voor de ander, maar
+omdat jouw positie en groep bepalen hoeveel je kunt bepalen over je eigen leven.
+
 ### Fantasy Court
 
 De Knights organiseren ook jaarlijks Fantasy Court, een festival welke aandacht vestigd op de Fantasy en LARP cultuur. Ter plaatse zijn verscheidene LARP verenigingen, brouwers, LARP-kleding en attributen stands, bordspellen, muziek, dans, een zwaardvecht toernooi en meer. Houd onze website of facebook in de gaten voor meer informatie over de komende editie.
