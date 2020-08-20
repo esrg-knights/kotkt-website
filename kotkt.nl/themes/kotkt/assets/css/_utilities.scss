@@ -45,3 +45,21 @@
 .no-margin {
   margin: 0;
 }
+
+.button {
+  display: block;
+  padding: 20px;
+  margin: 10px;
+
+  background-color: lighten($backgroundColor, 8);
+  color: lighten($textColor, 20);
+
+  text-decoration: none;
+
+  border: $textColor 1px solid;
+  border-radius: 5px;
+
+  :visited {
+    color: $textColor;
+  }
+}
