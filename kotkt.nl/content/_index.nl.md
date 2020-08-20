@@ -106,6 +106,7 @@ Wanneer het warm genoeg is in de lente, zomer en herfst organiseren de Knights, 
 ### Haven Larp
 
 Een larp geschreven door onze eigen getalenteerde Orange Clockmakers:
+
 Het is het jaar 2999. De mensheid heeft zijn ups en downs gehad. In welke staat het nu is, hangt af van je
 sociale positie en groep. Niet omdat het leven van nature goed is voor de één en slecht voor de ander, maar
 omdat jouw positie en groep bepalen hoeveel je kunt bepalen over je eigen leven.
