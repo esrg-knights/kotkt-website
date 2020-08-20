@@ -74,7 +74,7 @@ De Knights hebben meerdere doorlopende campaigns. Dit zijn doorlopende verhalen 
 Aan het begin van elk semester (begin september, eind februari) organiseert de Knights een Looking for Group. Op deze avond komen spelers op zoek naar een campaign en ST's op zoek naar spelers bijeen. De (nieuwe) campaigns zoeken deze avond vervolgens naar een datum waarop alle spelers standaard kunnen.
 Vanuit de vereniging word hard geprobeerd om alle doorlopende campaigns ruimte te geven in Luna.
 
-### Tea@ Knight
+### Tea@ Knights
 Voor de Storytellers is er ook de Tea@ welke elke 4e woensdag van de maand plaats vind. Onze meest ervaren Storytellers geven op deze avond workshops over systemen, monsters, sfeer, pitchen en allerlei andere onderwerpen nuttig voor iedere ST. Ook hebben wij een grote verscheidenheid aan literatuur over de verscheidene systemen voor leden om open te slaan. 
 
 {{< headerimage
@@ -103,21 +103,25 @@ Bij de Knights zijn ook veel fans van Life Action Roleplaying, ookwel bekend als
 
 Wanneer het warm genoeg is in de lente, zomer en herfst organiseren de Knights, twee-wekelijks LARP zwaardvechttrainingen op de donderdag. Met behulp van schuimrubberen larp zwaarden worden er trainingen gegeven door enkele leden op het veilig, maar ook spectaculair uitvoeren van zwaardvecht gevechten tijdens larps en andere momenten.
 
-### Externe Larps
+### Haven Larp
 
-Tevens ondersteunen wij twee lokale LARP verenigingen: het Schimmenspel en Plotwevers wie ieder respectievelijk een maandelijkse LARP organiseren:
-
--   Duin
-
-    Ver in de toekomst kan de mensheid door de ruimte reizen, één planeet bevat een grote voorraad aan grondstoffen. 3 verschillende families proberen macht te vergaren om de controle over de planeet te krijgen.
-    
--   Lichtbaken Eindhoven
-
-    Wezens uit een parallel universum ontvoeren mensen om hen vervolgens te veranderen in andere entiteiten (kaars, stoel, vogel) in een andere wereld. Mensen die ontsnapt zijn en terugkeren in de normale wereld zijn veranderd in 'changelings'. In Lichtbaken Eindhoven is zo'n groep Changelings gesettled in een hoop elkaar te beschermen van deze kwaade tweede wereld.
+Een larp geschreven door onze eigen getalenteerde Orange Clockmakers:
+Het is het jaar 2999. De mensheid heeft zijn ups en downs gehad. In welke staat het nu is, hangt af van je
+sociale positie en groep. Niet omdat het leven van nature goed is voor de één en slecht voor de ander, maar
+omdat jouw positie en groep bepalen hoeveel je kunt bepalen over je eigen leven.
 
 ### Fantasy Court
 
 De Knights organiseren ook jaarlijks Fantasy Court, een festival welke aandacht vestigd op de Fantasy en LARP cultuur. Ter plaatse zijn verscheidene LARP verenigingen, brouwers, LARP-kleding en attributen stands, bordspellen, muziek, dans, een zwaardvecht toernooi en meer. Houd onze website of facebook in de gaten voor meer informatie over de komende editie.
+
+### Externe Larps
+
+Tevens ondersteunen wij twee lokale LARP verenigingen: het Schimmenspel en Plotwevers wie ieder respectievelijk een maandelijkse LARP organiseren:
+
+- ####   Bunker
+    
+- ####  Lichtbaken Eindhoven:
+Wezens uit een parallel universum ontvoeren mensen om hen vervolgens te veranderen in andere entiteiten (kaars, stoel, vogel) in een andere wereld. Mensen die ontsnapt zijn en terugkeren in de normale wereld zijn veranderd in 'changelings'. In Lichtbaken Eindhoven is zo'n groep Changelings gesettled in een hoop elkaar te beschermen van deze kwaade tweede wereld.
 
 {{< headerimage
     url="images/Bordspellen.jpg"
