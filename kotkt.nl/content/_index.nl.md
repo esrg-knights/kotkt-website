@@ -25,7 +25,9 @@ title: Welkom
     {{< banner rotate="-3" padding="55px">}}
         Proef de sfeer!
         
-        Kom langs op een verenigings-avond en doe gratis mee
+        Meld je aan voor een verenigings-avond en doe gratis mee.
+
+        <a href="https://app.kotkt.nl/calendar/">Check de kalender voor meer info</a>
     {{< /banner >}}
 {{< /aside >}}
     
@@ -157,13 +159,16 @@ Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze 
      
 {{< aside >}}
   {{< banner rotate="-5" padding="2px">}}
-      Proef de sfeer
-      Kom langs op een verenigings-avond en doe gratis mee
+      Proef de sfeer:
+      Meld je aan voor een verenigings-avond en doe gratis mee,
+      <a href="https://app.kotkt.nl/calendar/">Check de kalender voor meer info</a>
    {{< /banner >}}
 {{</ aside >}}
 
      
 Heb je interesse en wil je de sfeer proeven? Kom dan gratis een keertje langs op de dinsdag of de rollenspelwoensdag (1e van de maand) om de sfeer te proeven. Je kan ons vinden op vloer -1 van La Luna op de TU/e-campus (grote rode deur naast de spar en dan de trap af)
+
+Helaas is het wel zo dat vanwege Covid-19 je je moet registeren voor onze activiteiten (ze zijn wel nog steeds gratis te bezoeken). Je kan al onze activiteiten [in onze kalender](https://app.kotkt.nl/calendar/) bekijken en je kan je via [deze Google Form](https://forms.gle/f1kBn4c8SWdf1GBQ9) registeren.
 
 Als je dan overtuigd bent kan je ter plaatse een inschrijfformulier invullen. Echter om lid te worden dien je student te zijn in Eindhoven. Studeer je buiten Eindhoven? Neem dan contact met het bestuur op bestuur@kotkt.nl. Hiervoor dienen zij namelijk uitzondering te verlenen.
 
