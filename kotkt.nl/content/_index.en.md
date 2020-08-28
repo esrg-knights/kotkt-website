@@ -10,7 +10,7 @@ title: Welcome
 ### 9, 10 and 11 September 2020: Open Culture Week
 
 A few open activities you can join if you are interested in the Knights.
-Click [here](/en/ocw) for more details!
+Click [here](/en/opencultureweek) for more details!
 
 {{< headerimage
     url="/images/Wie_zijn_wij.jpg"
