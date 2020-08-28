@@ -23,9 +23,11 @@ title: Welcome
     {{< /banner >}}
     
     {{< banner rotate="-3" padding="55px">}}
-        Taste the ambience
+        Taste the ambience:
         
-        Drop by on one of our evening and experience us for free
+        Register for one of our evenings and experience us for free.
+
+        <a href="https://app.kotkt.nl/calendar/">See the calendar for more info</a>
     {{< /banner >}}
 {{< /aside >}}
     
@@ -146,14 +148,17 @@ Are you interested in knowing all of the boardgames we have at the Knights and c
      
 {{< aside >}}
   {{< banner rotate="-5" padding="2px">}}
-      Taste the ambience
-      Drop by on one of our evening
-      and experience us for free
+      Taste the ambience:
+      Register for one of our evenings
+      and experience us for free,
+      <a href="https://app.kotkt.nl/calendar/">See the calendar for more info</a>
    {{< /banner >}}
 {{</ aside >}}
 
      
 Are you interested and want to experience us? Come in and drop by any tuesday or roleplay Wednesday (1st Wednesday of the month) and try us yourself for free. You can find us in the basement of La Luna at the TU/e campus. (Enter the big red door next to the Spar and descend the stairs in the back. If the door is locked, call us at +31 6 51018209 and one of our members will open the door.)
+
+Unfortunately, because of Covid-19 you have to register for our activities (they are still free to visit). You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/) and you can register via [this Google Form](https://forms.gle/f1kBn4c8SWdf1GBQ9).
 
 When you are convinced, then you can fill in our subscription form on-site. However, to be a member you need to be a student in Eindhoven. Studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl as they need to make an exception.
 
