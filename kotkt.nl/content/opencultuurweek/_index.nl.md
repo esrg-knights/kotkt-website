@@ -20,15 +20,13 @@ Zoals iedereen moeten we rekening houden met COVID-19 en hebben we regels opgest
 Je kan [hier](https://beta.kotkt.nl/nextcloud/s/x5p6TNtqqzLHiqp/download) onze regels vinden, we raden aan ze door te lezen voordat je langskomt.
 Onderdeel van deze regels is dat **je verplicht bent om je aan te melden** voor onze activiteiten. Niet-leden kunnen zich [hier](https://forms.gle/f1kBn4c8SWdf1GBQ9) aanmelden.
 
-Dinsdag 9 September 19:30: Bordspelavond
-----
+### Dinsdag 9 September 19:30: Bordspelavond
 
 Iedere week organiseren de Knights een bordspelavond waar we samen bordspellen spelen.
 
 Zie de [hoofdwebsite](/#boardgames) voor meer informatie over bordspellen.
 
-Woensdag 10 September 19:30: Tabletop Roleplay avond
-----
+### Woensdag 10 September 19:30: Tabletop Roleplay avond
 
 Eens per maand organiseren de Knights een Tabletop Roleplay avond waar onze storytellers een one-shot sessie runnen.
 Zij regelen een roleplay systeem (denk aan Dungeons & Dragons, Fate of iets anders), karakters en samen spelen jullie door het verhaal.
@@ -36,8 +34,7 @@ Deze sessies duren een avond en aan het eind van de avond eindigt het verhaal, d
 
 Er worden wel roleplay-campaigns bij de Knights gespeeld overigens, als je daarin geinteresseerd bent: vraag het aan een bestuurslid of stuur een mail naar info@kotkt.nl.
 
-Donderdag 11 September 19:30: LARP zwaardvecht training
-----
+### Donderdag 11 September 19:30: LARP zwaardvecht training
 
 Iedere twee weken organiseren de Knights een LARP zwaardvechttraining.
 Tijdens de training oefen je met LARP-safe zwaarden.
@@ -45,8 +42,7 @@ Omdat dit de eerste training van het jaar is, gaan we focussen op beginners, dus
 
 Naast de zwaardvechttraining organiseren we ook een paar LARPS, voor meer informatie daarover [zie de hoofdsite](/#larp)
 
-Niet in staat langs te komen?
----
+### Niet in staat langs te komen?
 
 Dat is jammer, maar geen groot probleem, aangezien we deze activiteiten vaker organiseren.
 Kom een keer langs bij een van de normale activiteiten als je overweegt lid te worden van de Knights, de eerste paar activiteiten zijn gratis.

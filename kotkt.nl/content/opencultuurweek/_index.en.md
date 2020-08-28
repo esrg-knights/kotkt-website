@@ -23,15 +23,13 @@ Please read them before joining an activity.
 Part of these guidelines is that **you are required to sign up** for these activities. Non-members can sign up [here](https://forms.gle/f1kBn4c8SWdf1GBQ9)
 
 
-Tuesday 9th of September 19:30: Boardgame Evening
-----
+### Tuesday 9th of September 19:30: Boardgame Evening
 
 Every week the Knights organize a Boardgame Evening where we play boardgames together.
 
 For more info on boardgames, [see the main site](/en/#boardgames)
 
-Wednesday 10th of September 19:30: Tabletop Roleplay Evening
-----
+### Wednesday 10th of September 19:30: Tabletop Roleplay Evening
 
 Once a month the Knights organize a Tabletop Roleplay Evening where our storytellers prepare a one-shot session.
 They set up a roleplaying system (think Dungeons & Dragons, Fate or others), characters and together you play through a story.
@@ -39,8 +37,7 @@ These sessions run for a night and at the end of the night the story ends as wel
 
 We do host roleplay-campaigns though, if you are interested in them talk to a board member or send a mail to info@kotkt.nl
 
-Thursday 11th of September 19:30: LARP Swordfighting training
-----
+### Thursday 11th of September 19:30: LARP Swordfighting training
 
 Every two weeks the Knights organize a LARP-Swordfighting training.
 In this training you play with LARP-safe swords.
@@ -49,8 +46,7 @@ So if you have never held a sword before, this is your chance!
 
 Next to these swordfighting trainings we host a few LARPs as well, for more information on that [see the main site](/en/#larp)
 
-Can't come?
----
+### Can't come?
 
 That's unfortunate, but not a big issue, as these activities are very similar to our normal activities.
 If you are considering joining the Knights feel free to join one of our normal activities, the first few activities you join are free.
