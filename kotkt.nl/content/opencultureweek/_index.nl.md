@@ -17,7 +17,7 @@ Deze activiteiten zijn een deel van de [Open Cultuur Week](https://studentencult
 {{</ aside >}}
 
 Zoals iedereen moeten we rekening houden met COVID-19 en hebben we regels opgesteld om ervoor te zorgen dat onze activiteiten veilig plaats kunnen vinden.
-Je kan [hier](https://beta.kotkt.nl/nextcloud/s/x5p6TNtqqzLHiqp/download) onze regels vinden, we raden aan ze door te lezen voordat je langskomt.
+Je kan [hier](https://beta.kotkt.nl/nextcloud/s/JpGkgdMLCGX4nHL/download) onze regels vinden, we raden aan ze door te lezen voordat je langskomt.
 Onderdeel van deze regels is dat **je verplicht bent om je aan te melden** voor onze activiteiten. Niet-leden kunnen zich [hier](https://forms.gle/f1kBn4c8SWdf1GBQ9) aanmelden.
 
 ### Dinsdag 9 September 19:30: Bordspelavond

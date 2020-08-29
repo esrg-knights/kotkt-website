@@ -18,7 +18,7 @@ These activities are a part of the [Open Culture Week](https://studentencultuur.
 {{</ aside >}}
 
 As with everyone we have to deal with COVID-19 and we have created guidelines to ensure our activities can take place safely.
-You can find these guidelines [here](https://beta.kotkt.nl/nextcloud/s/x5p6TNtqqzLHiqp/download).
+You can find these guidelines [here](https://beta.kotkt.nl/nextcloud/s/JpGkgdMLCGX4nHL/download).
 Please read them before joining an activity.
 Part of these guidelines is that **you are required to sign up** for these activities. Non-members can sign up [here](https://forms.gle/f1kBn4c8SWdf1GBQ9)
 
