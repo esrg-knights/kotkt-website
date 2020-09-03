@@ -1,0 +1,8 @@
+{{ with  .Page.Resources.ByType "pdf" }}
+<div>
+    {{ range .}}
+        <a class="button" href="{{ .Permalink}}">{{ .Title }}</a>
+    {{ end }}
+
+</div>
+{{ end }}

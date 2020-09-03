@@ -1,0 +1,12 @@
+name = "Knights of the Kitchen Table"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = "A hugo theme to accompany our various websites!"
+homepage = "https://kotkt.nl"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+name = "Ultraviolette Programmeurs"
+homepage = "https://githu.com/esrg-knights"
