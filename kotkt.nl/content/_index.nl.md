@@ -60,12 +60,12 @@ Wil je de sfeer proeven? Kom dan vooral een keer op onze bord- of rollenspelavon
 {{< aside >}}
    {{< banner rotate="6" padding="41px">}}
        {{< figure src="images/Rollenspellen_icons.png" >}}
-       One-shot rollenspelavond
-       Elke 1e woensdag van de maand
+       <b>One-shot Rollenspelavond: </b>
+       Elke 1e woensdag van de maand  
        
-       Looking For Group
-       Volgende avond:
-       TBA 
+       <b>Looking For Group: </b>
+       Volgende Avond:
+       Woensdag 14 Oktober 2020 (19.30u)
     {{< /banner >}}
 {{</ aside >}}
 
