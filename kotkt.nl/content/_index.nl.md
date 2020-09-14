@@ -7,11 +7,6 @@ title: Welkom
    subtitle="De Bord- en Rollenspellen vereniging van Eindhoven"  
      >}}
 
-### 8, 9 and 10 September 2020: Open Cultuur Week
-
-Een paar open activiteiten waar je gratis aan mee kan doen als je geinteresseerd bent in de Knights.
-Klik [hier](/opencultureweek) voor meer details!
-
 {{< headerimage
     url="images/Wie_zijn_wij.jpg"
     title="Wie zijn wij"
