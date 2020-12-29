@@ -19,7 +19,6 @@ title: Welkom
         
         {{< figure src="images/Sponsor_TUe.png" >}}
         {{< figure src="images/Sponsor_Rabobank.png" >}}
-        {{< figure src="images/Sponsor_Bordspelenzo.png" >}}
     {{< /banner >}}
     
     {{< banner rotate="-3" padding="55px">}}
