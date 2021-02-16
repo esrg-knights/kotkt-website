@@ -1,6 +1,8 @@
 # kotkt-website
 www.kotkt.nl
 
+![Build](https://github.com/esrg-knights/kotkt-website/workflows/Build/badge.svg)
+
 ## Introduction
 
 Welcome to the github repo of the website of the Knights of the Kitchen table. 

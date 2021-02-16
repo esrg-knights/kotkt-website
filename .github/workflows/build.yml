@@ -1,0 +1,26 @@
+name: Build
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: Build site with Hugo
+    runs-on: ubuntu-20.04
+    strategy:
+      matrix:
+        hugo: ["0.80.0"]
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Download Hugo
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v${{ matrix.hugo }}/hugo_extended_${{ matrix.hugo }}_Linux-64bit.tar.gz
+          tar xvf hugo_extended_${{ matrix.hugo }}_Linux-64bit.tar.gz
+      - name: Build site
+        run: |
+          cd kotkt.nl
+          ../hugo
+      - name: Upload site as artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: kotkt.nl/public/
