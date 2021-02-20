@@ -26,7 +26,8 @@ jobs:
           path: kotkt.nl/public/
   deploy:
     runs-on: ubuntu-20.04
-    #if:
+    needs: build
+    #if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
     steps:
       - name: Download website
