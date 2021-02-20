@@ -40,7 +40,7 @@ jobs:
         uses: easingthemes/ssh-deploy@v2.1.5
         env:
           SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
-          SOURCE: site/site
+          SOURCE: site/
           REMOTE_HOST: ${{ secrets.DEPLOY_HOST }}
           REMOTE_USER: ${{ secrets.DEPLOY_USER }}
           TARGET: ${{ secrets.DEPLOY_TARGET }}
