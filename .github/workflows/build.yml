@@ -28,7 +28,7 @@ jobs:
     name: Deploy site to production
     runs-on: ubuntu-20.04
     needs: build
-    #if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
     steps:
       - name: Download website
