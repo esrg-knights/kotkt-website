@@ -25,6 +25,7 @@ jobs:
           name: site
           path: kotkt.nl/public/
   deploy:
+    name: Deploy site to production
     runs-on: ubuntu-20.04
     needs: build
     #if: github.event_name == 'push' && github.ref == 'refs/heads/master'
@@ -39,7 +40,7 @@ jobs:
         uses: easingthemes/ssh-deploy@v2.1.5
         env:
           SSH_PRIVATE_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
-          SOURCE: site
+          SOURCE: site/site
           REMOTE_HOST: ${{ secrets.DEPLOY_HOST }}
           REMOTE_USER: ${{ secrets.DEPLOY_USER }}
           TARGET: ${{ secrets.DEPLOY_TARGET }}
