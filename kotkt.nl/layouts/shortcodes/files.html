@@ -1,8 +1,14 @@
-{{ with  .Page.Resources.ByType "pdf" }}
+<!--
+    Note: .ByType "pdf" does not work since hugo 0.40.
+        Only images (main MIME 'image') return the MIME subtype (e.g. 'png')
+        pdf files have a main MIME of 'application'
+        Hugo classified this change as a "bugfix", although there's no particular
+            reason why they considered this a "bug" in the first place!
+-->
+{{ with  .Page.Resources.Match "*.pdf" }}
 <div>
     {{ range .}}
         <a class="button" href="{{ .Permalink}}">{{ .Title }}</a>
     {{ end }}
-
 </div>
 {{ end }}

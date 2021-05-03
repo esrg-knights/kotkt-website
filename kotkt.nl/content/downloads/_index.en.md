@@ -1,9 +1,7 @@
 ---
 title: Downloads
-resources:
-- src '**.en.pdf'
 ---
 
-Here we can find some important Knights files.
+Currently important documents are listed below.
 
 {{< files "pdf" >}}
