@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-20.04
     strategy:
       matrix:
-        hugo: ["0.80.0"]
+        hugo: ["0.79.1"]
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
