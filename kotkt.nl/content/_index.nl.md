@@ -141,7 +141,7 @@ Voor sommigen zijn zelfs deze spellen niet voldoende. Daarom is er aan het eind 
 
 Nog steeds niet genoeg gehad? Wellicht heb je dan zin in 20 uur Virgin Queen of Here I Stand, al zal je daarvoor toch echt zelf een datum voor moeten prikken in de zomer- of kerstvakantie.
 
-Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze leden gespeeld kunnen worden? Kijk dan op onze [BoardGameGeek](https://boardgamegeek.com/user/KotKT). 
+Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze leden gespeeld kunnen worden? Bekijk onze [bordspellen inventaris](https://app.kotkt.nl/boardgames/). 
 
 {{< headerimage
     url="images/Lid2.jpg"

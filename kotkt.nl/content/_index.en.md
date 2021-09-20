@@ -137,7 +137,7 @@ For some, even this can not be nough. Therefore, at the end of every TU/e quarti
 
 Still haven’t had your fix? Maybe you’re up for a 12+ hour boardgame such as Virgin Queen or Here I Stand. Although you may want to choose a date yourself in summer- or christmas break.
 
-Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Take a look at our [BoardGameGeek](https://boardgamegeek.com/user/KotKT). 
+Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Check our [boardgame inventory](https://app.kotkt.nl/boardgames/). 
 
 {{< headerimage
     url="/images/Lid2.jpg"
