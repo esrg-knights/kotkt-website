@@ -110,14 +110,6 @@ Twice-yearly we host our own one-shot LARPs which take place during our own asso
 
 Whenever it is warm enough in spring, summer and autumn, the Knights host a bi-weekly LARP swordfighting practice on the thirsday. With aid of the foamrubber LARP swords, training will be given on using the swords in a save, but visually cool way in whatever swordfighting match your characters would be part of.
 
-### Haven Larp
-
-We also have a larp written by our own talented Orange Clockmakers:
-
-It’s the year 2999. Mankind has had its ups and downs. In which state it is now, depends on your
-social position and group. Not because life is inherently good for one and bad for others, but
-because your position and group determine how much you can determine about your own life.
-
 ### Fantasy Court
 
 The Knights also organize the yearly Fantasy Court Festival, which expresses the Fantasy and LARP culture. During this festical several LARP associations, LARP-clothing and attribute stands will be present as well as boardgame, music, dance, a swordfighting tournament and more. Stay tuned by visiting the website or following them on facebook.
@@ -145,7 +137,7 @@ For some, even this can not be nough. Therefore, at the end of every TU/e quarti
 
 Still haven’t had your fix? Maybe you’re up for a 12+ hour boardgame such as Virgin Queen or Here I Stand. Although you may want to choose a date yourself in summer- or christmas break.
 
-Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Take a look at our [BoardGameGeek](https://boardgamegeek.com/user/KotKT). 
+Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Check our [boardgame inventory](https://app.kotkt.nl/boardgames/). 
 
 {{< headerimage
     url="/images/Lid2.jpg"
