@@ -155,11 +155,9 @@ Are you interested in knowing all of the boardgames we have at the Knights and c
 {{</ aside >}}
 
      
-Are you interested and want to experience us? Come in and drop by any tuesday or roleplay Wednesday (1st Wednesday of the month) and try us yourself for free. You can find us in the basement of La Luna at the TU/e campus. (Enter the big red door next to the Spar and descend the stairs in the back. If the door is locked, call us at +31 6 51018209 and one of our members will open the door.)
+Are you interested and want to experience us? Come in and drop by any tuesday or roleplay Wednesday (1st Wednesday of the month) and try us yourself for free. You can find us in the basement of La Luna at the TU/e campus. (Enter the big red door next to the Spar and descend the stairs in the back.) You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/).
 
-Unfortunately, because of Covid-19 you have to register for our activities (they are still free to visit). You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/) and you can register via [this Google Form](https://forms.gle/f1kBn4c8SWdf1GBQ9).
-
-When you are convinced, then you can fill in our subscription form on-site. However, to be a member you need to be a student in Eindhoven. Studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl as they need to make an exception.
+If you are convinced that you want to become a member, you can fill in a registration form on-site. However, to become a member you need to be a student in Eindhoven. Are you studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl as they need to make an exception.
 
 Membership is €25,- for the entire year or €15,- when you join after the start of the 2nd semester of the TU/e
 
