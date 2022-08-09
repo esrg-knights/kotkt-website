@@ -24,25 +24,25 @@ title = "LARP"
 url = "/#larp"
 weight = 3
 [[languages.en.menu.main]]
-identifier = "join-us"
-title = "Membership"
-url = "/#borg"
-weight = 6
-[[languages.en.menu.main]]
 identifier = "bordspellen"
 title = "Boardgames"
 url = "/#boardgames"
 weight = 4
 [[languages.en.menu.main]]
-identifier = "contact"
-title = "Contact"
-url = "#contact"
-weight = 7
-[[languages.en.menu.main]]
 identifier = "Agenda"
 title = "Agenda"
 url = "https://leden.kotkt.nl/activities/calendar/"
 weight = 5
+[[languages.en.menu.main]]
+identifier = "join-us"
+title = "Membership"
+url = "/#borg"
+weight = 6
+[[languages.en.menu.main]]
+identifier = "contact"
+title = "Contact"
+url = "#contact"
+weight = 7
 [[languages.en.menu.main]]
 identifier = "files"
 title = "Downloads"
@@ -70,25 +70,25 @@ title = "LARP"
 url = "/#larp"
 weight = 3
 [[languages.nl.menu.main]]
-identifier = "join-us"
-title = "Lid worden"
-url = "/#borg"
-weight = 6
-[[languages.nl.menu.main]]
 identifier = "bordspellen"
 title = "Bordspellen"
 url = "/#boardgames"
 weight = 4
 [[languages.nl.menu.main]]
-identifier = "contact"
-title = "Contact"
-url = "#contact"
-weight = 7
-[[languages.nl.menu.main]]
 identifier = "Agenda"
 title = "Agenda"
 url = "https://leden.kotkt.nl/activities/calendar/"
 weight = 5
+[[languages.nl.menu.main]]
+identifier = "join-us"
+title = "Lid worden"
+url = "/#borg"
+weight = 6
+[[languages.nl.menu.main]]
+identifier = "contact"
+title = "Contact"
+url = "#contact"
+weight = 7
 [[languages.nl.menu.main]]
 identifier = "files"
 title = "Downloads"
