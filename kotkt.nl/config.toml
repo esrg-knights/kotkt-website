@@ -27,7 +27,7 @@ weight = 3
 identifier = "join-us"
 title = "Membership"
 url = "/#borg"
-weight = 5
+weight = 6
 [[languages.en.menu.main]]
 identifier = "bordspellen"
 title = "Boardgames"
@@ -37,12 +37,17 @@ weight = 4
 identifier = "contact"
 title = "Contact"
 url = "#contact"
-weight = 6
+weight = 7
+[[languages.en.menu.main]]
+identifier = "Agenda"
+title = "Agenda"
+url = "https://leden.kotkt.nl/activities/calendar/"
+weight = 5
 [[languages.en.menu.main]]
 identifier = "files"
 title = "Downloads"
 url = "/downloads"
-weight = 7
+weight = 8
 
 
 [languages.nl]
@@ -68,7 +73,7 @@ weight = 3
 identifier = "join-us"
 title = "Lid worden"
 url = "/#borg"
-weight = 5
+weight = 6
 [[languages.nl.menu.main]]
 identifier = "bordspellen"
 title = "Bordspellen"
@@ -78,9 +83,14 @@ weight = 4
 identifier = "contact"
 title = "Contact"
 url = "#contact"
-weight = 6
+weight = 7
+[[languages.nl.menu.main]]
+identifier = "Agenda"
+title = "Agenda"
+url = "https://leden.kotkt.nl/activities/calendar/"
+weight = 5
 [[languages.nl.menu.main]]
 identifier = "files"
 title = "Downloads"
 url = "/downloads"
-weight = 6
+weight = 8
