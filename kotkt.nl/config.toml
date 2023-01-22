@@ -43,11 +43,6 @@ identifier = "contact"
 title = "Contact"
 url = "#contact"
 weight = 7
-[[languages.en.menu.main]]
-identifier = "files"
-title = "Downloads"
-url = "/downloads"
-weight = 8
 
 
 [languages.nl]
@@ -89,8 +84,3 @@ identifier = "contact"
 title = "Contact"
 url = "#contact"
 weight = 7
-[[languages.nl.menu.main]]
-identifier = "files"
-title = "Downloads"
-url = "/downloads"
-weight = 8
