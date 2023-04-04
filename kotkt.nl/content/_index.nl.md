@@ -98,7 +98,7 @@ Voor de Storytellers is er ook de Tea@ welke elke 4e woensdag van de maand plaat
 
 Bij de Knights zijn ook veel fans van Life Action Roleplaying, ookwel bekend als LARP. Een LARP is vergelijkbaar met Tabletop Roleplay met het verschil dat je niet alleen je mond, maar je hele lichaam inzet om je karakter uit te spelen.
 
-2-maal jaars organiseren wij een eigen one-shot LARP welke plaats vinden op onze eigen leden-weekenden. Ieder krijgt hier een eigen uniek karakter voor in deze wereld variërend van sprookjesfiguren tijdens een quarantaine, tot aangespoelde overlevenden van een gestrand cruiseschip. Ook bieden wij hulp bij het maken van larpkostuums. Elke eerste zondag van de maand is er een messing-schaar dag waar leden heen kunnen gaan voor advies in zowel waar het beste materiaal gehaald kan worden evenals het zelf naaien van je LARP outfit.
+Wij bieden hulp bij het maken van larpkostuums. Elke eerste zondag van de maand is er een messing-schaar dag waar leden heen kunnen gaan voor advies in zowel waar het beste materiaal gehaald kan worden evenals het zelf naaien van je LARP outfit.
 
 ### Larp Zwaardvechttrainingen
 
@@ -162,6 +162,6 @@ Heb je interesse en wil je de sfeer proeven? Kom dan gratis een keertje langs op
 
 Als je dan overtuigd bent kan je ter plaatse een inschrijfformulier invullen. Echter om lid te worden dien je student te zijn in Eindhoven. Studeer je buiten Eindhoven? Neem dan contact met het bestuur op bestuur@kotkt.nl. Hiervoor dienen zij namelijk uitzondering te verlenen.
 
-Lidmaatschap voor een jaar kost €25,- voor een geheel jaar of €15,- wanneer je lid wordt na aanvang van het 2e semester van de TU/e.
+Lidmaatschap voor een jaar kost €30,- voor een geheel jaar of €15,- wanneer je lid wordt na aanvang van het 2e semester van de TU/e.
 
 Wij hopen je graag spoedig te zien. Tot dan! 
