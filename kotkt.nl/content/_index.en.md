@@ -104,7 +104,7 @@ The association tries to give every running campaign a space in Luna where the c
 
 At the Knights there are also fans of Life Action Roleplaying, more commonly known as LARP. A Larp is similar to tabletop roleplaying, where instead one describes to do actions, one actually uses the entire body to simulate the event happening.
 
-Our association aids in making and expanding LARP costumes. Every 1st Sunday of the month the Brass Scissors order is present where members can go to for aid in where one can buy the best material, as well as working and sowing the materials together to form your LARP costume.
+Our association aids in making and expanding LARP costumes. Every 1st Sunday of the month members gather for the Brass Scissors day where members can go to for aid in where one can buy the best material, as well as working and sowing the materials together to form your LARP costume.
 
 ### Larp Swordfighting Practice
 
