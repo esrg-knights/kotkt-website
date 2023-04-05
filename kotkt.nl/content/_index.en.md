@@ -44,7 +44,7 @@ Tuesday and Wednesday are our own activity evenings. On these evenings, starting
 
 The Wednesday evening activity changes depending on which week it is. Principally, every first Wednesday of the month is an Open Roleplay Evening. On this evening we play one-shot tabletop roleplaying games; at the beginning of the evening, players get pitched a problem or scenario they need to solve during the session. Under supervision of a Story Teller, who describes all thing that happen during the session, players try to solve the problem or at least try to make it less worse. At the end of the evening the story concludes.
 
-On the 4th Wednesday of the month our Tea@ takes place, where our most experienced Story Tellers give advice to other ST's about improving your Story Telling skills (e.g. in regards to ambiance, monsters and character creation). Other Wednesdays have an ever changing nature which is shared every month to the association through our internal calendar. These evenings can vary from theme-nights, a Christmas Dinner, lasergaming and more.
+On the 4th Wednesday of the month our Tea@ takes place, where our most experienced Story Tellers give advice to other ST’s about improving your Story Telling skills (e.g. in regards to ambiance, monsters and character creation). Other Wednesdays have an ever changing nature which is shared every month to the association through our internal calendar. These evenings can vary from theme-nights, a Christmas Dinner, lasergaming and more.
 
 Do you want to get a taste of our association? Then please join us on one of our Boardgame or Roleplaying Evening!
  
@@ -104,7 +104,7 @@ The association tries to give every running campaign a space in Luna where the c
 
 At the Knights there are also fans of Life Action Roleplaying, more commonly known as LARP. A Larp is similar to tabletop roleplaying, where instead one describes to do actions, one actually uses the entire body to simulate the event happening.
 
-Twice-yearly we host our own one-shot LARPs which take place during our own association weekends. Every member gets a unique character in the world, varying from fairytale figures during a quarantine to survivors of a destroyed cruiseship. Furthermore our association aids in making and expanding LARP costumes. Every 1st Sunday of the month the Brass Scissors order is present where members can go to for aid in where one can buy the best material, as well as working and sowing the materials together to form your LARP costume.
+Our association aids in making and expanding LARP costumes. Every 1st Sunday of the month members gather for the Brass Scissors day where members can go to for aid in where one can buy the best material, as well as working and sowing the materials together to form your LARP costume.
 
 ### Larp Swordfighting Practice
 
@@ -159,6 +159,6 @@ Are you interested and want to experience us? Come in and drop by any tuesday or
 
 If you are convinced that you want to become a member, you can fill in a registration form on-site. However, to become a member you need to be a student in Eindhoven. Are you studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl as they need to make an exception.
 
-Membership is €25,- for the entire year or €15,- when you join after the start of the 2nd semester of the TU/e
+Membership is €30,- for the entire year or €15,- when you join after the start of the 2nd semester of the TU/e
 
 We hope to see you soon. Till then!
