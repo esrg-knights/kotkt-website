@@ -59,10 +59,6 @@ Do you want to get a taste of our association? Then please join us on one of our
        {{< figure src="/images/Rollenspellen_icons.png" >}}
        <b>One-shot Roleplay Evening: </b>
        Every 1st Wednesday of the month  
-       
-       <b>Looking For Group: </b>
-       Next Evening:
-       Wednesday October 14th, 2020 (19.30h)
     {{< /banner >}}
 {{</ aside >}}
 
