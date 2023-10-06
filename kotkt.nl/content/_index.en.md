@@ -30,24 +30,23 @@ title: Welcome
     {{< /banner >}}
 {{< /aside >}}
     
-Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, or more frequently called Knights is the student board- and roleplaying game association of Eindhoven. Do you love boardgames, or do you rather let your imagination run in a good roleplaying game? Then we are the place to be!
+Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, or just the Knights, is the student board- and roleplaying game association of Eindhoven. Do you love board games, or do you enjoy letting your imagination run in a good roleplaying game? Then we are the place to be!
 
 Every week multiple boardgames are being played. Well known games such as Catan and Ticket to Ride, but also lesser known games such as Race for the Galaxy, Book of Madness, Kingsburg, Terraforming Mars and over 250 others.
 
-We also feature several bi-weekly roleplaying campaigns as well as a one-shot roleplaying evening every first Wednesday of the month.
+We also feature several roleplaying campaigns, as well as a one-shot roleplaying evening every month. Not only the well known Dungeons and Dragons, but also Pathfinder, Blades in the Dark, World of Darkness, and more.
 
-This all takes place from our own association room, in the Luna building on the TU/e campus. In this room members are often playing a boardgame, a roleplaying game, PC gaming or just casually hanging around during both afternoon and evenings.
+This all takes place from our own association room, in the [Luna building](https://maps.app.goo.gl/8bHqF5LqzSyr39mC6) on the TU/e campus. In this room, members are often playing a board game or a roleplaying game, doing homework or just casually hanging around during both afternoons and evenings.
+
 
 ### Association activities
 
-Tuesday and Wednesday are our own activity evenings. On these evenings, starting at 19:30, the association organises general activities for all members. Every Tuesday is boardgame night where boardgame fans are united over the large collection of games.
+We have many different activities mostly taking place on Tuesdays and Wednesdays starting at 19:15. Every Tuesday we have our Board Game night where we come together and play board games. On Wednesday we have differing activities ranging from One-shot Roleplaying Game evenings to Story Telling Workshops and various others like Christmas dinners and bowling.
 
-The Wednesday evening activity changes depending on which week it is. Principally, every first Wednesday of the month is an Open Roleplay Evening. On this evening we play one-shot tabletop roleplaying games; at the beginning of the evening, players get pitched a problem or scenario they need to solve during the session. Under supervision of a Story Teller, who describes all thing that happen during the session, players try to solve the problem or at least try to make it less worse. At the end of the evening the story concludes.
+Do you want to get a taste of our association? Then please join us at one of our Board Game or Roleplaying Evenings! 
 
-On the 4th Wednesday of the month our Tea@ takes place, where our most experienced Story Tellers give advice to other ST’s about improving your Story Telling skills (e.g. in regards to ambiance, monsters and character creation). Other Wednesdays have an ever changing nature which is shared every month to the association through our internal calendar. These evenings can vary from theme-nights, a Christmas Dinner, lasergaming and more.
+<!-- You can see our activity schedule here (insert calendar link) -->
 
-Do you want to get a taste of our association? Then please join us on one of our Boardgame or Roleplaying Evening!
- 
 {{< headerimage
     url="/images/Rollenspellen2.jpg"
     title="Tabletop Roleplaying"
