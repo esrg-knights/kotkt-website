@@ -1,8 +1,13 @@
-<div class="header header-full" style='
-background: #222222 url({{ .Get "url" }}) center/cover;
-'>
-    <div>
-        <h1>{{ .Get "title" }}</h1>
-        <h4>{{ .Get "subtitle" }}</h4>
+<div class="header header-full" style='background-image: url({{ .Get "url" }});'>
+    <div class="header-horizontal">
+
+        <div>
+            <h1>{{ .Get "title" }}</h1>
+            <h4>{{ .Get "subtitle" }}</h4>
+        </div>
+
+        <div class="btn-list">
+            {{ .Inner }}
+        </div>
     </div>
 </div>

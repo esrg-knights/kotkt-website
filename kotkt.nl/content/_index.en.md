@@ -4,12 +4,21 @@ title: Welcome
 {{< articleimage
     url="/images/Titel.jpg" 
     title="E.S.R.G. Knights of the Kitchen Table"
-   subtitle="The Board and Roleplaying association in Eindhoven"  
-     >}}
+   subtitle="The Board and Roleplaying association in Eindhoven"  >}}
+    {{< button 
+        link="https://app.kotkt.nl/join"
+        text="Become a Member!">}}
+    {{< button 
+        link="https://app.kotkt.nl/activities"
+        text="Activity Calendar">}}
+    {{< button 
+        link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
+        text="Our Location">}}
+{{< /articleimage >}}
 
 {{< headerimage
     url="/images/Wie_zijn_wij.jpg"
-    title="Who are we"
+    title="Who we are"
     id="who-are-we" 
 >}}
 
@@ -18,98 +27,66 @@ title: Welcome
        We are sponsored by
         
         {{< figure src="/images/Sponsor_TUe.png" >}}
-        {{< figure src="/images/Sponsor_Rabobank.png" >}}
+        <!-- {{< figure src="/images/Sponsor_Rabobank.png" >}} -->
     {{< /banner >}}
     
     {{< banner rotate="-3" padding="55px">}}
-        Taste the ambience:
+        <b> Taste the ambience: </b> <br>
         
-        Register for one of our evenings and experience us for free.
+        You can join us at several of our evenings even without being a member! <br>
 
-        <a href="https://app.kotkt.nl/calendar/">See the calendar for more info</a>
     {{< /banner >}}
 {{< /aside >}}
-    
-Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, or more frequently called Knights is the student board- and roleplaying game association of Eindhoven. Do you love boardgames, or do you rather let your imagination run in a good roleplaying game? Then we are the place to be!
 
-Every week multiple boardgames are being played. Well known games such as Catan and Ticket to Ride, but also lesser known games such as Race for the Galaxy, Book of Madness, Kingsburg, Terraforming Mars and over 250 others.
+Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, or just the Knights, is the student board- and roleplaying game association of Eindhoven. Do you love board games, or do you enjoy letting your imagination run in a good roleplaying game? Then we are the place to be!
 
-We also feature several bi-weekly roleplaying campaigns as well as a one-shot roleplaying evening every first Wednesday of the month.
+Every week multiple boardgames are being played. Well known games such as Catan and Ticket to Ride, but also lesser known games such as Race for the Galaxy, Big Book of Madness, Kingsburg, Terraforming Mars and over 250 others.
 
-This all takes place from our own association room, in the Luna building on the TU/e campus. In this room members are often playing a boardgame, a roleplaying game, PC gaming or just casually hanging around during both afternoon and evenings.
+We also feature several roleplaying campaigns, as well as a one-shot roleplaying evening every month. Not only the well known Dungeons and Dragons, but also Pathfinder, Blades in the Dark, World of Darkness, and more.
+
+This all takes place from our own association room, in the [Luna building](https://maps.app.goo.gl/8bHqF5LqzSyr39mC6) on the TU/e campus. In this room, members are often playing a board game or a roleplaying game, doing homework or just casually hanging around during both afternoons and evenings.
+
 
 ### Association activities
+We have many different activities mostly taking place on Tuesdays and Wednesdays starting at 19:15. Every Tuesday we have our Board Game night where we come together and play board games. On Wednesday we have differing activities ranging from One-shot Roleplaying Game evenings to Story Telling Workshops and various others like Christmas dinners, bowling and dicebag making.
 
-Tuesday and Wednesday are our own activity evenings. On these evenings, starting at 19:30, the association organises general activities for all members. Every Tuesday is boardgame night where boardgame fans are united over the large collection of games.
+Do you want to get a taste of our association? Then join us at one of our Board Game or Roleplaying Evenings! You can see our activity schedule [here](https://app.kotkt.nl/activities).
 
-The Wednesday evening activity changes depending on which week it is. Principally, every first Wednesday of the month is an Open Roleplay Evening. On this evening we play one-shot tabletop roleplaying games; at the beginning of the evening, players get pitched a problem or scenario they need to solve during the session. Under supervision of a Story Teller, who describes all thing that happen during the session, players try to solve the problem or at least try to make it less worse. At the end of the evening the story concludes.
-
-On the 4th Wednesday of the month our Tea@ takes place, where our most experienced Story Tellers give advice to other ST’s about improving your Story Telling skills (e.g. in regards to ambiance, monsters and character creation). Other Wednesdays have an ever changing nature which is shared every month to the association through our internal calendar. These evenings can vary from theme-nights, a Christmas Dinner, lasergaming and more.
-
-Do you want to get a taste of our association? Then please join us on one of our Boardgame or Roleplaying Evening!
- 
+<!-- TABLETOP ROLEPLAY -->
 {{< headerimage
     url="/images/Rollenspellen2.jpg"
-    title="Tabletop Roleplaying"
+    title="Tabletop Roleplay"
     id="roleplaying-games" 
      >}}
      
 {{< aside >}}
    {{< banner rotate="6" padding="41px">}}
        {{< figure src="/images/Rollenspellen_icons.png" >}}
-       <b>One-shot Roleplay Evening: </b>
-       Every 1st Wednesday of the month  
+       <b>One-shot Roleplay Evening </b> <br>
+       Once a Month (usually the first wednesday) <br><br>
+
+       <b>Looking for Group: </b> <br>
+       Once per semester.
     {{< /banner >}}
-{{</ aside >}}
+{{</ aside >}} 
 
 Always wanted to go wild without repercussions? Try a roleplaying game!
 
-In (tabletop) roleplaying games, you envision yourself as a different character whom, along with others goes on a yourney guided by a story teller (also known as Dungeon Master or story leader). This ST describes everything and everyone you encounter along the way. From the deep caves of Ckbaktar, the empty galaxy on your way to Alpha Centauri or the abandoned village of your family. The world is unlimited, the possibilities unrestrained.
+In (tabletop) roleplaying games, you envision yourself as a different character who, along with others, goes on a journey guided by a story teller (also known as Dungeon Master or game master). This ST describes everything and everyone you encounter along the way. From the deep caves of Ckbaktar, the empty galaxy on your way to Alpha Centauri, to the abandoned village of your family. The world is unlimited, the possibilities unrestrained.
 
-### Oneshot Roleplaying
+### One-shot roleplaying
+One-shots are roleplaying games which consist of only one session. At the end of the session the story is concluded (good endings not guaranteed).
 
-One-shots are roleplaying games which consist of only one session. At the end of the session the story is concluded (happy endings not guaranteed).
-
-Every 1st wednesday of the evening we host a one-shot roleplay evening. Here multiple of our ST’s present their story concepts which they will ‘run’. Members then decide with whom they want to join. Want to try it yourself? Drop by for free to experience the taste of adventure!
+Every month, usually on the first wednesday, we host a one-shot roleplay evening. Here multiple of our ST’s present their story concepts which they will ‘run’. Members then decide which they want to join. Want to try it yourself? Drop by for free to experience the taste of adventure!
 
 ### Roleplay Campaigns
-
 The Knights host multiple continuous campaigns. These are running stories spread over multiple (often bi-weekly) sessions.
 
-On the beginning of every semester (early september, end of februari) a Looking for Group is hosted. On this evening players looking for a campaign and Sts looking for players are united. The (new) campaings will then search for a common date on which all players can unite for the remainder of the campaign.
+At the beginning of every semester (usually October and March) a _Looking for Group_ is hosted. On this evening players looking for a campaign and STs looking for players are united.
 
-The association tries to give every running campaign a space in Luna where the campaign can be hosted.
+The association provides every campaign with material (minis, maps, books, etc) and a room to host the campaign in.
 
-{{< headerimage
-    url="/images/LARP.jpg"
-    title="LARP"
-    id="larp" 
-     >}}
-     
-{{< aside >}}
-  {{< banner rotate="-2" padding="5px">}}
-      {{< figure src="/images/Zwaardvecht_icons.png" >}}
-      Swordfighting training
-      Every other Thursday
-      19:30
-      
-      Brass Scissors day
-      Every 1st Sunday of the month
-   {{< /banner >}}
-{{</ aside >}}
-
-At the Knights there are also fans of Life Action Roleplaying, more commonly known as LARP. A Larp is similar to tabletop roleplaying, where instead one describes to do actions, one actually uses the entire body to simulate the event happening.
-
-Our association aids in making and expanding LARP costumes. Every 1st Sunday of the month members gather for the Brass Scissors day where members can go to for aid in where one can buy the best material, as well as working and sowing the materials together to form your LARP costume.
-
-### Larp Swordfighting Practice
-
-Whenever it is warm enough in spring, summer and autumn, the Knights host a bi-weekly LARP swordfighting practice on the thirsday. With aid of the foamrubber LARP swords, training will be given on using the swords in a save, but visually cool way in whatever swordfighting match your characters would be part of.
-
-### Fantasy Court
-
-The Knights also organize the yearly Fantasy Court Festival, which expresses the Fantasy and LARP culture. During this festical several LARP associations, LARP-clothing and attribute stands will be present as well as boardgame, music, dance, a swordfighting tournament and more. Stay tuned by visiting the website or following them on facebook.
-
+<!-- BOARDGAMES -->
 {{< headerimage
     url="/images/Bordspellen.jpg"
     title="Boardgames"
@@ -119,42 +96,63 @@ The Knights also organize the yearly Fantasy Court Festival, which expresses the
 {{< aside >}}
   {{< banner rotate="9" padding="51px">}}
       {{< figure src="/images/Bordspellen_icons.png" >}}
-      Boardgame evening
-      Every Tuesday
-      19:30 
+      <b> Boardgame evening </b> <br>
+      Every Tuesday <br>
+      19:15 
    {{< /banner >}}
 {{</ aside >}}
 
-Every tuesday evening we host boardgame evening where many of our members drop by for a fun game. This can be any of our many short games such as the Big Dalmuti and Fantasy Realms, or normal length games such as Suburbia, Catan, Dominion and Dungeon Lords to the 3 hour games such as Nations, Terra Mystica, and Battlestar Gallactica the boardgame. These evening start at 19:30. It’s best to arrive before this time as late arrival can result in all players already playing a game.
+Every Tuesday evening we host boardgame evening where many of our members drop by for a fun game. This can be any of our many short games such as the Big Dalmuti and Fantasy Realms, or normal length games such as Suburbia, Catan, Dominion and Dungeon Lords, to the 3 hour games such as Nations, Terra Mystica, and Battlestar Gallactica the boardgame. These evening start at 19:15, it’s best to arrive before this time as late arrival can result in all players already playing a game.
 
 Is one evening not enough to saturate your lust for strategy? No worries. Many of our members also play during the afternoons and other evenings. One of the advantages of having our own space; the games are always waiting to be played.
 
-For some, even this can not be nough. Therefore, at the end of every TU/e quartile there is a long boardgame day where you can play games all day long, or just one long game of 4+ hours such as Twilight Imperium or the Game of Thrones boardgame.
+For some, even this can not be enough. Therefore, at the end of every TU/e quartile we host long boardgame days where you can play games all day long, or just one long game of 5+ hours such as Twilight Imperium or the Game of Thrones boardgame. <!--terraforming mars and spirit island? -->
 
 Still haven’t had your fix? Maybe you’re up for a 12+ hour boardgame such as Virgin Queen or Here I Stand. Although you may want to choose a date yourself in summer- or christmas break.
 
-Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Check our [boardgame inventory](https://app.kotkt.nl/boardgames/). 
+Are you interested in knowing all of the boardgames we have at the Knights and can be played by members of the Knights? Check our [boardgame inventory](https://app.kotkt.nl/boardgames/).
 
+<!-- LARP -->
+{{< headerimage
+    url="/images/LARP.jpg"
+    title="LARP"
+    id="larp" 
+     >}}
+     
+{{< aside >}}
+  {{< banner rotate="-2" padding="5px">}}
+      {{< figure src="/images/Zwaardvecht_icons.png" >}}
+      <b> Swordfighting training </b> <br>
+      Every other Thursday <br> <br>
+      
+      <b> Brass Scissors day </b> <br>
+      Every 1st Sunday of the month
+   {{< /banner >}}
+{{</ aside >}}
+
+At the Knights there are also fans of Life Action Roleplaying, more commonly known as LARP. A Larp is similar to tabletop roleplaying, where instead of describing your actions, you actually use your body to do your actions. Almost like theater, except the players are also the audience.
+
+### Larp Swordfighting Practice
+All year long, the Knights host a bi-weekly LARP swordfighting practice on Thursday with (foam) LARP swords. Training will be given on using the swords in a safe, but visually cool way. Competitions are also semi-regularly held.
+
+### Brass Scissors: Arts & Crafts
+Our association aids in making and expanding costumes as well. Every month members gather for the Brass Scissors day where they can go to for aid with where to find the right materials and cutting and sewing the materials together to form your LARP costume, as well as working on other fun arts and crafts projects!
+
+### Fantasy Court
+The Knights also organize the yearly Fantasy Court Festival, which expresses the Fantasy and LARP culture. During this festival there will be LARP associations present, as well as stands with LARP clothing, tabletop roleplay and other fantasy themed products (even self-made). There will also be music, dance, a swordfighting tournament and more. Stay tuned by visiting [their website](https://fantasycourt.nl/).
+
+<!-- WANT TO JOIN? -->
 {{< headerimage
     url="/images/Lid2.jpg"
     title="Want to join?"
     id="borg" 
      >}}
-     
-{{< aside >}}
-  {{< banner rotate="-5" padding="2px">}}
-      Taste the ambience:
-      Register for one of our evenings
-      and experience us for free,
-      <a href="https://app.kotkt.nl/calendar/">See the calendar for more info</a>
-   {{< /banner >}}
-{{</ aside >}}
 
-     
-Are you interested and want to experience us? Come in and drop by any tuesday or roleplay Wednesday (1st Wednesday of the month) and try us yourself for free. You can find us in the basement of La Luna at the TU/e campus. (Enter the big red door next to the Spar and descend the stairs in the back.) You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/).
+Are you interested and want to experience us? Come drop by any Tuesday or roleplay Wednesday and see for yourself for free. You can find us in the basement of Luna on the TU/e campus. (Enter the big red door left to the Spar and right next to hubble and descend the stairs in the back.) You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/).
 
-If you are convinced that you want to become a member, you can fill in a registration form on-site. However, to become a member you need to be a student in Eindhoven. Are you studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl as they need to make an exception.
+If you are convinced that you want to become a member, you can fill in the [registration form](https://app.kotkt.nl/join). Are you studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl since the process of becoming a member is slightly different.
 
-Membership is €30,- for the entire year or €15,- when you join after the start of the 2nd semester of the TU/e
+Membership is €30,- for the entire year or €18,- when you join after the start of the 2nd semester of the TU/e.
 
 We hope to see you soon. Till then!
+

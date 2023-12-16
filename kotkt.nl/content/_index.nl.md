@@ -6,10 +6,20 @@ title: Welkom
     title="E.S.R.G. Knights of the Kitchen Table"
    subtitle="De Bord- en Rollenspellen vereniging van Eindhoven"  
      >}}
+    {{< button 
+        link="https://app.kotkt.nl/join"
+        text="Wordt Lid!">}}
+    {{< button 
+        link="https://app.kotkt.nl/activities"
+        text="Activiteiten Kalender">}}
+    {{< button 
+        link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
+        text="Onze Locatie">}}
+{{< /articleimage >}}
 
 {{< headerimage
     url="images/Wie_zijn_wij.jpg"
-    title="Wie zijn wij"
+    title="Wie zijn wij?"
     id="who-are-we" 
 >}}
 
@@ -18,33 +28,33 @@ title: Welkom
        Wij worden gesteund door
         
         {{< figure src="images/Sponsor_TUe.png" >}}
-        {{< figure src="images/Sponsor_Rabobank.png" >}}
+        <!-- {{< figure src="images/Sponsor_Rabobank.png" >}} -->
+        <!-- Tim Heiszwolf -->
     {{< /banner >}}
     
     {{< banner rotate="-3" padding="55px">}}
-        Proef de sfeer!
+        <b> Proef de sfeer. </b> <br>
         
-        Meld je aan voor een verenigings-avond en doe gratis mee.
+        Je kunt op verschillende avonden bij ons aanschuiven, ook zonder lid te zijn! <br>
 
-        <a href="https://app.kotkt.nl/calendar/">Check de kalender voor meer info</a>
     {{< /banner >}}
 {{< /aside >}}
     
-Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, vaak afgekort tot Knights, is de studenten bord- en rollenspelvereniging van Eindhoven. Houd jij van een goed bordspel, of laat jij liever je fantasie te loop tijdens een rollenspel? Dan moet jij ons niet missen.
+Het Eindhovens Studenten Rollenspel Genootschap Knights of the Kitchen Table, of gewoon de Knights, is de studenten bordspellen- en rollenspelvereniging van Eindhoven. Ben je gek op bordspellen, of laat je liever je fantasie de vrije loop met een goed rollenspel? Dan ben je bij ons aan het juiste adres!
 
-Elke week worden er vele bordspellen gespeeld. Van bekende spellen zoals Kolonisten van Catan, en Ticket to Ride tot minder bekende spellen als Race for the Galaxy, Book of Madness, Kingsburg, Terraforming Mars en meer dan 250 andere.
-Tevens hebben wij meerdere doorloppende rollenspelcampaigns en is er elke 1e woensdag van de maand een one-shot roleplay avond.
+Elke week worden er meerdere bordspellen gespeeld. Bekende spellen zoals (Kolonisten van) Catan en Ticket to Ride, maar ook minder bekende spellen zoals Race for the Galaxy, Big Book of Madness, Kingsburg, Terraforming Mars, en meer dan 250 andere.
 
-Dit alles vind plaats vanuit onze eigen verenigingsruimte, te vinden in Luna op de TU/e campus. In deze ruimte zijn zowel 's middags als 's avonds vaak leden te vinden die even ontspannen via een bord- of rollenspel, gamen, een goed gesprek, of gewoon lekker bankhangen.
+We hebben ook verschillende rollenspel-campaigns en elke maand een one-shot rollenspelavond. Niet alleen het bekende Dungeons and Dragons, maar ook Pathfinder, Blades in the Dark, World of Darkness, en meer.
 
-### Verenigingsavonden
+Dit alles vindt plaats vanuit onze eigen verenigingsruimte in [Luna](https://maps.app.goo.gl/8bHqF5LqzSyr39mC6) op de TU/e campus. Hier spelen leden vaak een bordspel of rollenspel, maken ze huiswerk, of hangen ze gewoon wat rond, zowel 's middags als 's avonds.
 
-Dinsdag en woensdag zijn onze verenigingsavonden. Op deze avonden vanaf 19:30 organiseert de vereniging algemene activiteiten voor alle leden. Elke dinsdagavond is bordspelavond, waar de bordspelliefhebbers van de vereniging bijeen komen om een verscheidenheid aan bordspellen te spelen.
-De woensdagavond wisselt afhankelijk van de dag van de maand. In de regel is elke eerste woensdag van de maand een open rollenspel avond. Op deze avond worden one-shot rollenspellen gespeeld; aan het begin van de avond krijgen spelers een probleem of een premise welke ze op dienen te lossen. Onder leiding van een story teller, welke de gebeurtenissen beschrijft, proberen spelers het probleem op te lossen of op z'n minst escalatie te voorkomen. Tegen het eind van de avond bereikt het verhaal zijn conclusie.
-De 4e woensdag van de maand is onze Tea@ waar onze meest ervaren story tellers advies over onderwerpen van storytelling (zoals sfeer, monsters, karakter creatie) geven aan overige ST's. De overige woensdagavonden hebben een wisselende aard welke via onze interne kalender word gedeeld aan de vereniging. Dit varieert van een thema-avond, kerstdiner, lasergamen, eetestafette en meer.
 
-Wil je de sfeer proeven? Kom dan vooral een keer op onze bord- of rollenspelavond langs!
+### Verenigings-activiteiten
+We hebben veel verschillende activiteiten die meestal plaatsvinden op dinsdag en woensdag vanaf 19:15 uur. Elke dinsdag hebben we onze bordspelavond waar we samen komen en bordspellen spelen. Op woensdag hebben we verschillende activiteiten, variërend van one-shot rollenspellenavonden, storytelling workshops en diverse andere activiteiten zoals bowlen of het kerstdiner en dicebags maken.
 
+Wil je een voorproefje van onze vereniging? Kom dan naar een van onze bordspel- of rollenspelavonden! Je kunt onze activiteitenagenda [hier](https://app.kotkt.nl/activities). bekijken.
+
+<!-- ROLLENSPELLEN -->
 {{< headerimage
     url="images/Rollenspellen2.jpg"
     title="Rollenspellen"
@@ -54,65 +64,31 @@ Wil je de sfeer proeven? Kom dan vooral een keer op onze bord- of rollenspelavon
 {{< aside >}}
    {{< banner rotate="6" padding="41px">}}
        {{< figure src="images/Rollenspellen_icons.png" >}}
-       <b>One-shot Rollenspelavond: </b>
-       Elke 1e woensdag van de maand
+       <b>One-shot Rollenspelavond: </b> <br>
+       Eens per maand (meestal de eerste woensdag) <br><br>
+
+       <b>Looking for Group: </b> <br>
+       Eens per semester.
     {{< /banner >}}
 {{</ aside >}}
 
-Altijd al wilde streken willen uithalen zonder gevolgen? Speel een rollenspel!
-In rollenspellen (tabletop roleplaying games) ga je als een karakter samen met anderen op avontuur begeleid door een Storyteller (Dungeon Master). Deze ST beschrijft alles en iedereen die jullie tegenkomen op het avontuur. De diepe grotten van Ckbaktar, het lege open sterrenstelsel onderweg naar Alpha Centauri of het verlaten dorp van je familie. De wereld is onbegrenst. De mogenlijkheden onbeperkt.
+Altijd al wilde streken willen uithalen zonder gevolgen? Probeer een rollenspel!
 
-### Oneshot Rollenspellen
-Oneshots zijn rollenspellen die uit slechts één sessie bestaan. Aan het eind van deze sessie is het verhaal afgerond (vredig einde niet gegarandeerd).
-Elke eerste woensdag van de maand is er de open-rollenspelavond. Hier presenteren meerdere ST's hun verhaal concept welke die avond 'gerunt' zullen worden. Leden besluiten daarna bij wie ze willen spelen. Wil jij het ook een keer proberen? Kom dan gratis een keertje langs om de smaak te proeven!
+In rollenspellen (tabletop roleplaying games) ga je als een karakter samen met anderen op avontuur, begeleid door een Storyteller (ST) of Dungeon Master (DM). Deze ST beschrijft alles en iedereen die je onderweg tegenkomt. Van de diepe grotten van Ckbaktar, het lege sterrenstelsel op weg naar Alpha Centauri, tot het verlaten dorp van je familie. De wereld is onbegrensd, de mogelijkheden onbeperkt.
 
-### Rollenspel campaigns
-De Knights hebben meerdere doorlopende campaigns. Dit zijn doorlopende verhalen verspreid over meedere (vaak tweewekelijkse) sessies.
-Aan het begin van elk semester (begin september, eind februari) organiseert de Knights een Looking for Group. Op deze avond komen spelers op zoek naar een campaign en ST's op zoek naar spelers bijeen. De (nieuwe) campaigns zoeken deze avond vervolgens naar een datum waarop alle spelers standaard kunnen.
-Vanuit de vereniging word hard geprobeerd om alle doorlopende campaigns ruimte te geven in Luna.
+### One-shot Rollenspellen
+One-shots zijn rollenspellen die uit slechts één sessie bestaan. Aan het einde van de sessie wordt het verhaal afgesloten (een goed einde wordt niet gegarandeerd).
 
-### Tea@ Knights
-Voor de Storytellers is er ook de Tea@ welke elke 4e woensdag van de maand plaats vind. Onze meest ervaren Storytellers geven op deze avond workshops over systemen, monsters, sfeer, pitchen en allerlei andere onderwerpen nuttig voor iedere ST. Ook hebben wij een grote verscheidenheid aan literatuur over de verscheidene systemen voor leden om open te slaan. 
+Elke maand, meestal de eerste woensdag, organiseren we een one-shot roleplay avond. Hier presenteren meerdere van onze ST's hun concepten die ze gaan 'runnen'. Men kan dan beslissen waaraan ze mee willen doen. Wil je het zelf proberen? Kom gratis langs om de smaak van avontuur te proeven!
 
-{{< headerimage
-    url="images/LARP.jpg"
-    title="LARP"
-    id="larp" 
-     >}}
-     
-{{< aside >}}
-  {{< banner rotate="-2" padding="5px">}}
-      {{< figure src="images/Zwaardvecht_icons.png" >}}
-      Zwaardvecht training
-      Elke tweede donderdag
-      19:30
-      
-      Messing Schaar dag
-      Elke 1e zondag van de maand
-   {{< /banner >}}
-{{</ aside >}}
+### Rollenspel Campaigns
+De Knights hosten meerdere doorlopende campaigns. Dit zijn langer lopende verhalen verspreid over meerdere (vaak tweewekelijkse) sessies.
 
-Bij de Knights zijn ook veel fans van Life Action Roleplaying, ookwel bekend als LARP. Een LARP is vergelijkbaar met Tabletop Roleplay met het verschil dat je niet alleen je mond, maar je hele lichaam inzet om je karakter uit te spelen.
+Aan het begin van elk semester (meestal in oktober en maart) wordt er een _Looking for Group_ georganiseerd. Op deze avond komen spelers op zoek naar een campaign en ST's op zoek naar spelers bijeen.
 
-Wij bieden hulp bij het maken van larpkostuums. Elke eerste zondag van de maand is er een messing-schaar dag waar leden heen kunnen gaan voor advies in zowel waar het beste materiaal gehaald kan worden evenals het zelf naaien van je LARP outfit.
+De vereniging voorziet elke campaign van materiaal (zoals mini's, maps, boeken, etc.) en een ruimte om sessies in te houden.
 
-### Larp Zwaardvechttrainingen
-
-Wanneer het warm genoeg is in de lente, zomer en herfst organiseren de Knights, twee-wekelijks LARP zwaardvechttrainingen op de donderdag. Met behulp van schuimrubberen larp zwaarden worden er trainingen gegeven door enkele leden op het veilig, maar ook spectaculair uitvoeren van zwaardvecht gevechten tijdens larps en andere momenten.
-
-### Fantasy Court
-
-De Knights organiseren ook jaarlijks Fantasy Court, een festival welke aandacht vestigd op de Fantasy en LARP cultuur. Ter plaatse zijn verscheidene LARP verenigingen, brouwers, LARP-kleding en attributen stands, bordspellen, muziek, dans, een zwaardvecht toernooi en meer. Houd onze website of facebook in de gaten voor meer informatie over de komende editie.
-
-### Externe Larps
-
-Tevens ondersteunen wij twee lokale LARP verenigingen: het Schimmenspel en Plotwevers wie ieder respectievelijk een maandelijkse LARP organiseren:
-
-- ####   Bunker
-    
-- ####  Lichtbaken Eindhoven:
-Wezens uit een parallel universum ontvoeren mensen om hen vervolgens te veranderen in andere entiteiten (kaars, stoel, vogel) in een andere wereld. Mensen die ontsnapt zijn en terugkeren in de normale wereld zijn veranderd in 'changelings'. In Lichtbaken Eindhoven is zo'n groep Changelings gesettled in een hoop elkaar te beschermen van deze kwaade tweede wereld.
-
+<!-- BORDSPELLEN -->
 {{< headerimage
     url="images/Bordspellen.jpg"
     title="Bordspellen"
@@ -122,42 +98,63 @@ Wezens uit een parallel universum ontvoeren mensen om hen vervolgens te verander
 {{< aside >}}
   {{< banner rotate="9" padding="51px">}}
       {{< figure src="images/Bordspellen_icons.png" >}}
-      Bordspelavond
-      Elke dinsdagavond
-      19:30
+      <b> Bordspelavond </b> <br>
+      Elke dinsdag <br>
+      19:15
    {{< /banner >}}
 {{</ aside >}}
 
+Elke dinsdagavond organiseren we een bordspelavond waar veel van onze leden langskomen voor een leuk spel. Dit kan een van onze korte bordspellen zijn, zoals de Grote Dalmuti en Fantasy Realms. Ook zijn er middellange bordspellen als Suburbia, (Kolonisten van) Catan, Dominion, of Dungeon Lords. Daarnaast zijn er ook lange spellen, zoals Nations, Terra Mystica, en Battlestar Galactica. Deze avonden beginnen om 19:15u, het is handig er op tijd te zijn sinds later aankomen kan betekenen dat iedereen al begonnen is aan een spel.
 
-Elke dinsdagavond is er een bordspelavond waarop vele leden langs komen voor een bordspel. Van korte bordspellen zoals de Grote Dalmuti en Fantasy Realms tot middellange bordspellen als Suburbia, Kolonisten van Catan, Dominion, Dungeon Lords... tot de langere spellen als Nations, Terra Mystica, en Battlestar Gallactica. Deze avond begint om 19:30. Wees op tijd, bij late aankomst kan het zijn dat iedereen al bezig is in een spel.
+Is één avond niet genoeg om je lust voor strategie te verzadigen? Geen zorgen! Veel van onze leden spelen ook 's middags en op andere avonden een spel. Een van de voordelen van het hebben van een eigen ruimte; de spellen liggen altijd te wachten om gespeeld te worden!
 
-Is één avond niet voldoende? Geen zorgen. Overdag of op andere dagen word vaak ook door leden een kast uit de spel gepakt.
+Voor sommigen kan zelfs dit niet genoeg zijn. Daarom is er aan het eind van elk TU/e-kwartiel een lange bordspeldag waar je de hele dag spellen kunt spelen, of één lang spel van 5+ uur zoals Twilight Imperium of het Game of Thrones bordspel.
 
-Voor sommigen zijn zelfs deze spellen niet voldoende. Daarom is er aan het eind van elk kwartiel van de TU/e een lange bordspeldag waarop de lange spellen als Twilight Imperium en Game of Thrones worden gespeeld.
+Wil je nog meer? Misschien sta je wel open voor een 12+ uur durend bordspel zoals Virgin Queen of Here I Stand. Al kun je misschien beter zelf een datum kiezen in de zomer- of kerstvakantie.
 
-Nog steeds niet genoeg gehad? Wellicht heb je dan zin in 20 uur Virgin Queen of Here I Stand, al zal je daarvoor toch echt zelf een datum voor moeten prikken in de zomer- of kerstvakantie.
+Ben je geïnteresseerd in alle bordspellen die we bij de Knights hebben en die gespeeld kunnen worden door leden van de Knights? Bekijk dan onze [bordspellen inventaris](https://app.kotkt.nl/boardgames/).
 
-Ben je benieuwd naar alle spellen die wij in de kast hebben liggen en door onze leden gespeeld kunnen worden? Bekijk onze [bordspellen inventaris](https://app.kotkt.nl/boardgames/). 
-
+<!-- LARP -->
 {{< headerimage
-    url="images/Lid2.jpg"
-    title="Lid worden?"
-    id="borg" 
+    url="images/LARP.jpg"
+    title="LARP"
+    id="larp" 
      >}}
      
 {{< aside >}}
-  {{< banner rotate="-5" padding="2px">}}
-      Proef de sfeer:
-      Meld je aan voor een verenigings-avond en doe gratis mee,
-      <a href="https://app.kotkt.nl/calendar/">Check de kalender voor meer info</a>
+  {{< banner rotate="-2" padding="5px">}}
+      {{< figure src="images/Zwaardvecht_icons.png" >}}
+      <b> Zwaardvecht training </b> <br>
+      Om de donderdag.  <br> <br>
+      
+      <b> Messing Schaar dag </b> <br>
+      Zondag, eens per maand.
    {{< /banner >}}
 {{</ aside >}}
 
+Bij de Knights zijn er ook fans van Live Action Roleplaying, beter bekend als LARP. Een LARP is vergelijkbaar met tabletop roleplaying, waarbij je in plaats van je acties te beschrijven, je lichaam gebruikt om je acties uit te voeren. Het lijkt bijna op theater, alleen zijn de spelers ook het publiek.
+
+### LARP Zwaardvechttrainingen
+Het hele jaar door organiseert de Knights een twee-wekelijkse LARP zwaardvechttrainingen op de donderdag. Met behulp van schuimrubberen LARP-zwaarden worden er trainingen gegeven door enkele leden op het veilig, maar ook spectaculair uitvoeren van gevechten tijdens LARPs en andere momenten. Aan het einde van het acadmisch jaar vindt er ook een klein toernooi plaats.
+
+### Messing Schaar: Arts & Crafts
+Onze vereniging helpt bij het maken en uitbreiden van kostuums. Elke maand komen leden bij elkaar voor de Messing Schaar Dag waar leden terecht kunnen voor hulp bij het juiste materiaal kunt kopen, maar ook voor het bewerken en naaien van de materialen om je LARP-kostuum te maken. Ook kan je bezig gaan met andere leuke knutselprojecten!
+
+### Fantasy Court
+De Knights organiseert ook het jaarlijkse Fantasy Court Festival, waar de Fantasy en LARP-cultuur tot uiting komt. Tijdens dit festival zullen verschillende LARP-verenigingen aanwezig, evenals stands met kleding, roleplay en andere fantasy artikelen. Ook is er, muziek, dans, een zwaardvechttoernooi en meer. Klinkt dit leuk? Neem dan eens een kijkje op [hun website](https://fantasycourt.nl/).
+
+<!-- Lid worden? -->
+{{< headerimage
+    url="images/Lid2.jpg"
+    title="Wil je meedoen?"
+    id="borg" 
+     >}}
      
-Heb je interesse en wil je de sfeer proeven? Kom dan gratis een keertje langs op de dinsdag, of de rollenspelwoensdag (1e van de maand) om de sfeer te proeven. Je kan ons vinden op vloer -1 van La Luna op de TU/e-campus (grote rode deur naast de spar en dan de trap af). Je kan al onze activiteiten [in onze kalender](https://app.kotkt.nl/calendar/) bekijken.
+Ben je geïnteresseerd en wil je ons een keer ervaren? Kom dan langs op een willekeurige dinsdag of roleplay woensdag en probeer ons zelf gratis uit. Je kunt ons vinden in de kelder van Luna op de TU/e-campus. (Ga door de grote rode deur naast de Spar en daal de trap af aan de achterkant.) Je kunt al onze activiteiten bekijken [in onze agenda](https://app.kotkt.nl/activities/).
 
-Als je dan overtuigd bent kan je ter plaatse een inschrijfformulier invullen. Echter om lid te worden dien je student te zijn in Eindhoven. Studeer je buiten Eindhoven? Neem dan contact met het bestuur op bestuur@kotkt.nl. Hiervoor dienen zij namelijk uitzondering te verlenen.
+Als je overtuigd bent dat je lid wilt worden, kun je het [aanmeldformulier](https://app.kotkt.nl/join) invullen. Studeer je buiten Eindhoven? Neem dan contact op met het bestuur via signup@kotkt.nl aangezien het proces om lid te worden iets anders is.
 
-Lidmaatschap voor een jaar kost €30,- voor een geheel jaar of €15,- wanneer je lid wordt na aanvang van het 2e semester van de TU/e.
+Lidmaatschap kost €30,- voor het hele jaar of €18,- als je lid wordt na de start van het 2e semester van de TU/e.
 
-Wij hopen je graag spoedig te zien. Tot dan! 
+We hopen je snel te zien. Tot dan!
+

@@ -1,8 +1,11 @@
 footer {
-  width: 100vw;
   background-color: $backgroundColorInverted;
   color: $textColorInverted;
   padding: 40px;
+
+  @include media-breakpoint-up(sm) {
+    width: 100vw;
+  }
 
   .footer-content {
     width: $containerWidth;
@@ -11,13 +14,11 @@ footer {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: flex-start;
+    row-gap: 1em;
 
     div {
       width: $containerWidth/2;
       max-width: 100%;
-      flex-direction: column;
-      align-items: flex-start;
 
       * {
         margin: 0px
