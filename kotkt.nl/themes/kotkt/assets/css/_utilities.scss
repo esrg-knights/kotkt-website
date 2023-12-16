@@ -5,12 +5,12 @@
   margin-left: -50vw;
 
   display: flex;
-  flex-direction: column;
   justify-content: flex-end;
-
-  .header-title {
+  
+  .header-horizontal {
     display: flex;
-    // justify-content: space-between;
+    flex-direction: column;
+    justify-content: space-between;
   }
 }
 

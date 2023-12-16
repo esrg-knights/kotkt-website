@@ -1,4 +1,4 @@
-.button {
+.button-ext {
     display: inline-block;
     border-radius: 4px;
     background-color: #0a9425;
@@ -20,11 +20,11 @@
     }
 }
 
-.button:hover {
+.button-ext:hover {
     background-color: #075b18
 }
 
-.button span:after {
+.button-ext span:after {
     content: '\00bb';
     position: absolute;
     opacity: 0;
@@ -33,11 +33,11 @@
     transition: 0.5s;
 }
 
-.button:hover span {
+.button-ext:hover span {
     padding-right: 25px;
 }
 
-.button:hover span:after {
+.button-ext:hover span:after {
     opacity: 1;
     right: 0;
 }
