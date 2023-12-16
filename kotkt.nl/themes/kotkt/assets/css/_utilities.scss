@@ -5,23 +5,58 @@
   margin-left: -50vw;
 
   display: flex;
+  flex-direction: column;
   justify-content: flex-end;
-  
+
+  @include media-breakpoint-up(sm) {
+    flex-direction: row;
+  }
+
   .header-horizontal {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    align-items: center;
+
+    @include media-breakpoint-up(sm) {
+      flex-direction: row;
+      align-items: flex-end;
+      width: 100%;
+    }
+
+    .btn-list {
+      display: flex;
+      flex-direction: column;
+      margin-top: 50px;
+
+      @include media-breakpoint-up(sm) {
+        row-gap: 2px;
+        margin-top: 0px;
+      }
+    }
+
   }
+
 }
 
 .header-full {
-  height: 85vh;
+  min-height: 60vh;
   border-bottom: $backgroundColorInverted 30px solid;
 
-  div {
-    padding: 50px;
+  @include media-breakpoint-up(sm) {
+    min-height: 85vh;
+  }
 
-    h1, h3, h4 {
+  >div {
+    padding: 10px;
+
+    @include media-breakpoint-up(sm) {
+      padding: 50px;
+    }
+
+    h1,
+    h3,
+    h4 {
       margin: 0px;
       text-shadow: 0 0 4px $textColorInverted;
     }

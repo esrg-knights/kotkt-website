@@ -1,6 +1,4 @@
-<div class="header header-full" style='
-background: #222222 url({{ .Get "url" }}) center/cover;
-'>
+<div class="header header-full" style='background: #222222 url({{ .Get "url" }}) center/cover;'>
     <div class="header-horizontal">
 
         <div>
@@ -8,7 +6,7 @@ background: #222222 url({{ .Get "url" }}) center/cover;
             <h4>{{ .Get "subtitle" }}</h4>
         </div>
 
-        <div>
+        <div class="btn-list">
             {{ .Inner }}
         </div>
     </div>

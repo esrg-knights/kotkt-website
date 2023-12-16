@@ -1,5 +1,5 @@
 .content {
-  @media screen and (min-width: $mobileWidth) {
+  @include media-breakpoint-up(sm) {
     padding-top: $navbarHeight;
   }
 
