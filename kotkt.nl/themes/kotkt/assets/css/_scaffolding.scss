@@ -1,24 +1,18 @@
 .content {
-  @include media-breakpoint-up(sm) {
-    padding-top: $navbarHeight;
-  }
-
-  p, h3 {
-    @media screen and (max-width: $mobileWidth){
-      margin-left: 15px;
-      margin-right: 15px;
-    }
-  }
-
+  // ????
   div > div > h2 {
     margin-left: 15px;
     margin-right: 15px;
   }
 
-
-
-  width: $containerWidth;
+  padding-right: 10px;
+  padding-left: 10px;
   max-width: 100%;
   margin: auto;
   display: block;
+
+  @include media-breakpoint-up(sm) {
+    width: $containerWidth;
+    padding-top: $navbarHeight;
+  }
 }

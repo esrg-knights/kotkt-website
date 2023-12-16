@@ -1,4 +1,10 @@
 .header {
+  background-color: #222222;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  // Fill entire page (beyond padding)
   width: 100vw;
   position: relative;
   left: 50%;
@@ -7,10 +13,6 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-
-  @include media-breakpoint-up(sm) {
-    flex-direction: row;
-  }
 
   .header-horizontal {
     display: flex;
@@ -45,6 +47,7 @@
 
   @include media-breakpoint-up(sm) {
     min-height: 85vh;
+    flex-direction: row;
   }
 
   >div {
@@ -71,9 +74,12 @@
   }
 
   border-top: $backgroundColorInverted 10px solid;
-  height: 200px;
   color: $textColorInverted;
   text-shadow: 0 0 4px $textColor;
+
+  @include media-breakpoint-up(sm) {
+    height: 200px;
+  }
 }
 
 .hide-on-mobile {
