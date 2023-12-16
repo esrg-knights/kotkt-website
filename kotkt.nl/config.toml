@@ -19,14 +19,14 @@ title = "Tabletop roleplay"
 url = "/#roleplaying-games"
 weight = 2
 [[languages.en.menu.main]]
-identifier = "larp"
-title = "LARP"
-url = "/#larp"
-weight = 3
-[[languages.en.menu.main]]
 identifier = "bordspellen"
 title = "Boardgames"
 url = "/#boardgames"
+weight = 3
+[[languages.en.menu.main]]
+identifier = "larp"
+title = "LARP"
+url = "/#larp"
 weight = 4
 [[languages.en.menu.main]]
 identifier = "Agenda"
@@ -60,14 +60,14 @@ title = "Rollenspellen"
 url = "/#roleplaying-games"
 weight = 2
 [[languages.nl.menu.main]]
-identifier = "larp"
-title = "LARP"
-url = "/#larp"
-weight = 3
-[[languages.nl.menu.main]]
 identifier = "bordspellen"
 title = "Bordspellen"
 url = "/#boardgames"
+weight = 3
+[[languages.nl.menu.main]]
+identifier = "larp"
+title = "LARP"
+url = "/#larp"
 weight = 4
 [[languages.nl.menu.main]]
 identifier = "Agenda"
