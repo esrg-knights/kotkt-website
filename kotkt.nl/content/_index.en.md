@@ -4,8 +4,11 @@ title: Welcome
 {{< articleimage
     url="/images/Titel.jpg" 
     title="E.S.R.G. Knights of the Kitchen Table"
-   subtitle="The Board and Roleplaying association in Eindhoven"  
-     >}}
+   subtitle="The Board and Roleplaying association in Eindhoven"  >}}
+    {{< button 
+        link="https://app.kotkt.nl/activities"
+        text="See our activities!">}}
+{{< /articleimage >}}
 
 {{< headerimage
     url="/images/Wie_zijn_wij.jpg"
@@ -38,10 +41,14 @@ We also feature several roleplaying campaigns, as well as a one-shot roleplaying
 
 This all takes place from our own association room, in the [Luna building](https://maps.app.goo.gl/8bHqF5LqzSyr39mC6) on the TU/e campus. In this room, members are often playing a board game or a roleplaying game, doing homework or just casually hanging around during both afternoons and evenings.
 
+{{< button
+>}}
+
 
 ### Association activities
 
 We have many different activities mostly taking place on Tuesdays and Wednesdays starting at 19:15. Every Tuesday we have our Board Game night where we come together and play board games. On Wednesday we have differing activities ranging from One-shot Roleplaying Game evenings to Story Telling Workshops and various others like Christmas dinners and bowling.
+<!-- marker>
 
 Do you want to get a taste of our association? Then please join us at one of our Board Game or Roleplaying Evenings! 
 

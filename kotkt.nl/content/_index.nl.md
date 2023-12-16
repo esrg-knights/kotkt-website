@@ -5,7 +5,7 @@ title: Welkom
     url="images/Titel.jpg" 
     title="E.S.R.G. Knights of the Kitchen Table"
    subtitle="De Bord- en Rollenspellen vereniging van Eindhoven"  
-     >}}
+     />}}
 
 {{< headerimage
     url="images/Wie_zijn_wij.jpg"
