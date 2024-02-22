@@ -150,7 +150,7 @@ De Knights organiseert ook het jaarlijkse Fantasy Court Festival, waar de Fantas
     id="borg" 
      >}}
      
-Ben je geïnteresseerd en wil je ons een keer ervaren? Kom dan langs op een willekeurige dinsdag of roleplay woensdag en probeer ons zelf gratis uit. Je kunt ons vinden in de kelder van Luna op de TU/e-campus. (Ga door de grote rode deur naast de Spar en daal de trap af aan de achterkant.) Je kunt al onze activiteiten bekijken [in onze agenda](https://app.kotkt.nl/activities/).
+Ben je geïnteresseerd en wil je ons een keer ervaren? Kom dan langs op een willekeurige dinsdag of roleplay woensdag en probeer ons zelf gratis uit. Je kunt ons vinden in de kelder van Luna op de TU/e-campus. (Ga door de grote blauwe deur naast de Spar en daal de trap af aan de achterkant.) Je kunt al onze activiteiten bekijken [in onze agenda](https://app.kotkt.nl/activities/).
 
 Als je overtuigd bent dat je lid wilt worden, kun je het [aanmeldformulier](https://app.kotkt.nl/join) invullen. Studeer je buiten Eindhoven? Neem dan contact op met het bestuur via signup@kotkt.nl aangezien het proces om lid te worden iets anders is.
 
