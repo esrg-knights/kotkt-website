@@ -148,7 +148,7 @@ The Knights also organize the yearly Fantasy Court Festival, which expresses the
     id="borg" 
      >}}
 
-Are you interested and want to experience us? Come drop by any Tuesday or roleplay Wednesday and see for yourself for free. You can find us in the basement of Luna on the TU/e campus. (Enter the big red door left to the Spar and right next to hubble and descend the stairs in the back.) You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/).
+Are you interested and want to experience us? Come drop by any Tuesday or roleplay Wednesday and see for yourself for free. You can find us in the basement of Luna on the TU/e campus. (Enter the big blue door left to the Spar and right next to hubble and descend the stairs in the back.) You can view all our activities [in our calendar](https://app.kotkt.nl/calendar/).
 
 If you are convinced that you want to become a member, you can fill in the [registration form](https://app.kotkt.nl/join). Are you studying outside of Eindhoven? Please contact the board at bestuur@kotkt.nl since the process of becoming a member is slightly different.
 
