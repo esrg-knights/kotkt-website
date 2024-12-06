@@ -4,13 +4,13 @@ on: [push, pull_request]
 jobs:
   build:
     name: Build site with Hugo
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     strategy:
       matrix:
         hugo: ["0.88.1"]
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Download Hugo
         run: |
           wget https://github.com/gohugoio/hugo/releases/download/v${{ matrix.hugo }}/hugo_extended_${{ matrix.hugo }}_Linux-64bit.tar.gz
@@ -20,19 +20,19 @@ jobs:
           cd kotkt.nl
           ../hugo
       - name: Upload site as artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: kotkt.nl/public/
   deploy:
     name: Deploy site to production
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     needs: build
     if: github.event_name == 'push' && github.ref == 'refs/heads/master'
 
     steps:
       - name: Download website
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4
         with:
           name: site
           path: site
