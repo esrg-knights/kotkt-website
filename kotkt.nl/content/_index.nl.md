@@ -158,3 +158,11 @@ Lidmaatschap kost €30,- voor het hele jaar of €18,- als je lid wordt na de s
 
 We hopen je snel te zien. Tot dan!
 
+<!-- Wie is het (kandi) Bestuur? -->
+{{< headerimage
+    url="images/Lid2.jpg"
+    title="Wie is het (kandi) Bestuur?"
+    id="board" 
+     >}}
+     
+Wauw wat is het bestuur toch mooi

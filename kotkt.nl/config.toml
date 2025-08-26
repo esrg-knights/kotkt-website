@@ -2,6 +2,7 @@ baseURL = "https://kotkt.nl"
 languageCode = "en-us"
 theme = "kotkt"
 defaultContentLanguage = "nl"
+relativeURLs = true
 
 [languages]
 [languages.en]
@@ -84,3 +85,8 @@ identifier = "contact"
 title = "Contact"
 url = "#contact"
 weight = 7
+[[languages.nl.menu.main]]
+identifier = "Board"
+title = "Het Bestuur"
+url = "/#board"
+weight = 8
