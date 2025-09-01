@@ -44,6 +44,11 @@ identifier = "contact"
 title = "Contact"
 url = "#contact"
 weight = 7
+[[languages.en.menu.main]]
+identifier = "Board"
+title = "The Board"
+url = "/#board"
+weight = 8
 
 
 [languages.nl]

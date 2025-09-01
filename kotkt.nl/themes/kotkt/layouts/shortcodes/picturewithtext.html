@@ -1,0 +1,8 @@
+<sidebyside class="sidebyside">
+  {{ $src := .Get "src" }}
+  <div class="imagediv"><img src="{{ $src }}" class="myImage"/></div>
+  <div class="text">
+    <h2 class="heading">{{ .Get "title" }}</h2>
+    <div class="heading">{{ .Inner | markdownify }}</div>
+  </div>
+</sidebyside>

@@ -116,7 +116,7 @@ Ben je geïnteresseerd in alle bordspellen die we bij de Knights hebben en die g
 
 <!-- LARP -->
 {{< headerimage
-    url="images/LARP.jpg"
+    url="images/LARPbruikbaar.jpg"
     title="LARP"
     id="larp" 
      >}}
@@ -158,11 +158,59 @@ Lidmaatschap kost €30,- voor het hele jaar of €18,- als je lid wordt na de s
 
 We hopen je snel te zien. Tot dan!
 
-<!-- Wie is het (kandi) Bestuur? -->
+<!-- Wie is het Bestuur? -->
 {{< headerimage
-    url="images/Lid2.jpg"
-    title="Wie is het (kandi) Bestuur?"
+    url="images/board/board.jpeg"
+    title="Wie is het Bestuur?"
     id="board" 
      >}}
-     
-Wauw wat is het bestuur toch mooi
+
+{{<picturewithtext 
+    src=images/board/Kees.jpg 
+    title="Voorzitter">}}
+Hey! Ik ben Kees,  
+Ik ben een enorme fan van bordspellen en altijd in voor nog een potje. Mijn favoriete spel is Kingsburg — grappig genoeg ook een van de eerste spellen die ik ooit bij de Knights speelde.
+
+Als voorzitter kun je altijd bij me terecht met je vragen, ik help je graag! Ik kijk uit naar een fantastisch jaar en hoop je snel te zien!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Stan.jpg
+    title="Secretaris">}}
+Hallo! Ik ben Stan.  
+Ik ben inmiddels al twee jaar lid van de Knights en dit jaar ben ik de secretaris. Je vindt me meestal tijdens de lunch in de Knights-kamer, dus voel je vrij om me iets te vragen!  
+
+Ik ben vooral bezig geweest met TTRPG’s, dus ik ben misschien een wat minder bekend gezicht voor de bordspelliefhebbers — maar daar hoop ik dit jaar verandering in te brengen!
+Tot snel!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Olaf.jpg
+    title="Penningmeester">}}
+Hoi, ik ben Olaf,  
+Ik studeer Informatica en Toegepaste Wiskunde en ben de penningmeester van de Knights.
+
+
+.
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Joris.jpg
+    title="Administrator ">}}
+Hoi, ik ben Joris!  
+Ik ben nog redelijk nieuw bij de Knights — ik ben namelijk pas vorig jaar lid geworden. Het beviel me zo goed dat ik dit jaar besloot om bij het bestuur te gaan! Eén van mijn grootste spijtpunten is dat ik niet eerder lid ben geworden, toen ik jaren geleden voor het eerst kennismaakte met de vereniging.
+
+Ik houd zowel van de roleplay- als de bordspelkant van de Knights, en ik kijk ernaar uit om mee te helpen er een nog leukere plek van te maken voor iedereen. Hopelijk zie ik je snel — en je mag me altijd iets vragen!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Lore.jpg
+    title="Internal Affairs">}}
+Hey, ik ben Lore, Interne Zaken, lokale idioot en fan van videogames. Praat met me over Homestuck en ik verander in een onoverslabare cutscene. Het is zeldzaam als je me niet vindt tijdens de bordspelavonden, en je ziet me waarschijnlijk ook nog laat op de avond rondhangen om te kletsen. Dus voel je vrij om hallo te zeggen!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Melina.jpg
+    title="External Affairs">}}
+yay
+{{</picturewithtext>}}

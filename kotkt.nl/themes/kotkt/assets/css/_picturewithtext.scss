@@ -1,0 +1,20 @@
+sidebyside {
+    display: flex;
+    flex-direction: row;
+    margin: 2%;
+    .imagediv {
+        width: 30%;
+        margin-right: 3%;
+        position: relative;
+        img {
+            width: 100%;
+            display: flex;
+            border: 5px solid #42371e;
+            position: absolute;
+            bottom: 0;
+        }
+    }
+    .text {
+        width: 70%;
+    }
+}
