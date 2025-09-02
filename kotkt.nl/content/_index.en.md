@@ -14,6 +14,9 @@ title: Welcome
     {{< button 
         link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
         text="Our Location">}}
+    {{< button 
+        link="https://forms.gle/RVphq7Q7owxN4D947"
+        text="Request a buddy!">}}
 {{< /articleimage >}}
 
 {{< headerimage
@@ -185,8 +188,9 @@ See you soon!
 {{<picturewithtext
     src=images/board/Olaf.jpg
     title="Treasurer">}}
-Hi, I'm Olaf,  
-I'm a computer science and applied mathematics student and Treasure for the Knights.
+Hey I'm Olaf, at the moment I'm a third year student applied mathematics and computer science. This will also be my third year at the Knights. Most people will have seen me around already, maybe as part of the Knights intro committee during your intro, or maybe when I was in the Knights room in between lectures and activities.  
+
+As treasurer i will be responsible for most of the financial things, so feel free to ask me anything questions regarding this.
 {{</picturewithtext>}}
 
 {{<picturewithtext
@@ -208,5 +212,5 @@ Hey, I'm Lore, Internal Affairs, local idiot, and video game enjoyer. Talk to me
 {{<picturewithtext
     src=images/board/Melina.jpg
     title="External Affairs">}}
-yay
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi libero, blandit quis leo in, convallis tincidunt ante. Nunc condimentum pulvinar mauris ullamcorper hendrerit. Mauris suscipit pretium lectus et tristique. Donec sed mauris nec risus ullamcorper porta pharetra nec sem. Sed vel pharetra dolor. Quisque a tellus eu ante consequat sodales. Phasellus accumsan vitae metus nec dignissim. Suspendisse laoreet sodales purus nec porta. Suspendisse potenti. Nullam facilisis metus est, in pharetra orci lacinia ac. Nulla id sagittis elit. Praesent arcu arcu, accumsan mattis nulla ac, accumsan consequat odio.
 {{</picturewithtext>}}

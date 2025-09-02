@@ -15,6 +15,9 @@ title: Welkom
     {{< button 
         link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
         text="Onze Locatie">}}
+    {{< button 
+        link="https://forms.gle/RVphq7Q7owxN4D947"
+        text="Vraag een buddy aan!">}}
 {{< /articleimage >}}
 
 {{< headerimage
@@ -187,11 +190,9 @@ Tot snel!
 {{<picturewithtext
     src=images/board/Olaf.jpg
     title="Penningmeester">}}
-Hoi, ik ben Olaf,  
-Ik studeer Informatica en Toegepaste Wiskunde en ben de penningmeester van de Knights.
+Hey, ik ben Olaf. Op dit moment ben ik derdejaars student Toegepaste Wiskunde en Informatica. Dit wordt ook mijn derde jaar bij de Knights. De meeste mensen zullen me al eens hebben gezien, misschien als onderdeel van de Knights introcommissie tijdens jullie introductie, of misschien toen ik in de Knights-kamer was tussen colleges en activiteiten door.  
 
-
-.
+Als penningmeester ben ik verantwoordelijk voor de meeste financiële zaken, dus voel je vrij om me hierover vragen te stellen.
 {{</picturewithtext>}}
 
 {{<picturewithtext
@@ -212,5 +213,5 @@ Hey, ik ben Lore, Interne Zaken, lokale idioot en fan van videogames. Praat met 
 {{<picturewithtext
     src=images/board/Melina.jpg
     title="External Affairs">}}
-yay
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi libero, blandit quis leo in, convallis tincidunt ante. Nunc condimentum pulvinar mauris ullamcorper hendrerit. Mauris suscipit pretium lectus et tristique. Donec sed mauris nec risus ullamcorper porta pharetra nec sem. Sed vel pharetra dolor. Quisque a tellus eu ante consequat sodales. Phasellus accumsan vitae metus nec dignissim. Suspendisse laoreet sodales purus nec porta. Suspendisse potenti. Nullam facilisis metus est, in pharetra orci lacinia ac. Nulla id sagittis elit. Praesent arcu arcu, accumsan mattis nulla ac, accumsan consequat odio.
 {{</picturewithtext>}}
