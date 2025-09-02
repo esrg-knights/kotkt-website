@@ -14,6 +14,9 @@ title: Welcome
     {{< button 
         link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
         text="Our Location">}}
+    {{< button 
+        link="https://forms.gle/hws7yLUk7ezmVt7x5"
+        text="Request a buddy!">}}
 {{< /articleimage >}}
 
 {{< headerimage
@@ -114,7 +117,7 @@ Are you interested in knowing all of the boardgames we have at the Knights and c
 
 <!-- LARP -->
 {{< headerimage
-    url="/images/LARP.jpg"
+    url="/images/LARPbruikbaar.jpg"
     title="LARP"
     id="larp" 
      >}}
@@ -156,3 +159,60 @@ Membership is €30,- for the entire year or €18,- when you join after the sta
 
 We hope to see you soon. Till then!
 
+<!-- Who is the Board? -->
+{{< headerimage
+    url="images/board/board.jpeg"
+    title="Who is the Board?"
+    id="board" 
+     >}}
+     
+{{<picturewithtext 
+    src=images/board/Kees.jpg 
+    title="Chairman">}}
+Hey! I'm Kees,  
+I'm a huge fan of board games and I'm always down for one more game. My favorite board game has to be Kingsburg, which funnily enough is one of the first games I ever played at the Knights.  
+
+As chairman, you can come to me with any questions you have, as I would love to help! I'm looking forward to a wonderful year and hope to see you around!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Stan.jpg
+    title="Secretary">}}
+Hello! I'm Stan.  
+I've been a member of the Knights for 2 years now and am this year's secretary. I can usually be seen in the Knights room during lunch, so feel free to ask me anything!  
+
+I've mostly been focussed on TTRPGs, so I might be a relatively unknown face for the board game crowd, but I'm looking forward to changing that this year!
+See you soon!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Olaf.jpg
+    title="Treasurer">}}
+Hey I'm Olaf, at the moment I'm a third year student applied mathematics and computer science. This will also be my third year at the Knights. Most people will have seen me around already, maybe as part of the Knights intro committee during your intro, or maybe when I was in the Knights room in between lectures and activities.  
+
+As treasurer i will be responsible for most of the financial things, so feel free to ask me anything questions regarding this.
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Joris.jpg
+    title="Administrator">}}
+Hi, my name is Joris!  
+I’m still relatively new to the Knights, having joined just last year. I enjoyed it so much that I decided to join the board this year! One of my biggest regrets is not becoming a member earlier, back when I first checked out the association years ago.  
+
+I love both the roleplay and board game sides of the Knights, and I’m excited to help make it an even better place for everyone. Hope to see you around — and feel free to ask me anything!
+
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Lore.jpg
+    title="Internal Affairs">}}
+Hey, I'm Lore, Internal Affairs, local idiot, and video game enjoyer. Talk to me about homestuck and i will become an unskippable cutscene. It's a rare occasion if you can't find me during the boardgame evenings and you'll probably also see me sticking around for chatting late into the night so feel free to come and say hi.
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Melina.jpg
+    title="External Affairs">}}
+Salutations, my name is Melina and I very proudly hold the title of commissioner of external affairs of the Knights. What this means is that I am your go to person for any kind of shenanigans that go beyond our beloved association.  
+
+I joined the Knights about two years ago and very quickly found a warm and welcoming community of fellow RPG and board game lovers. I have stuck by ever since and every week I discover yet another board game I gloriously fail at. Find me at (mostly) all activities, I am always excited to meet new people (and lure them into our little community) :D
+{{</picturewithtext>}}

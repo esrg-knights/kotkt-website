@@ -15,6 +15,9 @@ title: Welkom
     {{< button 
         link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
         text="Onze Locatie">}}
+    {{< button 
+        link="https://forms.gle/hws7yLUk7ezmVt7x5"
+        text="Vraag een buddy aan!">}}
 {{< /articleimage >}}
 
 {{< headerimage
@@ -116,7 +119,7 @@ Ben je geïnteresseerd in alle bordspellen die we bij de Knights hebben en die g
 
 <!-- LARP -->
 {{< headerimage
-    url="images/LARP.jpg"
+    url="/images/LARPbruikbaar.jpg"
     title="LARP"
     id="larp" 
      >}}
@@ -158,3 +161,61 @@ Lidmaatschap kost €30,- voor het hele jaar of €18,- als je lid wordt na de s
 
 We hopen je snel te zien. Tot dan!
 
+<!-- Wie is het Bestuur? -->
+{{< headerimage
+    url="images/board/board.jpeg"
+    title="Wie is het Bestuur?"
+    id="board" 
+     >}}
+
+{{<picturewithtext 
+    src=images/board/Kees.jpg 
+    title="Voorzitter">}}
+Hey! Ik ben Kees,  
+Ik ben een enorme fan van bordspellen en altijd in voor nog een potje. Mijn favoriete spel is Kingsburg — grappig genoeg ook een van de eerste spellen die ik ooit bij de Knights speelde.
+
+Als voorzitter kun je altijd bij me terecht met je vragen, ik help je graag! Ik kijk uit naar een fantastisch jaar en hoop je snel te zien!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Stan.jpg
+    title="Secretaris">}}
+Hallo! Ik ben Stan.  
+Ik ben inmiddels al twee jaar lid van de Knights en dit jaar ben ik de secretaris. Je vindt me meestal tijdens de lunch in de Knights-kamer, dus voel je vrij om me iets te vragen!  
+
+Ik ben vooral bezig geweest met TTRPG’s, dus ik ben misschien een wat minder bekend gezicht voor de bordspelliefhebbers — maar daar hoop ik dit jaar verandering in te brengen!
+Tot snel!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Olaf.jpg
+    title="Penningmeester">}}
+Hey, ik ben Olaf. Op dit moment ben ik derdejaars student Toegepaste Wiskunde en Informatica. Dit wordt ook mijn derde jaar bij de Knights. De meeste mensen zullen me al eens hebben gezien, misschien als onderdeel van de Knights introcommissie tijdens jullie introductie, of misschien toen ik in de Knights-kamer was tussen colleges en activiteiten door.  
+
+Als penningmeester ben ik verantwoordelijk voor de meeste financiële zaken, dus voel je vrij om me hierover vragen te stellen.
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Joris.jpg
+    title="Administrator ">}}
+Hoi, ik ben Joris!  
+Ik ben nog redelijk nieuw bij de Knights — ik ben namelijk pas vorig jaar lid geworden. Het beviel me zo goed dat ik dit jaar besloot om bij het bestuur te gaan! Eén van mijn grootste spijtpunten is dat ik niet eerder lid ben geworden, toen ik jaren geleden voor het eerst kennismaakte met de vereniging.
+
+Ik houd zowel van de roleplay- als de bordspelkant van de Knights, en ik kijk ernaar uit om mee te helpen er een nog leukere plek van te maken voor iedereen. Hopelijk zie ik je snel — en je mag me altijd iets vragen!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Lore.jpg
+    title="Internal Affairs">}}
+Hey, ik ben Lore, Internal Affairs, lokale idioot en fan van videogames. Praat met me over Homestuck en ik verander in een onoverslabare cutscene. Het is zeldzaam als je me niet vindt tijdens de bordspelavonden, en je ziet me waarschijnlijk ook nog laat op de avond rondhangen om te kletsen. Dus voel je vrij om hallo te zeggen!
+{{</picturewithtext>}}
+
+{{<picturewithtext
+    src=images/board/Melina.jpg
+    title="External Affairs">}}
+Groetjes! Mijn naam is Melina en ik ben met trots de commissaris External Affairs van de Knights.
+Wat dat betekent? Dat ik jouw aanspreekpunt ben voor alles wat zich buiten onze geliefde vereniging afspeelt.  
+
+Ik ben ongeveer twee jaar geleden bij de Knights gekomen en vond al snel een warme, gastvrije community van mede-RPG- en bordspelliefhebbers.
+Sindsdien ben ik gebleven en elke week ontdek ik wel weer een nieuw bordspel waarin ik glorieus faal. Je vindt me (bijna) op alle activiteiten – ik ontmoet graag nieuwe mensen (en lok ze met plezier onze gezellige community in) :D
+{{</picturewithtext>}}
