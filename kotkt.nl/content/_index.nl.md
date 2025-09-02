@@ -119,7 +119,7 @@ Ben je geïnteresseerd in alle bordspellen die we bij de Knights hebben en die g
 
 <!-- LARP -->
 {{< headerimage
-    url="images/LARPbruikbaar.jpg"
+    url="/images/LARPbruikbaar.jpg"
     title="LARP"
     id="larp" 
      >}}

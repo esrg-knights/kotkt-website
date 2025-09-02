@@ -117,7 +117,7 @@ Are you interested in knowing all of the boardgames we have at the Knights and c
 
 <!-- LARP -->
 {{< headerimage
-    url="images/LARPbruikbaar.jpg"
+    url="/images/LARPbruikbaar.jpg"
     title="LARP"
     id="larp" 
      >}}
