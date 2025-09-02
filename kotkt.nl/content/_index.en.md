@@ -15,7 +15,7 @@ title: Welcome
         link="https://maps.app.goo.gl/8bHqF5LqzSyr39mC6"
         text="Our Location">}}
     {{< button 
-        link="https://forms.gle/RVphq7Q7owxN4D947"
+        link="https://forms.gle/hws7yLUk7ezmVt7x5"
         text="Request a buddy!">}}
 {{< /articleimage >}}
 
