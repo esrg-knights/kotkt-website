@@ -212,5 +212,7 @@ Hey, I'm Lore, Internal Affairs, local idiot, and video game enjoyer. Talk to me
 {{<picturewithtext
     src=images/board/Melina.jpg
     title="External Affairs">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi libero, blandit quis leo in, convallis tincidunt ante. Nunc condimentum pulvinar mauris ullamcorper hendrerit. Mauris suscipit pretium lectus et tristique. Donec sed mauris nec risus ullamcorper porta pharetra nec sem. Sed vel pharetra dolor. Quisque a tellus eu ante consequat sodales. Phasellus accumsan vitae metus nec dignissim. Suspendisse laoreet sodales purus nec porta. Suspendisse potenti. Nullam facilisis metus est, in pharetra orci lacinia ac. Nulla id sagittis elit. Praesent arcu arcu, accumsan mattis nulla ac, accumsan consequat odio.
+Salutations, my name is Melina and I very proudly hold the title of commissioner of external affairs of the Knights. What this means is that I am your go to person for any kind of shenanigans that go beyond our beloved association.  
+
+I joined the Knights about two years ago and very quickly found a warm and welcoming community of fellow RPG and board game lovers. I have stuck by ever since and every week I discover yet another board game I gloriously fail at. Find me at (mostly) all activities, I am always excited to meet new people (and lure them into our little community) :D
 {{</picturewithtext>}}

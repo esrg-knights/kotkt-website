@@ -207,11 +207,15 @@ Ik houd zowel van de roleplay- als de bordspelkant van de Knights, en ik kijk er
 {{<picturewithtext
     src=images/board/Lore.jpg
     title="Internal Affairs">}}
-Hey, ik ben Lore, Interne Zaken, lokale idioot en fan van videogames. Praat met me over Homestuck en ik verander in een onoverslabare cutscene. Het is zeldzaam als je me niet vindt tijdens de bordspelavonden, en je ziet me waarschijnlijk ook nog laat op de avond rondhangen om te kletsen. Dus voel je vrij om hallo te zeggen!
+Hey, ik ben Lore, Internal Affairs, lokale idioot en fan van videogames. Praat met me over Homestuck en ik verander in een onoverslabare cutscene. Het is zeldzaam als je me niet vindt tijdens de bordspelavonden, en je ziet me waarschijnlijk ook nog laat op de avond rondhangen om te kletsen. Dus voel je vrij om hallo te zeggen!
 {{</picturewithtext>}}
 
 {{<picturewithtext
     src=images/board/Melina.jpg
     title="External Affairs">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mi libero, blandit quis leo in, convallis tincidunt ante. Nunc condimentum pulvinar mauris ullamcorper hendrerit. Mauris suscipit pretium lectus et tristique. Donec sed mauris nec risus ullamcorper porta pharetra nec sem. Sed vel pharetra dolor. Quisque a tellus eu ante consequat sodales. Phasellus accumsan vitae metus nec dignissim. Suspendisse laoreet sodales purus nec porta. Suspendisse potenti. Nullam facilisis metus est, in pharetra orci lacinia ac. Nulla id sagittis elit. Praesent arcu arcu, accumsan mattis nulla ac, accumsan consequat odio.
+Groetjes! Mijn naam is Melina en ik ben met trots de commissaris External Affairs van de Knights.
+Wat dat betekent? Dat ik jouw aanspreekpunt ben voor alles wat zich buiten onze geliefde vereniging afspeelt.  
+
+Ik ben ongeveer twee jaar geleden bij de Knights gekomen en vond al snel een warme, gastvrije community van mede-RPG- en bordspelliefhebbers.
+Sindsdien ben ik gebleven en elke week ontdek ik wel weer een nieuw bordspel waarin ik glorieus faal. Je vindt me (bijna) op alle activiteiten – ik ontmoet graag nieuwe mensen (en lok ze met plezier onze gezellige community in) :D
 {{</picturewithtext>}}
