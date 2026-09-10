@@ -169,53 +169,42 @@ We hopen je snel te zien. Tot dan!
      >}}
 
 {{<picturewithtext 
-    src=images/board/Kees.jpg 
+    src=images/board/Sander.jpg 
     title="Voorzitter">}}
-Hey! Ik ben Kees,  
-Ik ben een enorme fan van bordspellen en altijd in voor nog een potje. Mijn favoriete spel is Kingsburg — grappig genoeg ook een van de eerste spellen die ik ooit bij de Knights speelde.
-
-Als voorzitter kun je altijd bij me terecht met je vragen, ik help je graag! Ik kijk uit naar een fantastisch jaar en hoop je snel te zien!
+Hallo, ik ben Sander.
+Ik ben al lid van de Knights voor ongeveer drie jaar, en ben zo enthousiast dat ik nu de voorzitter van van het bestuur. Ik ben een grote fan van het spelen van bordspellen, en je zult me waarschijnlijk ook zien tijdens de LARP zwaardvecht trainingen.
+Als je ooit een vraag hebt, voel je vrij om me hiervoor te benaderen, want ik ben altijd bereid
+te helpen.
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=images/board/Stan.jpg
+    src=images/board/Jet.jpg
     title="Secretaris">}}
-Hallo! Ik ben Stan.  
-Ik ben inmiddels al twee jaar lid van de Knights en dit jaar ben ik de secretaris. Je vindt me meestal tijdens de lunch in de Knights-kamer, dus voel je vrij om me iets te vragen!  
-
-Ik ben vooral bezig geweest met TTRPG’s, dus ik ben misschien een wat minder bekend gezicht voor de bordspelliefhebbers — maar daar hoop ik dit jaar verandering in te brengen!
-Tot snel!
+Haihai!
+Ik ben Jet. Mij vind je vooral op de dinsdagen, waar ik co-op- en social deduction spellen speel. Stuur je ons een mailtje? Grote kans dat ik hem zal beantwoorden, want ik ben jullie secretaris. In Luna is de kans ook groot dat je me tegen zal komen, want ik breng veel tijd door in en rondom de knights ruimte. Spreek me ook vooral aan, want ik hou wel van een goede discussie!
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=images/board/Olaf.jpg
+    src=images/board/Sanne.png
     title="Penningmeester">}}
-Hey, ik ben Olaf. Op dit moment ben ik derdejaars student Toegepaste Wiskunde en Informatica. Dit wordt ook mijn derde jaar bij de Knights. De meeste mensen zullen me al eens hebben gezien, misschien als onderdeel van de Knights introcommissie tijdens jullie introductie, of misschien toen ik in de Knights-kamer was tussen colleges en activiteiten door.  
-
-Als penningmeester ben ik verantwoordelijk voor de meeste financiële zaken, dus voel je vrij om me hierover vragen te stellen.
+Hi!
+Mijn naam is Sanne, Ik ben groots fan van bordspellen en een aantal verschillende TCG’s.
+Mijn favoriete bordspel op het moment is Arkham Horror the LCG. Maar ik ben ook altijd te vragen voor een potje Oath, Root en Slay the Spire!
+Als jullie Penningmeester, mag je me ook altijd vragen stellen over alle financiële dingen die spelen. Ik help graag!
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=images/board/Joris.jpg
-    title="Administrator ">}}
-Hoi, ik ben Joris!  
-Ik ben nog redelijk nieuw bij de Knights — ik ben namelijk pas vorig jaar lid geworden. Het beviel me zo goed dat ik dit jaar besloot om bij het bestuur te gaan! Eén van mijn grootste spijtpunten is dat ik niet eerder lid ben geworden, toen ik jaren geleden voor het eerst kennismaakte met de vereniging.
-
-Ik houd zowel van de roleplay- als de bordspelkant van de Knights, en ik kijk ernaar uit om mee te helpen er een nog leukere plek van te maken voor iedereen. Hopelijk zie ik je snel — en je mag me altijd iets vragen!
-{{</picturewithtext>}}
-
-{{<picturewithtext
-    src=images/board/Lore.jpg
+    src=images/board/Jori.jpeg
     title="Internal Affairs">}}
-Hey, ik ben Lore, Internal Affairs, lokale idioot en fan van videogames. Praat met me over Homestuck en ik verander in een onoverslabare cutscene. Het is zeldzaam als je me niet vindt tijdens de bordspelavonden, en je ziet me waarschijnlijk ook nog laat op de avond rondhangen om te kletsen. Dus voel je vrij om hallo te zeggen!
+Hoi, ik ben Jori!
+Ik heb altijd al graag bordspellen gespeeld, dus mijn afgelopen drie jaar als lid van deze vereniging zijn ontzettend leuk geweest. Je kunt me misschien ook tegenkomen bij een van de zwaardvechttrainingen, waar ik de fantasieën die ik normaal gesproken lees tot leven breng.
+Als bestuurslid Interne Zaken zal ik me ervoor inzetten om contact te houden met alle kanten van onze vereniging, dus voel je vrij om me een vraag te stellen.
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=images/board/Melina.jpg
+    src=images/board/Terra.jpg
     title="External Affairs">}}
-Groetjes! Mijn naam is Melina en ik ben met trots de commissaris External Affairs van de Knights.
-Wat dat betekent? Dat ik jouw aanspreekpunt ben voor alles wat zich buiten onze geliefde vereniging afspeelt.  
-
-Ik ben ongeveer twee jaar geleden bij de Knights gekomen en vond al snel een warme, gastvrije community van mede-RPG- en bordspelliefhebbers.
-Sindsdien ben ik gebleven en elke week ontdek ik wel weer een nieuw bordspel waarin ik glorieus faal. Je vindt me (bijna) op alle activiteiten – ik ontmoet graag nieuwe mensen (en lok ze met plezier onze gezellige community in) :D
+Gegroet!
+Ik ben Terra, Commissaris Extern bij de Knights. Ik ben nu een heel jaar lid. Ik heb erg genoten van mijn tijd hier, en ik hoop dit plezier te delen met zo veel mogelijk anderen. Dit is hoe ik mijn bestuurspositie heb gevonden.
+Je kan me in de woonkamer vinden wanneer we bordspellen of TCGs spelen, net als vaak tijdens mijn vrije tijd. Als je me vindt, ben dan niet bang een gesprek te starten!
 {{</picturewithtext>}}
