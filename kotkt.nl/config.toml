@@ -2,6 +2,7 @@ baseURL = "https://kotkt.nl"
 languageCode = "en-us"
 theme = "kotkt"
 defaultContentLanguage = "nl"
+#relativeURLs = true
 
 [languages]
 [languages.en]

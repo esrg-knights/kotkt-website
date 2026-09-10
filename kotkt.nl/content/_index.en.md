@@ -167,51 +167,41 @@ We hope to see you soon. Till then!
      >}}
      
 {{<picturewithtext 
-    src=/images/board/Kees.jpg 
+    src=/images/board/Sander.jpg 
     title="Chairman">}}
-Hey! I'm Kees,  
-I'm a huge fan of board games and I'm always down for one more game. My favorite board game has to be Kingsburg, which funnily enough is one of the first games I ever played at the Knights.  
+Hello, I am Sander.
 
-As chairman, you can come to me with any questions you have, as I would love to help! I'm looking forward to a wonderful year and hope to see you around!
+I have been a member of the Knights for about three years now, and have liked it so much I am now the chairman of the board. I am a big fan of playing boardgames, and you will likely also see me during the LARP sword fighting trainings.
+If you ever have any questions, you are always free to approach me as I am always happy to help.
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=/images/board/Stan.jpg
+    src=/images/board/Jet.jpg
     title="Secretary">}}
-Hello! I'm Stan.  
-I've been a member of the Knights for 2 years now and am this year's secretary. I can usually be seen in the Knights room during lunch, so feel free to ask me anything!  
-
-I've mostly been focussed on TTRPGs, so I might be a relatively unknown face for the board game crowd, but I'm looking forward to changing that this year!
-See you soon!
+Haihai!
+I am Jet. You will mainly find me on Tuesdays, where I play lots of co-op- and social deduction games. If you send us an email, there is a good chance I will be the one to answer, as I am your secretary. In Luna, chances are big you will encounter me, as I spend a lot of time in and around the knights room, where you can come talk to me about just about anything, as I love a good conversation!
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=/images/board/Olaf.jpg
+    src=/images/board/Sanne.png
     title="Treasurer">}}
-Hey I'm Olaf, at the moment I'm a third year student applied mathematics and computer science. This will also be my third year at the Knights. Most people will have seen me around already, maybe as part of the Knights intro committee during your intro, or maybe when I was in the Knights room in between lectures and activities.  
-
-As treasurer i will be responsible for most of the financial things, so feel free to ask me anything questions regarding this.
+Hi!
+I’m Sanne, a huge fan of boardgames and a few different TCG’s. My favourite boardgames at the moment is Arkham Horror the LCG. But I’m also always down for a game of Oath, Root and Slay the Spire!
+As your Treasurer, you can always ask me questions about any financial matters. I’ll be glad to help!
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=/images/board/Joris.jpg
-    title="Administrator">}}
-Hi, my name is Joris!  
-I’m still relatively new to the Knights, having joined just last year. I enjoyed it so much that I decided to join the board this year! One of my biggest regrets is not becoming a member earlier, back when I first checked out the association years ago.  
-
-I love both the roleplay and board game sides of the Knights, and I’m excited to help make it an even better place for everyone. Hope to see you around — and feel free to ask me anything!
-{{</picturewithtext>}}
-
-{{<picturewithtext
-    src=/images/board/Lore.jpg
+    src=/images/board/Jori.jpeg
     title="Internal Affairs">}}
-Hey, I'm Lore, Internal Affairs, local idiot, and video game enjoyer. Talk to me about homestuck and i will become an unskippable cutscene. It's a rare occasion if you can't find me during the boardgame evenings and you'll probably also see me sticking around for chatting late into the night so feel free to come and say hi.
+Greetings, I’m Jori!
+I have always liked playing some boardgames, so my past three years as a member of this association have been highly enjoyable. You might also see me around at some of the sword fighting trainings, living out the fantasies I tend to read.
+As officer of internal affairs I will strive to keep in touch with all sides of our association, so feel free to ask me any questions you might have!
 {{</picturewithtext>}}
 
 {{<picturewithtext
-    src=/images/board/Melina.jpg
+    src=/images/board/Terra.jpg
     title="External Affairs">}}
-Salutations, my name is Melina and I very proudly hold the title of commissioner of external affairs of the Knights. What this means is that I am your go to person for any kind of shenanigans that go beyond our beloved association.  
-
-I joined the Knights about two years ago and very quickly found a warm and welcoming community of fellow RPG and board game lovers. I have stuck by ever since and every week I discover yet another board game I gloriously fail at. Find me at (mostly) all activities, I am always excited to meet new people (and lure them into our little community) :D
+Greetings!
+I’m Terra, the Commissioner External Affairs at the Knights. I have been a member of the Knights for one full year now. I have enjoyed my time here a lot, and I hope to bring that joy to as many people as possible. This is why I found my board position.
+You will find me in the living room whenever we play board games or TCGs, as well as often during my time off. If you find me, don’t be scared to strike up a conversation!
 {{</picturewithtext>}}

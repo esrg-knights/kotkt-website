@@ -21,6 +21,8 @@ To run:
 To build:
 - `hugo`
 
+To make sure that picture load locally, uncomment "relativeURLs = true" in config.toml. Make sure to recomment before pushing!
+
 Make sure you are in the `kotkt.nl/` folder when attempting to run the `hugo` commands.
 
 > In Windows, the relevant Execution Policy needs to be set to be able to run Hugo. In Powershell, this can be done using `Set-ExecutionPolicy RemoteSigned -scope Process`. The former Execution Policy is restored once this Powershell instance is closed.
