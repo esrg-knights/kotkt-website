@@ -1,0 +1,5 @@
+Contact: mailto:uups-security-txt@kotkt.nl
+Contact: mailto:uups-security@wildervanck.eu
+Expires: 2027-08-01T12:00:00.000Z
+Preferred-Languages: nl, en
+Canonical: https://kotkt.nl/security.txt
