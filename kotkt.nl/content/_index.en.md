@@ -161,7 +161,7 @@ We hope to see you soon. Till then!
 
 <!-- Who is the Board? -->
 {{< headerimage
-    url="/images/board/Board.jpeg"
+    url="/images/board/Board.png"
     title="Who is the Board?"
     id="board" 
      >}}

@@ -163,7 +163,7 @@ We hopen je snel te zien. Tot dan!
 
 <!-- Wie is het Bestuur? -->
 {{< headerimage
-    url="images/board/Board.jpeg"
+    url="images/board/Board.png"
     title="Wie is het Bestuur?"
     id="board" 
      >}}
